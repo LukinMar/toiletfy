@@ -1,19 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="index.css" />
-    <script src="maps.js"></script>
+    <meta charset="utf-8" />
     <title>ToiletFY</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css" />
+  </head>
+
+  <body>
+    <div id="mapa" style="height: 500px; width: 700px"></div>
+
+    <script src="js/jquery.min.js"></script>
+
+    <!-- Maps API Javascript -->
+
     <script
       type="text/javascript"
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
     ></script>
-  </head>
-  <body onload="initialize()">
-    <div>
-        <div id="map_canvas"></div>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script src="js/infobox.js"></script>
+
+    <!-- Agrupamento dos marcadores -->
+
+    <!-- Arquivo de inicialização do mapa -->
+    <script src="js/mapa.js"></script>
   </body>
 </html>
