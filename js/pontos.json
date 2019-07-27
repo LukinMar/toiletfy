@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Latitude": -22.8781756,
+    "Longitude": -43.2742505,
+    "Descricao": "Shopping Nova América"
+  },
+  {
+    "Id": 2,
+    "Latitude": -22.9834866,
+    "Longitude": -43.214208,
+    "Descricao": "Livraria da Travessa de Ipanema"
+  },
+  {
+    "Id": 3,
+    "Latitude": -22.9124271,
+    "Longitude": -43.2949361,
+    "Descricao": "Casa Firjan"
+  },
+  {
+    "Id": 4,
+    "Latitude": -22.9483381,
+    "Longitude": -43.1653708,
+    "Descricao": "IED Rio"
+  },
+  {
+    "Id": 5,
+    "Latitude": -22.886351,
+    "Longitude": -43.2840416,
+    "Descricao": "Norte Shopping"
+  }
+]
