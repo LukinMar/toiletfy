@@ -2,10 +2,16 @@ var map;
 var idInfoBoxAberto;
 var infoBox = [];
 var markers = [];
+var marker;
+var geocoder;
+var options = {
+  enableHighAccuracy: true,
+  timeout: 5000,
+  maximumAge: 0
+};
 
 function initialize() {
   var latlng = new google.maps.LatLng(-18.8800397, -47.05878999999999);
-
   var options = {
     zoom: 5,
     center: latlng,
@@ -13,30 +19,35 @@ function initialize() {
   };
 
   map = new google.maps.Map(document.getElementById("mapa"), options);
+
+  geocoder = new google.maps.Geocoder();
+
+  marker = new google.maps.Marker({
+    map: map,
+    draggable: true
+  });
+
+  marker.setPosition(latlng);
 }
 
 initialize();
 
-// verifica se o navegador tem suporte
-if (navigator.geolocation) {
-  navigator.geolocation.getCurrentPosition(
-    function(position) {
-      // ajusta a posição do marker para a localização do usuário
-      marker.setPosition(
-        new google.maps.LatLng(
-          position.coords.latitude,
-          position.coords.longitude
-        )
-      );
-    },
-    function(error) {
-      alert("Erro ao obter localização!");
-      console.log("Erro ao obter localização.", error);
-    }
-  );
-} else {
-  console.log("Navegador não suporta Geolocalização!");
-}
+navigator.geolocation.getCurrentPosition(
+  function(position) {
+    initialLocation = new google.maps.LatLng(
+      position.coords.latitude,
+      position.coords.longitude
+    );
+    map.setCenter(initialLocation);
+    marker.setPosition(initialLocation);
+  },
+  function(error) {
+    // callback de erro
+    alert("Erro ao obter localização!");
+    console.log("Erro ao obter localização.", error);
+  },
+  options
+);
 
 function abrirInfoBox(id, marker) {
   if (
