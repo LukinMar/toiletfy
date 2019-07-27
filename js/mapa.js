@@ -42,7 +42,6 @@ navigator.geolocation.getCurrentPosition(
     marker.setPosition(initialLocation);
   },
   function(error) {
-    // callback de erro
     alert("Erro ao obter localização!");
     console.log("Erro ao obter localização.", error);
   },
