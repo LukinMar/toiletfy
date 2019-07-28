@@ -4,11 +4,7 @@ var infoBox = [];
 var markers = [];
 var marker;
 var geocoder;
-var options = {
-  enableHighAccuracy: true,
-  timeout: 5000,
-  maximumAge: 0
-};
+var me;
 
 function addYourLocationButton(map, marker) {
   var controlDiv = document.createElement("div");
@@ -58,6 +54,7 @@ function addYourLocationButton(map, marker) {
         );
         marker.setPosition(latlng);
         map.setCenter(latlng);
+        map.setZoom(17);
         clearInterval(animationInterval);
         $("#you_location_img").css("background-position", "-144px 0px");
       });
@@ -72,14 +69,209 @@ function addYourLocationButton(map, marker) {
 }
 
 function initialize() {
-  var latlng = new google.maps.LatLng(-13.6173925, -67.4012927);
-  var options = {
-    zoom: 5,
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+      function(pos) {
+        me = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude);
+        marker.setPosition(me);
+        map.setCenter(me);
+        map.setZoom(17);
+      },
+      function(error) {
+        alert("Erro ao obter localização!");
+        console.log("Erro ao obter localização.", error);
+      }
+    );
+  }
+  var latlng = new google.maps.LatLng(-22.9334923, -43.4167982);
+  var zoom = 10;
+
+  var mapOptions = {
+    enableHighAccuracy: true,
     center: latlng,
-    mapTypeId: google.maps.MapTypeId.ROADMAP
+    zoom: zoom,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    disableDefaultUI: false,
+    gestureHandling: "greedy",
+    styles: [
+      {
+        featureType: "poi",
+        stylers: [
+          {
+            visibility: "off"
+          }
+        ]
+      },
+      {
+        featureType: "transit.station.bus",
+        stylers: [
+          {
+            visibility: "off"
+          }
+        ]
+      },
+      {
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#f5f5f5"
+          }
+        ]
+      },
+      {
+        elementType: "labels.icon",
+        stylers: [
+          {
+            visibility: "off"
+          }
+        ]
+      },
+      {
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#616161"
+          }
+        ]
+      },
+      {
+        elementType: "labels.text.stroke",
+        stylers: [
+          {
+            color: "#f5f5f5"
+          }
+        ]
+      },
+      {
+        featureType: "administrative.land_parcel",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#bdbdbd"
+          }
+        ]
+      },
+      {
+        featureType: "poi",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#eeeeee"
+          }
+        ]
+      },
+      {
+        featureType: "poi",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#757575"
+          }
+        ]
+      },
+      {
+        featureType: "poi.park",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#e5e5e5"
+          }
+        ]
+      },
+      {
+        featureType: "poi.park",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#9e9e9e"
+          }
+        ]
+      },
+      {
+        featureType: "road",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#ffffff"
+          }
+        ]
+      },
+      {
+        featureType: "road.arterial",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#757575"
+          }
+        ]
+      },
+      {
+        featureType: "road.highway",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#dadada"
+          }
+        ]
+      },
+      {
+        featureType: "road.highway",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#616161"
+          }
+        ]
+      },
+      {
+        featureType: "road.local",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#9e9e9e"
+          }
+        ]
+      },
+      {
+        featureType: "transit.line",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#e5e5e5"
+          }
+        ]
+      },
+      {
+        featureType: "transit.station",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#eeeeee"
+          }
+        ]
+      },
+      {
+        featureType: "water",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#c9c9c9"
+          }
+        ]
+      },
+      {
+        featureType: "water",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#9e9e9e"
+          }
+        ]
+      }
+    ]
   };
 
-  map = new google.maps.Map(document.getElementById("mapa"), options);
+  map = new google.maps.Map(document.getElementById("mapa"), mapOptions);
 
   geocoder = new google.maps.Geocoder();
 
@@ -87,23 +279,7 @@ function initialize() {
     map: map
   });
 
-  navigator.geolocation.getCurrentPosition(
-    function(position) {
-      initialLocation = new google.maps.LatLng(
-        position.coords.latitude,
-        position.coords.longitude
-      );
-      map.setCenter(initialLocation);
-      marker.setPosition(initialLocation);
-    },
-    function(error) {
-      alert("Erro ao obter localização!");
-      console.log("Erro ao obter localização.", error);
-    },
-    options
-  );
   addYourLocationButton(map, marker);
-  marker.setPosition(latlng);
 }
 
 initialize();
@@ -156,7 +332,7 @@ function carregarPontos() {
         "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m"
     });
 
-    map.fitBounds(latlngbounds);
+    map.setCenter(latlng);
   });
 }
 
