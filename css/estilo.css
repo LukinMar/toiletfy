@@ -45,3 +45,8 @@ body {
 #nav-mobile {
   background-color: #decdee;
 }
+
+nav {
+  position: fixed;
+  z-index: 1;
+}
