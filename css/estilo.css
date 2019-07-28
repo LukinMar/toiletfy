@@ -46,7 +46,11 @@ body {
   background-color: #decdee;
 }
 
-nav {
+#menu {
   position: fixed;
   z-index: 1;
+}
+
+.sidenav-overlay {
+  z-index: 0 !important;
 }
