@@ -3,7 +3,7 @@
   width: 300px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  border: 2px solid #9966cc;
+  border: 2px solid #7d3fb8;
   border-radius: 3px;
   margin-top: 10px;
 }
@@ -13,7 +13,7 @@
 .infoBox:before {
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 10px solid #9966cc;
+  border-bottom: 10px solid #7d3fb8;
   top: -10px;
   content: "";
   height: 0;
@@ -23,15 +23,27 @@
 }
 
 #mapa {
-  height: 100%;
-  width: 100%;
   margin: 0 auto;
+  height: 100%;
 }
 
 html {
   height: 100%;
 }
-
 body {
   height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-wrapper {
+  background-color: #7d3fb8;
+}
+
+.container {
+  width: 100%;
+}
+
+#nav-mobile {
+  background-color: #decdee;
 }
