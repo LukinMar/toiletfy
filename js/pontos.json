@@ -1,32 +1,68 @@
 [
   {
     "Id": 1,
-    "Latitude": -22.8781756,
-    "Longitude": -43.2742505,
-    "Descricao": "Shopping Nova América"
+    "Latitude": -22.877839,
+    "Longitude": -43.272083,
+    "Descricao": "Shopping Nova América, Av. Pastor Martin Luther King Junior - Del Castilho, Rio de Janeiro - RJ, 20730-380"
   },
   {
     "Id": 2,
-    "Latitude": -22.9834866,
-    "Longitude": -43.214208,
-    "Descricao": "Livraria da Travessa de Ipanema"
+    "Latitude": -22.983684,
+    "Longitude": -43.212091,
+    "Descricao": "Livraria da Travessa, R. Visc. de Pirajá, 572 - Ipanema, Rio de Janeiro - RJ, 22410-002"
   },
   {
     "Id": 3,
-    "Latitude": -22.9124271,
-    "Longitude": -43.2949361,
-    "Descricao": "Casa Firjan"
+    "Latitude": -22.950151,
+    "Longitude": -43.188747,
+    "Descricao": "Casa Firjan, R. Guilhermina Guinle, 211 - Botafogo, Rio de Janeiro - RJ, 22260-001"
   },
   {
     "Id": 4,
-    "Latitude": -22.9483381,
-    "Longitude": -43.1653708,
-    "Descricao": "IED Rio"
+    "Latitude": -22.948111,
+    "Longitude": -43.162978,
+    "Descricao": "IED Rio, Av. João Luiz Alves, 13 - Urca, Rio de Janeiro - RJ, 22291-090"
   },
   {
     "Id": 5,
-    "Latitude": -22.886351,
-    "Longitude": -43.2840416,
-    "Descricao": "Norte Shopping"
+    "Latitude": -22.878174,
+    "Longitude": -43.34207,
+    "Descricao": "Praça do Patriarca, Rua Agostinho Barbalho - Madureira, Rio de Janeiro - RJ, 21310-130"
+  },
+  {
+    "Id": 6,
+    "Latitude": -22.870563,
+    "Longitude": -43.341249,
+    "Descricao": "Madureira Shopping, Estr. do Portela, 222 - Madureira, Rio de Janeiro - RJ, 21351-050"
+  },
+  {
+    "Id": 7,
+    "Latitude": -22.887122,
+    "Longitude": -43.282704,
+    "Descricao": "Norte Shopping, Av. Dom Hélder Câmara, 5200 - Cachambi, Rio de Janeiro - RJ, 20771-004"
+  },
+  {
+    "Id": 8,
+    "Latitude": -22.873982,
+    "Longitude": -43.337157,
+    "Descricao": "McDonald's, Av. Min. Edgard Romero, 101 - Madureira, Rio de Janeiro - RJ, 21350-300"
+  },
+  {
+    "Id": 9,
+    "Latitude": -22.881262,
+    "Longitude": -43.342204,
+    "Descricao": "Assaí Atacadista, R. Domingos Lopes, 195 - Madureira, Rio de Janeiro - RJ, 21310-120"
+  },
+  {
+    "Id": 10,
+    "Latitude": -22.882276,
+    "Longitude": -43.339771,
+    "Descricao": "Guanabara Campinho, Av. Ernani Cardoso, 350 - Cascadura, Rio de Janeiro - RJ, 21310-310"
+  },
+  {
+    "Id": 11,
+    "Latitude": -22.874417,
+    "Longitude": -43.340412,
+    "Descricao": "Connection Offices Madureira, R. Carolina Machado, 560 - Madureira, Rio de Janeiro - RJ, 21351-021"
   }
 ]
