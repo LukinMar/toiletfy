@@ -64,5 +64,59 @@
     "Latitude": -22.874417,
     "Longitude": -43.340412,
     "Descricao": "Connection Offices Madureira, R. Carolina Machado, 560 - Madureira, Rio de Janeiro - RJ, 21351-021"
+  },
+  {
+    "Id": 12,
+    "Latitude": -22.903479,
+    "Longitude": -43.177984,
+    "Descricao": "Estação Central do Brasil, Praça Cristiano Otoni, s/n - Subsolo, Rio de Janeiro - RJ, 20224-970 &#128176"
+  },
+  {
+    "Id": 13,
+    "Latitude": -22.907155,
+    "Longitude": -43.191344,
+    "Descricao": "Edificio Av Central, Av. Rio Branco, 156 - Centro, Rio de Janeiro - RJ, 20010-020 &#128176"
+  },
+  {
+    "Id": 14,
+    "Latitude": -27.553984,
+    "Longitude": -48.497966,
+    "Descricao": "Floripa Shopping, SC-401, 3116 - Saco Grande, Florianópolis - SC, 88032-005"
+  },
+  {
+    "Id": 15,
+    "Latitude": -27.584635,
+    "Longitude": -48.545237,
+    "Descricao": "Beiramar Park Shopping, R. Bocaiúva, 2468 - Centro, Florianópolis - SC, 88015-530"
+  },
+  {
+    "Id": 16,
+    "Latitude": -27.58996,
+    "Longitude": -48.515235,
+    "Descricao": "Shopping Iguatemi, Av. Me. Benvenuta, 687 - Santa Monica, Florianópolis - SC, 88035-000"
+  },
+  {
+    "Id": 17,
+    "Latitude": -27.585076,
+    "Longitude": -48.614492,
+    "Descricao": "Shopping Itaguaçu, R. Gerôncio Thives, 1079 - Barreiros, São José - SC, 88117-292"
+  },
+  {
+    "Id": 18,
+    "Latitude": -22.931948,
+    "Longitude": -47.078236,
+    "Descricao": "Campinas Shopping, R. Jacy Teixeira de Camargo, 940 - Jardim do Lago, Campinas - SP, 13050-913"
+  },
+  {
+    "Id": 19,
+    "Latitude": -27.601485,
+    "Longitude": -48.574853,
+    "Descricao": "Parque de Coqueiros, Av. Eng. Max de Souza, s/n - Coqueiros, Florianópolis - SC, 88080-010"
+  },
+  {
+    "Id": 20,
+    "Latitude": -23.584383,
+    "Longitude": -46.658043,
+    "Descricao": "Parque Ibirapuera, Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050"
   }
 ]
