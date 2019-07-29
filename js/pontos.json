@@ -115,8 +115,248 @@
   },
   {
     "Id": 20,
+    "Latitude": -23.570592,
+    "Longitude": -46.643578,
+    "Descricao": "Shopping Pátio Paulista, R. Treze de Maio, 1947 - Bela Vista, São Paulo - SP, 01327-001"
+  },
+  {
+    "Id": 21,
+    "Latitude": -23.563617,
+    "Longitude": -46.652925,
+    "Descricao": "Shopping Cidade São Paulo, Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100"
+  },
+  {
+    "Id": 22,
+    "Latitude": -23.199472,
+    "Longitude": -45.881537,
+    "Descricao": "CenterVale Shopping, Av. Dep. Benedito Matarazzo, 9403 - Jardim Oswaldo Cruz, São José dos Campos - SP, 12215-160"
+  },
+  {
+    "Id": 23,
+    "Latitude": -23.226032,
+    "Longitude": -45.910781,
+    "Descricao": "Spani Atacadista, Av. Cassiano Ricardo, 1501 - Jardim Alvorada, São José dos Campos - SP, 12240-540"
+  },
+  {
+    "Id": 24,
+    "Latitude": -23.21943,
+    "Longitude": -45.895493,
+    "Descricao": "Tenda Atacado, Av. Andrômeda, 200 - Jardim Satélite, São José dos Campos - SP, 12230-000"
+  },
+  {
+    "Id": 25,
+    "Latitude": -23.237551,
+    "Longitude": -45.897242,
+    "Descricao": "Hipermercado Shibata, R. Andorra, 500 - Jardim America, São José dos Campos - SP, 12235-050"
+  },
+  {
+    "Id": 26,
+    "Latitude": -23.175655,
+    "Longitude": -45.828676,
+    "Descricao": "Spani Atacadista, Av. Pedro Friggi, 1031 - Vista Verde, São José dos Campos - SP, 12223-430"
+  },
+  {
+    "Id": 27,
+    "Latitude": -22.998763,
+    "Longitude": -43.397206,
+    "Descricao": "Supermercado Zona Sul, Av. das Américas, 8888 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-081"
+  },
+  {
+    "Id": 28,
+    "Latitude": -22.930976,
+    "Longitude": -43.325211,
+    "Descricao": "Posto Ipiranga, Estr. dos Três Rios, 2141 - Jacarepaguá, Rio de Janeiro - RJ, 22745-003"
+  },
+  {
+    "Id": 29,
+    "Latitude": -22.849959,
+    "Longitude": -43.31104,
+    "Descricao": "Carioca Shopping, Av. Vicente de Carvalho, 909 - Vila da Penha, Rio de Janeiro - RJ, 21210-000"
+  },
+  {
+    "Id": 30,
+    "Latitude": -23.217861,
+    "Longitude": -45.910177,
+    "Descricao": "Aquárius Center, Av. do Tubarão, 80 - Parque Res. Aquarius, São José dos Campos - SP, 12246-140"
+  },
+  {
+    "Id": 31,
     "Latitude": -23.584383,
     "Longitude": -46.658043,
     "Descricao": "Parque Ibirapuera, Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050"
+  },
+  {
+    "Id": 32,
+    "Latitude": -23.216442,
+    "Longitude": -45.891958,
+    "Descricao": "Vale Sul Shopping, Av. Andrômeda, 227 - Jardim Satélite, São José dos Campos - SP, 12230-000"
+  },
+  {
+    "Id": 33,
+    "Latitude": -23.542383,
+    "Longitude": -46.657545,
+    "Descricao": "Pátio Higienópolis, R. Dr. Veiga Filho, 133 - Higienópolis, São Paulo - SP, 01238-000"
+  },
+  {
+    "Id": 34,
+    "Latitude": -23.181217,
+    "Longitude": -45.885476,
+    "Descricao": "Colinas Shopping, Av. São João, 2200 - Jardim das Colinas, São José dos Campos - SP, 12242-000"
+  },
+  {
+    "Id": 35,
+    "Latitude": -23.184431,
+    "Longitude": -45.885897,
+    "Descricao": "Shopping Centro, R. Rubião Júnior, 84 - Centro, São José dos Campos - SP, 12210-180"
+  },
+  {
+    "Id": 36,
+    "Latitude": -23.203069,
+    "Longitude": -45.883799,
+    "Descricao": "Extra, Av. Dr. Nelson d'Ávila, 1941 - Jd. Osvaldo, São José dos Campos - SP, 12245-030"
+  },
+  {
+    "Id": 37,
+    "Latitude": -23.241801,
+    "Longitude": -45.904708,
+    "Descricao": "Coop - Morumbi, Av. Dr. João Batista de Souza Soares, 2185 - Jardim Morumbi, São José dos Campos - SP, 12235-200"
+  },
+  {
+    "Id": 38,
+    "Latitude": -23.188168,
+    "Longitude": -45.792812,
+    "Descricao": "Coop - Novo Horizonte, Av. Pres. Tancredo Neves - Jardim Nova Michigan, São José dos Campos - SP, 12225-000"
+  },
+  {
+    "Id": 39,
+    "Latitude": -23.558308,
+    "Longitude": -46.659617,
+    "Descricao": "Shopping Center 3, Av. Paulista, 2064 - Cerqueira César, São Paulo - SP, 01310-928"
+  },
+  {
+    "Id": 40,
+    "Latitude": -23.222169,
+    "Longitude": -45.888508,
+    "Descricao": "Espaço Andrômeda, Av. Andrômeda, 693 - Jardim Satélite, São José dos Campos - SP, 12230-000"
+  },
+  {
+    "Id": 41,
+    "Latitude": -23.193567,
+    "Longitude": -45.878209,
+    "Descricao": "Terminal Rodoviário Frederico Ozanam, R. Itororó, 221 - Vila Piratininga, São José dos Campos - SP, 12216-440 &#128176"
+  },
+  {
+    "Id": 42,
+    "Latitude": -3.094399,
+    "Longitude": -60.023329,
+    "Descricao": "Amazonas Shopping, AV. Djalma Batista, 482 - 317 - Parque Dez de Novembro, Manaus - AM, 69050-010"
+  },
+  {
+    "Id": 43,
+    "Latitude": -3.104212,
+    "Longitude": -60.012162,
+    "Descricao": "Manauara Shopping, Av. Mário Ypiranga, 1300 - Adrianópolis, Manaus - AM, 69057-002"
+  },
+  {
+    "Id": 44,
+    "Latitude": -3.10131,
+    "Longitude": -60.02531,
+    "Descricao": "Millennium Shopping, Av. Djalma Batista, 1661 - Loja 288 - Chapada, Manaus - AM, 69050-010"
+  },
+  {
+    "Id": 45,
+    "Latitude": -3.084791,
+    "Longitude": -60.072449,
+    "Descricao": "Shopping Ponta Negra, Av. Coronel Teixeira, 5705 - Ponta Negra, Manaus - AM, 69037-000"
+  },
+  {
+    "Id": 46,
+    "Latitude": -23.207522,
+    "Longitude": -45.906093,
+    "Descricao": "Extra Hiper, Av. Jorge Zarur, 100 - Jardim Apolo, São José dos Campos - SP, 12243-081"
+  },
+  {
+    "Id": 47,
+    "Latitude": -22.930976,
+    "Longitude": -43.325211,
+    "Descricao": "Posto Ipiranga, Estr. dos Três Rios, 2141 - Jacarepaguá, Rio de Janeiro - RJ, 22745-003"
+  },
+  {
+    "Id": 48,
+    "Latitude": -22.91505,
+    "Longitude": -43.179062,
+    "Descricao": "Bar e Restaurante Os Ximenes, R. Joaquim Silva, 82 - Centro, Rio de Janeiro - RJ, 20241-110"
+  },
+  {
+    "Id": 49,
+    "Latitude": -22.902726,
+    "Longitude": -43.187063,
+    "Descricao": "Centro Cultural Light, Av. Mal. Floriano, 168 - Centro, Rio de Janeiro - RJ, 20080-002"
+  },
+  {
+    "Id": 50,
+    "Latitude": -22.903305,
+    "Longitude": -43.178112,
+    "Descricao": "Work Café Santander, Av. Rio Branco, 115 - Centro, Rio de Janeiro - RJ, 20040-031"
+  },
+  {
+    "Id": 51,
+    "Latitude": -22.903837,
+    "Longitude": -43.178258,
+    "Descricao": "Burger King, Av. Rio Branco, 102 - Centro, Rio de Janeiro - RJ, 20040-001"
+  },
+  {
+    "Id": 52,
+    "Latitude": -22.904547,
+    "Longitude": -43.175544,
+    "Descricao": "Starbucks, R. do Carmo, 11 - Centro, Rio de Janeiro - RJ, 20011-020"
+  },
+  {
+    "Id": 53,
+    "Latitude": -22.924908,
+    "Longitude": -43.234176,
+    "Descricao": "Casa do Pão, Rua Conde de Bonfim, 306 - Tijuca, Rio de Janeiro - RJ, 20520-051"
+  },
+  {
+    "Id": 54,
+    "Latitude": -22.901319,
+    "Longitude": -43.192085,
+    "Descricao": "Banheiros Express, R. Barão de São Félix, 148 - Centro, Rio de Janeiro - RJ, 20221-424"
+  },
+  {
+    "Id": 55,
+    "Latitude": -22.837044,
+    "Longitude": -43.317562,
+    "Descricao": "Posto Shell, Av. Braz de Pina, 1823 - Brás de Pina, Rio de Janeiro - RJ, 21235-602"
+  },
+  {
+    "Id": 56,
+    "Latitude": -22.935731,
+    "Longitude": -43.183881,
+    "Descricao": "Posto Shell, R. Pinheiro Machado, 83 - Laranjeiras, Rio de Janeiro - RJ, 22231-090"
+  },
+  {
+    "Id": 57,
+    "Latitude": -22.951604,
+    "Longitude": -43.184757,
+    "Descricao": "Livraria da Travessa, R. Voluntários da Pátria, 97 - Botafogo, Rio de Janeiro - RJ, 22270-000"
+  },
+  {
+    "Id": 58,
+    "Latitude": -22.998768,
+    "Longitude": -43.35127,
+    "Descricao": "VillageMall, Av. das Américas, 3900 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-102"
+  },
+  {
+    "Id": 59,
+    "Latitude": -22.874878,
+    "Longitude": -43.339746,
+    "Descricao": "Óticas Gassi, R. Carolina Machado, 530 - Madureira, Rio de Janeiro - RJ, 21351-021"
+  },
+  {
+    "Id": 60,
+    "Latitude": -22.902118,
+    "Longitude": -43.180434,
+    "Descricao": "Óticas Gassi, Av. Pres. Vargas, 529 - Centro, Rio de Janeiro - RJ, 20071-004"
   }
 ]
