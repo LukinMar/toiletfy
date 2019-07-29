@@ -57,7 +57,7 @@
     "Id": 10,
     "Latitude": -22.882276,
     "Longitude": -43.339771,
-    "Descricao": "Guanabara Campinho, Av. Ernani Cardoso, 350 - Cascadura, Rio de Janeiro - RJ, 21310-310"
+    "Descricao": "Supermercados Guanabara, Av. Ernani Cardoso, 350 - Cascadura, Rio de Janeiro - RJ, 21310-310"
   },
   {
     "Id": 11,
@@ -358,5 +358,53 @@
     "Latitude": -22.902118,
     "Longitude": -43.180434,
     "Descricao": "Óticas Gassi, Av. Pres. Vargas, 529 - Centro, Rio de Janeiro - RJ, 20071-004"
+  },
+  {
+    "Id": 61,
+    "Latitude": -23.181221,
+    "Longitude": -45.885482,
+    "Descricao": "Shopping Calçadão, R. Sebastião Humel, 268 - Centro, São José dos Campos - SP, 12210-200"
+  },
+  {
+    "Id": 62,
+    "Latitude": -23.229376,
+    "Longitude": -45.9115,
+    "Descricao": "Telhanorte, Av. Cassiano Ricardo, 2183 - Jardim Alvorada, São José dos Campos - SP, 12240-540"
+  },
+  {
+    "Id": 62,
+    "Latitude": -23.200044,
+    "Longitude": -45.891564,
+    "Descricao": "Parque Santos Dumon, R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750"
+  },
+  {
+    "Id": 63,
+    "Latitude": -23.219017,
+    "Longitude": -45.896097,
+    "Descricao": "Decathlon, R. Andaraí, 400 - Jardim Satélite, São José dos Campos - SP, 12230-290"
+  },
+  {
+    "Id": 64,
+    "Latitude": -23.217747,
+    "Longitude": -45.895422,
+    "Descricao": "Leroy Merlin, R. Andaraí, 400 - Jardim Satélite, São José dos Campos - SP, 12230-290"
+  },
+  {
+    "Id": 65,
+    "Latitude": -22.883449,
+    "Longitude": -43.343711,
+    "Descricao": "Prezunic, R. Cândido Benício, 20 - Campinho, Rio de Janeiro - RJ, 21320-060"
+  },
+  {
+    "Id": 66,
+    "Latitude": -22.876314,
+    "Longitude": -43.371294,
+    "Descricao": "Supermercados Guanabara, Estrada Intendente Magalhães, 1236 - Mal. Hermes, Rio de Janeiro - RJ, 21331-720"
+  },
+  {
+    "Id": 67,
+    "Latitude": -22.876536,
+    "Longitude": -43.370941,
+    "Descricao": "McDonald's, Estrada Intendente Magalhães, 1212/1214 - Vila Valqueire, Rio de Janeiro - RJ, 21331-720"
   }
 ]
