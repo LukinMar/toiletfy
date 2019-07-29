@@ -1,6 +1,6 @@
 # ToiletFY
  
-<p> Conversando com um amigo sobre ideias de projetinhos pra fazer, ai surgiu a ideia de fazer um sistema que mostra onde tem banheiro, se ele é de graça ou se tem que pagar, perto da localização da pessoa usando a API do Google Maps. </p>
+<p> Conversando com um amigo sobre ideias de projetinhos pra fazer, surgiu a ideia de fazer um sistema que mostra onde tem banheiro, se ele é de graça ou se tem que pagar, perto da localização da pessoa usando a API do Google Maps. </p>
 
 <p> Contribuições são bem vindas! </p>
 
