@@ -406,5 +406,23 @@
     "Latitude": -22.876536,
     "Longitude": -43.370941,
     "Descricao": "McDonald's, Estrada Intendente Magalhães, 1212/1214 - Vila Valqueire, Rio de Janeiro - RJ, 21331-720"
+  },
+  {
+    "Id": 68,
+    "Latitude": -26.222192,
+    "Longitude": -52.680894,
+    "Descricao": "Rodoviária de Pato Branco, R. Paraná, 1784 - Centro, Pato Branco - PR, 85501-364 &#128176   "
+  },
+  {
+    "Id": 69,
+    "Latitude": -26.227163,
+    "Longitude": -52.672049,
+    "Descricao": "Banheiro público de Pato Branco, Praça Presidente Vargas, Centro, Pato Branco - PR, 85501-030"
+  },
+  {
+    "Id": 70,
+    "Latitude": -27.597413,
+    "Longitude": -48.55099,
+    "Descricao": "McDonald's, R. Trajano, 114 - Centro, Florianópolis - SC, 88010-010"
   }
 ]
