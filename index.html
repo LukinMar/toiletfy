@@ -8,6 +8,10 @@
     <title>Toilet FY</title>
   </head>
   <body>
+    <div class="preloader">
+        <div class='pin bounce'></div>
+        <div class='pulse'></div>
+    </div>
     <nav id="menu">
         <div class="nav-wrapper">
         <a class="brand-logo center">ToiletFY</a>
@@ -24,26 +28,27 @@
       </div>
     </nav>
     <div id="mapa" style="width:100%; height:100%"></div>
+
+
+
     <script src="js/jquery.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
-    ></script>
-    <link rel="stylesheet" type="text/css" href="css/estilo.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
-    />
-    <link
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet"
-    />  
+    <script type="text/javascript"src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"></script>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>  
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.js"></script>
     <script src="js/init.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script src="js/infobox.js"></script>
     <script src="js/mapa.js"></script>
+    <script>
+        $(window).on("load", function () {
+            $('.preloader').fadeOut(3500);
+        });
+    </script>   
+
+
   </body>
 </html>
 
