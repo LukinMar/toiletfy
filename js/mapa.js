@@ -332,8 +332,6 @@ function carregarPontos() {
         "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
       maxZoom: 10
     });
-
-    map.setCenter(latlng);
   });
 }
 
