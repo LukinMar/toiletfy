@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
     <title>Solicitar marcador</title>
+</head>
 <body>
 
     <nav>
@@ -26,15 +27,26 @@
 <div class="containers">  
   <form id="contacts" action="" method="post">
     <h3>Solicitação de marcador</h3>
-    <h4></h4>
+    <br>
     <fieldset class="fs">
       <input id="nome" name="nome" placeholder="Nome" type="text" tabindex="1" required autofocus>
     </fieldset>
     <fieldset class="fs">
-      <input id="email" name="email" placeholder="Email" type="email" tabindex="2" required>
+      <input  class="input-field id="email" name="email" placeholder="Email" type="email" tabindex="2" required>
     </fieldset>
     <fieldset class="fs"> 
-      <textarea id="mensagem" name="mensagem" placeholder="Endereço" tabindex="5" required></textarea>
+      <textarea  class="input-field id="mensagem" name="mensagem" placeholder="Endereço" tabindex="5" required></textarea>
+    </fieldset>
+    <fieldset class="fs" id="legend">
+      <legend>Necessita pagamento para usar?</legend>
+      <div>
+          <input type="radio" name="confirmacao" value="sim">
+          <label for="huey">Sim</label>
+      </div>
+        <div>
+          <input type="radio" name="confirmacao" value="não" checked>
+          <label for="dewey">Não</label>
+        </div>
     </fieldset>
     <fieldset class="fs">
       <button id="submit" name="submit" type="submit" id="contact-submit" data-submit="Enviando...">Enviar</button>
