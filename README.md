@@ -4,7 +4,8 @@
 
 <p> Contribuições são bem vindas! </p>
 
-<a href="https://apptoiletfy.000webhostapp.com/">TOILETFY</a>
+<a href="https://apptoiletfy.000webhostapp.com/">TOILETFY</a><br><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/viewform?vc=0&c=0&w=1">Contribuição de novos locais</a>
 <hr>
 
 I was talking to a friend about small project ideas, then came the idea of developing a system that shows where there are bathrooms,
@@ -12,6 +13,7 @@ if it's free or if you have to pay near the person's location using the Google M
 
 <p> Feel free to leave your contribution! </p>
 
-<a href="https://apptoiletfy.000webhostapp.com/">TOILETFY</a>
+<a href="https://apptoiletfy.000webhostapp.com/">TOILETFY</a><br><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/viewform?vc=0&c=0&w=1">Add new locations</a>
 
 <p align="center"><img src="https://i.imgur.com/ehd8Tg2.png" width="350" target="_blank" alt="logo-toiletfy"/></p>
