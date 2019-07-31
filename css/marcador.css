@@ -122,11 +122,10 @@ body {
   color: #fff;
 }
 
-input[type="radio"]:not(:checked),
-[type="radio"]:checked {
-  position: inherit !important;
-  opacity: 100 !important;
-  pointer-events: auto;
+input[type="hidden"]:not(:checked),
+[type="hidden"]:checked {
+  background-color: #9966cc;
+  opacity: 0 !important;
 }
 
 label {
@@ -149,4 +148,27 @@ textarea:focus {
 input:focus {
   border-bottom: 1px solid #7d3fb8 !important;
   box-shadow: 0 1px 0 0 #7d3fb8 !important;
+}
+
+html {
+  width: 100%;
+}
+
+body.freebirdFormviewerViewEmbedded {
+  padding-top: 50px !important;
+}
+
+input[type="radio"]:checked + span:after,
+[type="radio"].with-gap:checked + span:after {
+  background-color: #7d3fb8;
+}
+
+input[type="radio"]:checked + span:after,
+[type="radio"].with-gap:checked + span:before,
+[type="radio"].with-gap:checked + span:after {
+  border: 2px solid #7d3fb8;
+}
+
+#valorinput {
+  display: none !important;
 }
