@@ -1,67 +1,98 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="img/favicon-16x16.png"
+    />
     <title>Solicitar marcador</title>
-</head>
-<body>
-
+  </head>
+  <body>
     <nav>
-        <div class="nav-wrapper">
+      <div class="nav-wrapper">
         <a class="brand-logo center">ToiletFY</a>
         <ul class="right hide-on-med-and-down">
-            <li><a href="index.html"><i class="material-icons">home</i></a></li>
-            <li><a href="sobre.html"><i class="material-icons">info</i></a></li>
+          <li>
+            <a href="index.html"><i class="material-icons">home</i></a>
+          </li>
+          <li>
+            <a href="sobre.html"><i class="material-icons">info</i></a>
+          </li>
         </ul>
-        
-        <ul id="nav-mobile" class="sidenav">
-            <li><a href="index.html"><i class="material-icons">home</i>Página inicial</a></li>
-            <hr>
-            <li><a href="sobre.html"><i class="material-icons">info</i>Sobre</a></li>
-            <hr>
-        </ul>
-        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-        </div>
-    </nav>
 
-<div class="containers">  
-  <form id="contacts" action="" method="post">
-    <h3>Solicitação de marcador</h3>
-    <br>
-    <fieldset class="fs">
-      <input id="nome" name="nome" placeholder="Nome" type="text" tabindex="1" required autofocus>
-    </fieldset>
-    <fieldset class="fs">
-      <input  class="input-field id="email" name="email" placeholder="Email" type="email" tabindex="2" required>
-    </fieldset>
-    <fieldset class="fs"> 
-      <textarea  class="input-field id="mensagem" name="mensagem" placeholder="Endereço" tabindex="5" required></textarea>
-    </fieldset>
-    <fieldset class="fs" id="legend">
-      <legend>Necessita pagamento para usar?</legend>
-      <div>
-          <input type="radio" name="confirmacao" value="sim">
-          <label for="huey">Sim</label>
+        <ul id="nav-mobile" class="sidenav">
+          <li>
+            <a href="index.html"
+              ><i class="material-icons">home</i>Página inicial</a
+            >
+          </li>
+          <hr />
+          <li>
+            <a href="sobre.html"><i class="material-icons">info</i>Sobre</a>
+          </li>
+          <hr />
+        </ul>
+        <a href="#" data-target="nav-mobile" class="sidenav-trigger"
+          ><i class="material-icons">menu</i></a
+        >
       </div>
-        <div>
-          <input type="radio" name="confirmacao" value="não" checked>
-          <label for="dewey">Não</label>
-        </div>
-    </fieldset>
-    <fieldset class="fs">
-      <button id="submit" name="submit" type="submit" id="contact-submit" data-submit="Enviando...">Enviar</button>
-    </fieldset>
-  </form>
-</div>
-<script src="js/jquery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="css/materialize.min.css"/>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/> 
-<link rel="stylesheet" type="text/css" href="css/estilo.css" />
-<link rel="stylesheet" type="text/css" href="css/marcador.css" />
-<script src="js/materialize.js"></script>
-<script src="js/init.js"></script>
-</body>
+    </nav>
+    <div class="containers">  
+      <form id="contacts" action="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/formResponse" method="post" target="_self" id="mG61Hd">
+        <h3>Solicitação de marcador</h3>
+        <br>
+        <input id="nome" name="entry.1361815311" placeholder="Seu nome" type="text" tabindex="1" autofocus>
+      </fieldset>
+      <fieldset class="fs">
+        <input  class="input-field" name="entry.2039486100" placeholder="Nome do local" type="text" tabindex="2" required>
+      </fieldset>
+      <fieldset class="fs"> 
+        <textarea  class="input-field"  name="entry.1169249885" placeholder="Endereço" tabindex="5" required></textarea>
+      </fieldset>
+        <fieldset class="fs" id="legend">
+          <legend>Necessita pagamento para usar?</legend>
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+          <p></p>
+           <label>
+              <input name="group1" type="radio" id="valor" value="Sim">
+              <span>Sim</span>
+            </label>
+          </p>
+          <p>
+            <label>
+              <input name="group1" type="radio" id="valor" value="Não" checked>
+              <span>Não</span>
+            </label>
+          </p>
+        </fieldset>
+        <fieldset class="fs">
+            <input id="valorinput" type="text" name="entry.758726952" value="Não">  
+          <button id="submit" name="submit" type="submit" id="contact-submit" data-submit="Enviando...">Enviar</button>
+        </fieldset>
+      </form>
+      <br><p align=center id="lukinmar">Desenvolvido por Lucas Martins - LukinMar</p>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/materialize.min.css" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="css/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="css/marcador.css" />
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+    <script id="base-js" src="https://www.gstatic.com/_/freebird/_/js/k=freebird.v.pt_BR.BRuqPXBT82Y.O/d=1/rs=AMjVe6i0CftiZtE_TW5fsIHLoGuxPYbbTQ/m=viewer_base" nonce=""></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$('input[id=valor]').change(function (e) {
+  $('#valorinput').val(e.target.value)
+})
+</script>
+  </body>
 </html>
