@@ -421,8 +421,44 @@
   },
   {
     "Id": 71,
+    "Latitude": -29.999615,
+    "Longitude": -51.131404,
+    "Descricao": "Porto Alegre CenterLar,Av. Sertório, 8000 - Sarandi, Porto Alegre - RS, 91130-720"
+  },
+  {
+    "Id": 72,
     "Latitude": -27.597413,
     "Longitude": -48.55099,
     "Descricao": "McDonald's, R. Trajano, 114 - Centro, Florianópolis - SC, 88010-010"
+  },
+  {
+    "Id": 73,
+    "Latitude": -30.009902,
+    "Longitude": -51.151783,
+    "Descricao": "Shopping Lindóia, Av. Assis Brasil, 3522 - Jardim Lindoia, Porto Alegre - RS, 91010-007"
+  },
+  {
+    "Id": 74,
+    "Latitude": -29.998018,
+    "Longitude": -51.144081,
+    "Descricao": "Sertório StripCenter, Av. Sertório, 6315 - São Sebastião, Porto Alegre - RS, 91060-591"
+  },
+  {
+    "Id": 75,
+    "Latitude": -22.878012,
+    "Longitude": -43.362028,
+    "Descricao": "Posto Shell, Estrada Intendente Magalhães, 821 - Bento Ribeiro, Rio de Janeiro - RJ, 21331-596"
+  },
+  {
+    "Id": 76,
+    "Latitude": -22.885509,
+    "Longitude": -43.402108,
+    "Descricao": "Parque Shopping Sulacap, Av. Marechal Fontenele, 3545 - Jardim Sulacap, Rio de Janeiro - RJ, 21740-001"
+  },
+  {
+    "Id": 77,
+    "Latitude": -22.885084,
+    "Longitude": -43.404482,
+    "Descricao": "Carrefour Hipermercado, Av. Marechal Fontenele, 3555 - Jardim Sulacap, Rio de Janeiro - RJ, 21740-001"
   }
 ]
