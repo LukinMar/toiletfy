@@ -77,10 +77,7 @@ function initialize() {
         map.setCenter(me);
         map.setZoom(17);
       },
-      function(error) {
-        alert("Erro ao obter localização!");
-        console.log("Erro ao obter localização.", error);
-      }
+      function(error) {}
     );
   }
   var latlng = new google.maps.LatLng(-22.9334923, -43.4167982);
