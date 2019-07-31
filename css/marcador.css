@@ -176,3 +176,30 @@ input[type="radio"]:checked + span:after,
 #lukinmar {
   color: white !important;
 }
+
+.btn i {
+  font-size: 1rem;
+  margin-right: 2px;
+}
+
+.btn,
+.btn-large,
+.btn-small {
+  cursor: pointer;
+  width: 100%;
+  border-radius: 50px;
+  color: #ffffff;
+  background-color: #7d3fb8 !important;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  border: none;
+  -webkit-box-shadow: 0px !important;
+  box-shadow: 0px !important;
+}
+
+.btn:hover,
+.btn-large:hover,
+.btn-small:hover {
+  background: #decdee !important;
+  color: black;
+}
