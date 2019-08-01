@@ -216,7 +216,6 @@ input[type="radio"]:checked + span:after,
 
 .material-icons {
   font-size: 1rem !important;
-  margin-right: -2px !important;
   font-size: 24px !important;
 }
 
