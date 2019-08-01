@@ -1,4 +1,4 @@
-var map;
+﻿var map;
 var marker;
 var geocoder;
 var me;
@@ -105,7 +105,7 @@ function initialize() {
         map.setZoom(17);
       },
       function(error) {
-        alert("nao foi possivel");
+        alert("Não foi possível usar a sua localização");
       }
     );
   }
