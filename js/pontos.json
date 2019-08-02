@@ -460,5 +460,29 @@
     "Latitude": -22.885084,
     "Longitude": -43.404482,
     "Descricao": "Carrefour Hipermercado, Av. Marechal Fontenele, 3555 - Jardim Sulacap, Rio de Janeiro - RJ, 21740-001     <br><br>  <a href='https://www.google.com.br/maps/place/Carrefour+Hipermercado/@-22.8860444,-43.4067412,17z/data=!3m1!4b1!4m5!3m4!1s0x9962011e12fcd7:0x1e9e35d7b6078c94!8m2!3d-22.8860444!4d-43.4045525' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 78,
+    "Latitude": -22.877316,
+    "Longitude": -43.367897,
+    "Descricao": "Habib's, Estrada Intendente Magalhães, 1055 - Vila Valqueire, Rio de Janeiro - RJ, 21330-790 <br><br>  <a href='https://www.google.com.br/maps/place/Habibs/@-22.8773355,-43.3680138,21z/data=!4m5!3m4!1s0x9962f588c71269:0x9f525819cabd5cb!8m2!3d-22.877376!4d-43.3678965' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 79,
+    "Latitude": -22.882992,
+    "Longitude": -43.340724,
+    "Descricao": "Habib's, Av. Ernani Cardoso, 409 - Campinho, Rio de Janeiro - RJ, 21310-310 <br><br>  <a href='https://www.google.com.br/maps/place/Habibs/@-22.8830623,-43.342884,17z/data=!3m1!4b1!4m5!3m4!1s0x9962c5a4bcbc01:0xfa36cdcd45650b68!8m2!3d-22.8830673!4d-43.3406953' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 80,
+    "Latitude": -23.6272199,
+    "Longitude": -46.6582618,
+    "Descricao": "Aeroporto de Congonhas (CGH), Av. Washington Luís, s/nº - Vila Congonhas, São Paulo - SP, 04626-911 <br><br>  <a href='https://www.google.com.br/maps/place/Aeroporto+de+S%C3%A3o+Paulo%2FCongonhas/@-23.6272199,-46.6582618,16.5z/data=!4m5!3m4!1s0x94ce5a7ab9d400f3:0x3ae70697e64d7085!8m2!3d-23.6273246!4d-46.6565842' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 81,
+    "Latitude": -25.533207,
+    "Longitude": -49.173361,
+    "Descricao": "Aeroporto Internacional Afonso Pena, Av. Rocha Pombo - Águas Belas, São José dos Pinhais - PR, 83010-900     <br><br>  <a href='https://www.google.com.br/maps/place/Aeroporto+Internacional+Afonso+Pena/@-25.5327083,-49.1746698,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x94dcf0cd7067d971:0x22badb345314e9e2!2sAeroporto+Internacional+Afonso+Pena!8m2!3d-25.5327132!4d-49.1724811!3m4!1s0x94dcf0cd7067d971:0x22badb345314e9e2!8m2!3d-25.5327132!4d-49.1724811' target='_blank'>Visualize no Google Maps</a>"
   }
 ]
