@@ -67,14 +67,14 @@
   },
   {
     "Id": 12,
-    "Latitude": -22.903479,
-    "Longitude": -43.177984,
+    "Latitude": -22.903371,
+    "Longitude": -43.191515,
     "Descricao": "Estação Central do Brasil, Praça Cristiano Otoni, s/n - Subsolo, Rio de Janeiro - RJ, 20224-970 <br><br> Necessita pagamento &#128176 <br><br> <a href='https://www.google.com.br/maps/place/Loja+RioCard+-+Central+Do+Brasil/@-22.903534,-43.1937357,17z/data=!3m1!4b1!4m5!3m4!1s0x997f6a57a33d8b:0xa1fb5cd1d4664acf!8m2!3d-22.903534!4d-43.191547' target='_blank'>Visualize no Google Maps</a>"
   },
   {
     "Id": 13,
-    "Latitude": -22.907155,
-    "Longitude": -43.191344,
+    "Latitude": -22.906956,
+    "Longitude": -43.177471,
     "Descricao": "Edificio Av Central, Av. Rio Branco, 156 - Centro, Rio de Janeiro - RJ, 20010-020 <br><br> Necessita pagamento &#128176 <br><br> <a href='https://www.google.com.br/maps/place/Edif%C3%ADcio+Avenida+Central/@-22.9070214,-43.1796623,17z/data=!4m8!1m2!2m1!1sEdificio+Av+Central,+Av.+Rio+Branco,+156+-+Centro,+Rio+de+Janeiro+-+RJ,+20010-020!3m4!1s0x997f5e48884d93:0x9130379ead8350f6!8m2!3d-22.9069755!4d-43.1774714' target='_blank'>Visualize no Google Maps</a>"
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "Id": 34,
-    "Latitude": -23.181217,
-    "Longitude": -45.885476,
+    "Latitude": -23.204063,
+    "Longitude": -45.908786,
     "Descricao": "Colinas Shopping, Av. São João, 2200 - Jardim das Colinas, São José dos Campos - SP, 12242-000 <br><br> <a href='https://www.google.com.br/maps/place/Colinas+Shopping/@-23.204137,-45.9109107,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc358f35383591:0x85c69b0ac1101aa4!8m2!3d-23.204137!4d-45.908722' target='_blank'>Visualize no Google Maps</a>"
   },
   {
@@ -295,14 +295,14 @@
   },
   {
     "Id": 50,
-    "Latitude": -22.9032944,
-    "Longitude": -43.1802765,
+    "Latitude": -22.903283,
+    "Longitude": -43.178096,
     "Descricao": "Work Café Santander, Av. Rio Branco, 115 - Centro, Rio de Janeiro - RJ, 20040-031 <br><br> <a href='https://www.google.com.br/maps/place/Work+Caf%C3%A9+Santander/@-22.9032944,-43.1802765,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8ef24cedb1:0xd3c70c16f5719fed!8m2!3d-22.9032944!4d-43.1780878' target='_blank'>Visualize no Google Maps</a>"
   },
   {
     "Id": 51,
-    "Latitude": -22.9038305,
-    "Longitude": -43.1804632,
+    "Latitude": -22.903828,
+    "Longitude": -43.178272,
     "Descricao": "Burger King, Av. Rio Branco, 102 - Centro, Rio de Janeiro - RJ, 20040-001 <br><br> <a href='https://www.google.com.br/maps/place/Burger+King/@-22.9038305,-43.1804632,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5e5f6342c9:0xf6018ea6cf83f7!8m2!3d-22.9038305!4d-43.1782745' target='_blank'>Visualize no Google Maps</a>"
   },
   {
@@ -321,7 +321,7 @@
     "Id": 54,
     "Latitude": -22.901319,
     "Longitude": -43.192085,
-    "Descricao": "Banheiros Express, R. Barão de São Félix, 148 - Centro, Rio de Janeiro - RJ, 20221-424 https://www.google.com.br/maps/place/Banheiros+Express/@-22.9013244,-43.1926363,19z/data=!3m1!4b1!4m5!3m4!1s0x997fd5cdf0ea4d:0x91ceb08ad850bf0b!8m2!3d-22.9013244!4d-43.1920891"
+    "Descricao": "Banheiros Express, R. Barão de São Félix, 148 - Centro, Rio de Janeiro - RJ, 20221-424 <br><br> <a href='https://www.google.com.br/maps/place/Banheiros+Express/@-22.9013244,-43.1926363,19z/data=!3m1!4b1!4m5!3m4!1s0x997fd5cdf0ea4d:0x91ceb08ad850bf0b!8m2!3d-22.9013244!4d-43.1920891'target='_blank'>Visualize no Google Maps</a>"
   },
   {
     "Id": 55,
@@ -423,7 +423,7 @@
     "Id": 71,
     "Latitude": -29.999615,
     "Longitude": -51.131404,
-    "Descricao": "Porto Alegre CenterLar,Av. Sertório, 8000 - Sarandi, Porto Alegre - RS, 91130-720 <br><br> <a href='https://www.google.com.br/maps/place/Porto+Alegre+CenterLar/@-29.9994522,-51.1334528,17z/data=!3m1!4b1!4m5!3m4!1s0x951976fb7382a5dd:0xec64601456718561!8m2!3d-29.9994569!4d-51.1312641>Visualize no Google Maps</a>"
+    "Descricao": "Porto Alegre CenterLar, Av. Sertório, 8000 - Sarandi, Porto Alegre - RS, 91130-720 <br><br> <a href='https://www.google.com.br/maps/place/Porto+Alegre+CenterLar/@-29.9994522,-51.1334528,17z/data=!3m1!4b1!4m5!3m4!1s0x951976fb7382a5dd:0xec64601456718561!8m2!3d-29.9994569!4d-51.1312641>Visualize no Google Maps</a>"
   },
   {
     "Id": 72,
