@@ -568,5 +568,35 @@
     "Latitude": -22.883396,
     "Longitude": -43.291064,
     "Descricao": "Assaí Atacadista, Av. Dom Hélder Câmara, 6350 - Pilares, Rio de Janeiro - RJ, 20771-001   <br><br>  <a href='https://www.google.com.br/maps/place/Assa%C3%AD+Atacadista/@-22.8855127,-43.2964318,15.88z/data=!4m8!1m2!2m1!1sassai!3m4!1s0x0:0x836e2b7f0d078c1c!8m2!3d-22.8829734!4d-43.2903171?hl=pt-BR' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 96,
+    "Latitude": -19.821152,
+    "Longitude": -43.947542,
+    "Descricao": "Estação BH, Av. Cristiano Machado, 11833 - Venda Nova, Belo Horizonte - MG, 31744-007   <br><br>  <a href='https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+BH/@-19.8211469,-43.9497418,17z/data=!3m1!4b1!4m5!3m4!1s0xa68ff65605088f:0x2a4d448788eb44c6!8m2!3d-19.821152!4d-43.9475531?hl=pt-BR' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 97,
+    "Latitude": -19.809479,
+    "Longitude": -43.969656,
+    "Descricao": "Estação Venda Nova, R. Venda Nova - Esplanada da Estacao, Itabira - MG, 35900-171 <br><br> Necessita pagamento &#128176 <br><br>  <a href='https://www.google.com.br/maps/place/Estacao+Venda+Nova/@-19.8092818,-43.9690332,17z/data=!4m8!1m2!2m1!1zRXN0YcOnw6NvIHZlbmRhIG5vdmE!3m4!1s0xa68fc6fe890f2d:0x609990f3746c4ee4!8m2!3d-19.8095213!4d-43.9696501?hl=pt-BR' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 98,
+    "Latitude": -19.814882,
+    "Longitude": -43.958803,
+    "Descricao": "Shopping Saveiro Center, R. Padre Pedro Pinto, 974 - Venda Nova, Belo Horizonte - MG, 31610-00 <br><br> <a href='https://www.google.com.br/maps/place/Shopping+Saveiro+Center/@-19.8151084,-43.9590676,20z/data=!4m5!3m4!1s0xa68febe2165955:0x6097973c3f2fb416!8m2!3d-19.8148574!4d-43.9587919?hl=pt-BR' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 99,
+    "Latitude": -19.874596,
+    "Longitude": -43.925571,
+    "Descricao": "Minas Shopping, Av. Cristiano Machado, 4000 - União, Belo Horizonte - MG, 31160-900 <br><br> <a href='https://www.google.com.br/maps/place/Minas+Shopping/@-19.8743186,-43.9282858,17z/data=!4m8!1m2!2m1!1sMinas+shopping!3m4!1s0xa69a8b1ff70771:0x1677e11239672684!8m2!3d-19.8745753!4d-43.9255357?hl=pt-BR' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 100,
+    "Latitude": -19.913798,
+    "Longitude": -43.941844,
+    "Descricao": "Rodoviária de Belo Horizonte, Av. do Contorno, 340 - Santa Efigênia, Belo Horizonte - MG, 30110-017 <br><br> Necessita pagamento &#128176 <br><br> <a href=' https://www.google.com.br/maps/place/Rodovi%C3%A1ria+de+Belo+Horizonte/@-19.9137925,-43.943979,17z/data=!3m1!4b1!4m5!3m4!1s0xa699fe709a2365:0x1274ee95c9f8cf98!8m2!3d-19.9137976!4d-43.9417903?hl=pt-BR' target='_blank'>Visualize no Google Maps</a>"
   }
 ]
