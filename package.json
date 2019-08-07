@@ -1,8 +1,0 @@
-{
-  "name": "toiletfy",
-  "description": "a really cool app",
-  "version": "1.3.2",
-  "engines": {
-    "node": "10.3.0"
-  }
-}
