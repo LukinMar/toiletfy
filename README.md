@@ -4,7 +4,7 @@
 
 <p> Contribuições são bem vindas! </p>
 
-<a href="https://toiletfy.herokuapp.com/index.html/">WebPage</a><br><br>
+<a href="https://toiletfy.herokuapp.com/index.html">WebPage</a><br><br>
 <a href="https://play.google.com/store/apps/details?id=io.cordova.toiletfy"/> Google Play</a>
 
 <hr>
