@@ -6,13 +6,13 @@
   height: 100%;
   background: #422e53;
   background: -webkit-gradient(
-    linear,
+    radial,
     left top,
     left bottom,
     from(#422e53),
     to(#1a1221)
   );
-  background: linear-gradient(to bottom, #422e53 0%, #1a1221 100%);
+  background: radial-gradient(ellipse at center, #422e53 0%, #1a1221 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#422e53',endColorstr='#1a1221',GradientType=0);
   z-index: 99999999999;
 }
@@ -35,7 +35,11 @@ body {
   width: 34px;
   height: 34px;
   margin: 13px 0 0 13px;
-  background: #562b7f;
+  background-image: url("../img/pin.png");
+  background-size: 34px;
+  transform: rotate(45deg);
+  background-repeat: no-repeat;
+  background-color: #562b7f;
   position: absolute;
   border-radius: 50%;
 }
