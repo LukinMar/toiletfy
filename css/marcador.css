@@ -160,7 +160,7 @@ input[type="radio"]:checked + span:after,
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
   color: #fff;
-  background-color: #7d3fb8 !important;
+  background-color: #8e3dbc !important;
 }
 .btn,
 .btn-large,
