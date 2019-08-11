@@ -300,7 +300,7 @@ function carregarPontos() {
     $.each(pontos, function(index, ponto) {
       var marker = new google.maps.Marker({
         position: new google.maps.LatLng(ponto.Latitude, ponto.Longitude),
-        icon: "img/marcador.webp"
+        icon: "img/marcador.png"
       });
 
       var myOptions = {
