@@ -9,6 +9,7 @@
     <title>Solicitar marcador</title>
   </head>
   <body>
+    <div class="navbar-fixed">
     <nav>
       <div class="nav-wrapper">
         <a class="brand-logo center">ToiletFY</a>
@@ -38,6 +39,7 @@
         >
       </div>
     </nav>
+  </div>
     <div class="containers">  
       <form id="contacts" action="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/formResponse" method="post" target="_self" id="mG61Hd">
         <h3>Solicitação de marcador</h3>
@@ -58,8 +60,7 @@
           <div id="mapa" style="width:10%; height:10%"></div>
       </fieldset>
         <fieldset class="fs" id="legend">
-          <legend>Necessita pagamento para usar?</legend>
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+          <legend>Necessita pagamento para usar? &#x1F4B0; </legend>
           <p></p>
            <label>
               <input name="group1" type="radio" id="valor" value="Sim">
@@ -73,8 +74,24 @@
             </label>
           </p>
         </fieldset>
+        <fieldset class="fs" id="legend">
+          <legend>Banheiro adaptado para PcD? &#x267f;</legend>
+          <p></p>
+           <label>
+              <input name="group2" type="radio" id="pcd" value="Sim">
+              <span>Sim</span>
+            </label>
+          </p>
+          <p>
+            <label>
+              <input name="group2" type="radio" id="pcd" value="Não" checked>
+              <span>Não</span>
+            </label>
+          </p>
+        </fieldset>
         <fieldset class="fs">
             <input id="valorinput" type="text" name="entry.758726952" value="Não">  
+            <input id="valorinput2" type="text" name="entry.690648933" value="Não">
           <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
             cloud_upload</i>ENVIAR</button>
         </fieldset>
@@ -102,6 +119,10 @@
 <script>
 $('input[id=valor]').change(function (e) {
   $('#valorinput').val(e.target.value)
+})
+
+$('input[id=pcd]').change(function (e) {
+  $('#valorinput2').val(e.target.value)
 })
 </script>
   </body>
