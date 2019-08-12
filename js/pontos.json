@@ -639,12 +639,84 @@
     "Id": 107,
     "Latitude": -22.895361,
     "Longitude": -43.179946,
-    "Descricao": "Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro - RJ, 20081-240 <br> Não necessita bilhete de entrada! <br><br> <a href='https://www.google.com.br/maps/place/Museu+do+Amanh%C3%A3/@-22.8946505,-43.181855,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5732a12a31:0x316901f971660ce1!8m2!3d-22.8946555!4d-43.1796663' target='_blank'>Visualize no Google Maps</a>"
+    "Descricao": "Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro - RJ, 20081-240 <br><br> Não necessita bilhete de entrada! <br><br> <a href='https://www.google.com.br/maps/place/Museu+do+Amanh%C3%A3/@-22.8946505,-43.181855,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5732a12a31:0x316901f971660ce1!8m2!3d-22.8946555!4d-43.1796663' target='_blank'>Visualize no Google Maps</a>"
   },
   {
     "Id": 108,
     "Latitude": -22.893104,
     "Longitude": -43.192888,
-    "Descricao": "AquaRio, Praça Muhammad Ali, Via Binário do Porto, s/n - Gamboa, Rio de Janeiro - RJ, 20220-360 <br> Não necessita bilhete de entrada - Siga direto para os elevadores, suba até o 3º andar, ao sair do elevador vire a esquerda! <br><br> <a href='https://www.google.com.br/maps/place/AquaRio/@-22.8928393,-43.1937707,17.75z/data=!4m5!3m4!1s0x997f47be112f0d:0x80a145745ee1ed54!8m2!3d-22.893121!4d-43.1928997' target='_blank'>Visualize no Google Maps</a>"
+    "Descricao": "AquaRio, Praça Muhammad Ali, Via Binário do Porto, s/n - Gamboa, Rio de Janeiro - RJ, 20220-360 <br><br> Não necessita bilhete de entrada - Siga direto para os elevadores, suba até o 3º andar, ao sair do elevador vire a esquerda! <br><br> <a href='https://www.google.com.br/maps/place/AquaRio/@-22.8928393,-43.1937707,17.75z/data=!4m5!3m4!1s0x997f47be112f0d:0x80a145745ee1ed54!8m2!3d-22.893121!4d-43.1928997' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 109,
+    "Latitude": -22.902721,
+    "Longitude": -43.559186,
+    "Descricao": "Droga Raia, R. Cel. Agostinho, 12 - Campo Grande, Rio de Janeiro - RJ, 23050-360 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Droga+Raia/@-22.9027816,-43.5590308,20.75z/data=!4m8!1m2!2m1!1sdroga+raia!3m4!1s0x9be157bb6f1e6b:0xad10714277141c45!8m2!3d-22.9027099!4d-43.5592115' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 110,
+    "Latitude": -22.942752,
+    "Longitude": -43.340689,
+    "Descricao": "Droga Raia, Estr. de Jacarepaguá, 7578 - Freguesia de Jacarepaguá, Rio de Janeiro - RJ, 22755-158 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Droga+Raia/@-22.9426988,-43.3450268,16z/data=!4m8!1m2!2m1!1sDroga+Raia!3m4!1s0x9bd8323972c591:0xea2463c9fb63e7a3!8m2!3d-22.9426988!4d-43.3406494' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 111,
+    "Latitude": -22.921878,
+    "Longitude": -43.360523,
+    "Descricao": "Droga Raia, Av. Geremário Dantas, 252 - Tanque, Rio de Janeiro - RJ, 22740-010 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Droga+Raia/@-22.9218003,-43.3610838,19z/data=!4m5!3m4!1s0x9bd85d751bff6f:0x46b7f6cf464b0eb9!8m2!3d-22.9219072!4d-43.3604702' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 112,
+    "Latitude": -22.916694,
+    "Longitude": -43.377203,
+    "Descricao": "Droga Raia, Estr. do Tindiba, 2938 - Taquara, Rio de Janeiro - RJ, 22725-422 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Droga+Raia/@-22.9166759,-43.3815567,16z/data=!4m8!1m2!2m1!1sDroga+Raia!3m4!1s0x9bd8f2995ea3dd:0x47c8a786e0c0619a!8m2!3d-22.9166759!4d-43.3771793' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 113,
+    "Latitude": -22.887696,
+    "Longitude": -43.284611,
+    "Descricao": "Droga Raia, R. José Bonifácio, 1085 - Todos os Santos, Rio de Janeiro - RJ, 20770-240 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Droga+Raia/@-22.8877144,-43.2842593,20.75z/data=!4m8!1m2!2m1!1sDroga+Raia!3m4!1s0x0:0xadd4e67110efbaf4!8m2!3d-22.8878702!4d-43.2845154' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 114,
+    "Latitude": -22.951292,
+    "Longitude": -43.183564,
+    "Descricao": "Burger King, R. Voluntários da Pátria, 59 - Botafogo, Rio de Janeiro - RJ, 22250-906 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Burger+King/@-22.9514132,-43.1856822,17z/data=!3m1!4b1!4m5!3m4!1s0x997f1b35a97783:0x7541cdb1e9b385ae!8m2!3d-22.9514182!4d-43.1834935' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 115,
+    "Latitude": -22.954449,
+    "Longitude": -43.190455,
+    "Descricao": "Supermercado Zona Sul, R. São João Batista, 27 - Botafogo, Rio de Janeiro - RJ, 22700-030 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Supermercado+Zona+Sul+-+Botafogo,+Rua+S%C3%A3o+Jo%C3%A3o+Batista/@-22.9507362,-43.1916474,16.5z/data=!4m8!1m2!2m1!1smercado+zona+sul+botafogo!3m4!1s0x997fe6cb2618ff:0x7c69c4f249daa4a3!8m2!3d-22.9544117!4d-43.1902656' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 116,
+    "Latitude": -22.924697,
+    "Longitude": -43.228143,
+    "Descricao": "Hortifruti, Rua Conde de Bonfim, 199 - Tijuca, Rio de Janeiro - RJ, 20520-050 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Hortifruti/@-22.9245462,-43.2282515,20.25z/data=!4m5!3m4!1s0x997e46cb1abd85:0xb833bfb28aea5ba4!8m2!3d-22.9246712!4d-43.2281513' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 117,
+    "Latitude": -22.907312,
+    "Longitude": -43.183776,
+    "Descricao": "CRAB - Centro SEBRAE de Referência do Artesanato Brasileiro, Praça Tiradentes, 69-71 - Centro, Rio de Janeiro - RJ, 20060-070 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/CRAB+-+Centro+SEBRAE+de+Refer%C3%AAncia+do+Artesanato+Brasileiro/@-22.9073186,-43.1839676,20.75z/data=!4m5!3m4!1s0x997f6707614e35:0x3d81c182a953239f!8m2!3d-22.9073408!4d-43.1839051' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 118,
+    "Latitude": -22.996566,
+    "Longitude": -43.356002,
+    "Descricao": "Posto Ipiranga, Av. Luís Carlos Prestes, 8 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-055 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Posto+Ipiranga/@-22.9966088,-43.3562185,20.25z/data=!4m5!3m4!1s0x936f33ece076f243:0x8d9377afd7b8bb6a!8m2!3d-22.9965605!4d-43.3559967' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 119,
+    "Latitude": -22.927333,
+    "Longitude": -43.235669,
+    "Descricao": "Clube Vida de Saúde, Rua Conde de Bonfim, 475 - Tijuca, Rio de Janeiro - RJ, 20520-052 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Clube+Vida+de+Sa%C3%BAde/@-22.9275491,-43.2375759,17z/data=!3m1!4b1!4m5!3m4!1s0x997e14f8e07493:0x288e04d0dce40e22!8m2!3d-22.9275541!4d-43.2353872' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 120,
+    "Latitude": -22.864205,
+    "Longitude": -43.435771,
+    "Descricao": "Posto Vagão, Av. Brasil, 29659 - Realengo, Rio de Janeiro - RJ, 21720-000 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Posto+Vag%C3%A3o/@-22.8640601,-43.4357594,19z/data=!4m5!3m4!1s0x9961c587e229c7:0x4bccaddcb24581ec!8m2!3d-22.8642306!4d-43.4357374' target='_blank'>Visualize no Google Maps</a>"
   }
 ]
