@@ -48,17 +48,17 @@
     </nav>
   </div>
     <div class="containers">  
-      <form id="contacts" action="https://docs.google.com/forms/d/e/1FAIpQLScJtKcFFTnBAfEk0bCkgH4dQt1pUBmXn3IYuncPaNite7ivNw/formResponse" target="_self" method="POST" id="mG61Hd">
+      <form id="contacts" autocomplete="off" autocorrect="off" action="https://docs.google.com/forms/d/e/1FAIpQLScJtKcFFTnBAfEk0bCkgH4dQt1pUBmXn3IYuncPaNite7ivNw/formResponse" target="_self" method="POST" id="mG61Hd">
         <h3>Reportar problemas</h3>
         <br>
         <fieldset class="fs">
-        <input id="nome" name="entry.550324690" placeholder="Seu nome" type="text" tabindex="1" autofocus>
+        <input id="nome" name="entry.550324690" placeholder="Seu nome" type="text" tabindex="1" required autofocus autocomplete="off">
       </fieldset>
       <fieldset class="fs">
-            <input  class="input-field" name="entry.880980039" placeholder="Nome do local" type="text" tabindex="2" required>
+            <input  class="input-field" name="entry.880980039" placeholder="Nome do local" type="text" tabindex="2" required autocomplete="off">
           </fieldset>
           <fieldset class="fs"> 
-                <input  class="input-field localizacao" id="endereco" type="text" name="entry.1428081863" placeholder="Endereço" tabindex="4" required><br>
+                <input  class="input-field localizacao" id="endereco" type="text" name="entry.1428081863" placeholder="Endereço" tabindex="3" required autocomplete="off"><br>
                 <button type="button" id="showMe" class="waves-effect waves-light btn center-align localizacao">
                     <i class="material-icons left">
                         my_location
@@ -68,7 +68,7 @@
                   <div id="mapa" style="width:10%; height:10%"></div>
               </fieldset>
       <fieldset class="fs">
-        <textarea  class="input-field" name="entry.665565208" placeholder="Descrição do problema" type="text" tabindex="3" required></textarea>
+        <textarea  class="input-field" name="entry.665565208" placeholder="Descrição do problema" id="descricao" tabindex="4" required></textarea>
       </fieldset>
         <fieldset class="fs">
           <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
@@ -103,6 +103,7 @@ $('input[id=valor]').change(function (e) {
 $('input[id=pcd]').change(function (e) {
   $('#valorinput2').val(e.target.value)
 })
+
 </script>
   </body>
 </html>
