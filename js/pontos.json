@@ -718,5 +718,71 @@
     "Latitude": -22.864205,
     "Longitude": -43.435771,
     "Descricao": "Posto Vagão, Av. Brasil, 29659 - Realengo, Rio de Janeiro - RJ, 21720-000 <br><br> Adaptado para PcD &#x267f; <br><br> <a href='https://www.google.com.br/maps/place/Posto+Vag%C3%A3o/@-22.8640601,-43.4357594,19z/data=!4m5!3m4!1s0x9961c587e229c7:0x4bccaddcb24581ec!8m2!3d-22.8642306!4d-43.4357374' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 121,
+    "Latitude": -22.885174,
+    "Longitude": -43.278648,
+    "Descricao": "Posto Shell, Av. Dom Hélder Câmara, 4788 - Cachambi, Rio de Janeiro - RJ, 20771-004 <br><br> <a href='https://www.google.com.br/maps/place/Shell/@-22.8853736,-43.2783595,19z/data=!4m5!3m4!1s0x997c4ef508849b:0xc70de7ce08049611!8m2!3d-22.8851752!4d-43.2786541' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 122,
+    "Latitude": -22.881176,
+    "Longitude": -43.286909,
+    "Descricao": "Posto Ipiranga, R. José dos Reis, 1863 - Inhauma, Rio de Janeiro - RJ, 20770-054 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Itaip%C3%BA/@-22.8811771,-43.2873493,19z/data=!4m5!3m4!1s0x997c5726a72715:0x4fa0a5a8ba620c22!8m2!3d-22.8811701!4d-43.2869301' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 123,
+    "Latitude": -22.88221,
+    "Longitude": -43.293051,
+    "Descricao": "Posto Shell, Av. Dom Hélder Câmara, 6525-6613 - Pilares, Rio de Janeiro - RJ, 20771-070 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell/@-22.8822399,-43.2929676,20.25z/data=!4m5!3m4!1s0x997cff28571139:0x4430e6a5157539d9!8m2!3d-22.8822667!4d-43.2930918' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 125,
+    "Latitude": -22.881012,
+    "Longitude": -43.293494,
+    "Descricao": "Habib's, Av. Dom Hélder Câmara, 6525-6613 - Pilares, Rio de Janeiro - RJ, 20771-070 <br><br> <a href='https://www.google.com.br/maps/place/Habibs/@-22.8812755,-43.2947863,17z/data=!4m5!3m4!1s0x0:0x588d9011913fcae3!8m2!3d-22.880978!4d-43.2934733' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 126,
+    "Latitude": -22.884369,
+    "Longitude": -43.318106,
+    "Descricao": "Posto Shell, Av. Dom Hélder Câmara, 9415 - Quintino Bocaiuva, Rio de Janeiro - RJ, 21380-000 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell+-+Posto+De+Gasolina+Sao+Geraldo+Ltda/@-22.8844475,-43.3177361,19.25z/data=!4m5!3m4!1s0x997d25b949720b:0x9fac2837c029832b!8m2!3d-22.8844264!4d-43.3181128' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 127,
+    "Latitude": -22.884369,
+    "Longitude": -43.325609,
+    "Descricao": "Supermercado Vianense, Av. Dom Hélder Câmara, 10238 - Cascadura, Rio de Janeiro - RJ, 20771-003 <br><br> <a href='https://www.google.com.br/maps/place/Vianense+Filial+05+Cascadura/@-22.8817749,-43.3250893,20.25z/data=!4m5!3m4!1s0x997d2c396f657f:0x35137dcd8c5c4ccc!8m2!3d-22.8818985!4d-43.3255827' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 128,
+    "Latitude": -22.881386,
+    "Longitude": -43.324344,
+    "Descricao": "Supermercados Rede Unno, R. Cerqueira Daltro, 51 - Cascadura, Rio de Janeiro - RJ, 21380-320 <br><br> <a href='https://www.google.com.br/maps/place/Inter+Supermercados+Rede+Unno/@-22.8814216,-43.3247127,20.25z/data=!4m5!3m4!1s0x0:0xab2bed8283fb0797!8m2!3d-22.8813829!4d-43.3243167' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 129,
+    "Latitude": -22.879234,
+    "Longitude": -43.335664,
+    "Descricao": "Shopping Tem Tudo, Praça Armando Cruz, 120 - Madureira, Rio de Janeiro - RJ, 21310-350 <br><br> <a href='https://www.google.com.br/maps/place/Shopping+Tem+Tudo+de+Madureira/@-22.8798097,-43.3375036,17z/data=!4m5!3m4!1s0x0:0x119294aef5a2f222!8m2!3d-22.8791407!4d-43.3356518' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 130,
+    "Latitude": -22.877924,
+    "Longitude": -43.362993,
+    "Descricao": "Posto Shell, Praça Valqueire, 11 - Vila Valqueire, Rio de Janeiro - RJ, 21330-570 <br><br> <a href='https://www.google.com.br/maps/place/POSTO+DE+GAS+LUB+VALQUEIRE+LTDA/@-22.8777368,-43.3628781,19z/data=!4m5!3m4!1s0x996289aaaaaaab:0xd4e27ae7fcb73ef8!8m2!3d-22.8779823!4d-43.3629667' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 131,
+    "Latitude": -22.896085,
+    "Longitude": -43.292808,
+    "Descricao": "Posto Ipiranga, Av. Amaro Cavalcanti, 1701 - Engenho de Dentro, Rio de Janeiro - RJ, 20735-042 <br><br> <a href='https://www.google.com.br/maps/place/Jet+Oil+-+Engenho+de+Dentro/@-22.8961655,-43.2925022,19z/data=!4m5!3m4!1s0x0:0x9dce48d5a9273dc8!8m2!3d-22.8960918!4d-43.2928051' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 132,
+    "Latitude": -22.896519,
+    "Longitude": -43.289261,
+    "Descricao": "Posto Ipiranga, R. Curupaiti, 21 - Todos os Santos, Rio de Janeiro - RJ, 20735-320 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell+-+Posto+Gasolina+Todos+Os+Santos+Ltda/@-22.8965263,-43.2892948,20.25z/data=!4m5!3m4!1s0x997da86e782e7f:0xa9f0b01c8ce8251d!8m2!3d-22.8965911!4d-43.2892871' target='_blank'>Visualize no Google Maps</a>"
   }
 ]
