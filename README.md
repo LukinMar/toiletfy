@@ -13,4 +13,4 @@ I was talking to a friend about small project ideas, then came the idea of devel
 if it's free or if you have to pay near the person's location using the Google Maps API.</p>
 
 
-<p align="center"><img src="https://i.imgur.com/ehd8Tg2.png" width="350" target="_blank" alt="logo-toiletfy"/></p>
+<p align="center"><img src="https://i.imgur.com/ndkZgxi.png" width="450" target="_blank" alt="logo-toiletfy"/></p>
