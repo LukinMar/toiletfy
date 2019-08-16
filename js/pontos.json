@@ -445,8 +445,8 @@
   },
   {
     "Id": 75,
-    "Latitude": -22.8780329,
-    "Longitude": -43.3625382,
+    "Latitude": -22.877971,
+    "Longitude": -43.361987,
     "Descricao": "Posto Shell, Estrada Intendente Magalhães, 821 - Bento Ribeiro, Rio de Janeiro - RJ, 21331-596 <br><br>  <a href='https://www.google.com.br/maps/place/Auto+Posto+Novo+Intendente/@-22.8780329,-43.3625382,19z/data=!3m1!4b1!4m5!3m4!1s0x9963ba10c45ad7:0x8b382293b91edb28!8m2!3d-22.8780341!4d-43.361991' target='_blank'>Visualize no Google Maps</a>"
   },
   {
@@ -832,5 +832,11 @@
     "Latitude": -22.904118,
     "Longitude": -43.183459,
     "Descricao": "McDonald's, R. Sr. dos Passos, 117 - Centro, Rio de Janeiro - RJ, 20051-040 <br><br> <a href='https://www.google.com/maps/place/McDonalds/@-22.904101,-43.1833722,20.29z/data=!4m5!3m4!1s0x997f5d5bfdfce9:0xa3f4d28fe834cb98!8m2!3d-22.9041252!4d-43.1834679' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 140,
+    "Latitude": -22.878031,
+    "Longitude": -43.359351,
+    "Descricao": "Burguer King, Estrada Intendente Magalhães, 740 - Vila Valqueire, Rio de Janeiro - RJ, 21331-720 <br><br> <a href='https://www.google.com.br/maps/place/Burger+King/@-22.8779387,-43.359976,19z/data=!4m5!3m4!1s0x9963ba39fa5951:0x7b35846a4b31dea2!8m2!3d-22.8780104!4d-43.3593486' target='_blank'>Visualize no Google Maps</a>"
   }
 ]
