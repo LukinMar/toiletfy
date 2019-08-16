@@ -78,7 +78,7 @@ function addYourLocationButton(map, marker) {
   document.getElementById("showMe").addEventListener("click", function() {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(function(position) {
-        var latitude = position.coords.latitude; // set latitude variable
+        var latitude = position.coords.latitude; 
         var longitude = position.coords.longitude;
         var latlng = new google.maps.LatLng(
           position.coords.latitude,
@@ -133,22 +133,22 @@ function initialize() {
 }
 
 function getAddress(myLatitude, myLongitude) {
-  var geocoder = new google.maps.Geocoder(); // create a geocoder object
-  var location = new google.maps.LatLng(myLatitude, myLongitude); // turn coordinates into an object
+  var geocoder = new google.maps.Geocoder(); 
+  var location = new google.maps.LatLng(myLatitude, myLongitude); 
 
   geocoder.geocode({ latLng: location }, function(results, status) {
     if (status == google.maps.GeocoderStatus.OK) {
       // if geocode success
-      processAddress(results[0].formatted_address); // if address found, pass to processing function
+      processAddress(results[0].formatted_address); 
     } else {
-      alert("Geocode failure: " + status); // alert any other error(s)
+      alert("Geocode failure: " + status); 
       return false;
     }
   });
 }
 
 function processAddress(address) {
-  $("#endereco").val(address); // write address to field
+  $("#endereco").val(address); 
 }
 
 initialize();

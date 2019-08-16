@@ -808,5 +808,29 @@
     "Latitude": -22.877302,
     "Longitude": -43.336546,
     "Descricao": "Estação Madureira, R. Carolina Machado - Madureira, Rio de Janeiro - RJ, 21351-021 <br><br> Necessita pagamento da passagem  &#x1F4B0; <br><br> <a href='https://www.google.com/maps/place/Madureira/@-22.87638,-43.3372588,17.79z/data=!4m5!3m4!1s0x9962d1270eb9c3:0x866882fdde062127!8m2!3d-22.8772947!4d-43.3365402' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 136,
+    "Latitude": -22.903328,
+    "Longitude": -43.178468,
+    "Descricao": "McDonald's, Av. Rio Branco, 100 - loja A, sobreloja 201, Rio de Janeiro - RJ, 20040-000 <br><br> <a href='https://www.google.com.br/maps/place/McDonalds/@-22.9033401,-43.1806921,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5e8c4a0055:0xaa3b79fc1cbc2ba3!8m2!3d-22.9033451!4d-43.1785034' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 137,
+    "Latitude": -22.904097,
+    "Longitude": -43.180017,
+    "Descricao": "Bob's, R. Uruguaiana, 106 - Centro, Rio de Janeiro - RJ, 20050-092 <br><br> <a href='https://www.google.com/maps/place/Bobs/@-22.9040703,-43.1799667,20.25z/data=!4m5!3m4!1s0x997f8f2974d83f:0x466379a09f1790e2!8m2!3d-22.9040965!4d-43.1800097' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 138,
+    "Latitude": -22.905668,
+    "Longitude": -43.176159,
+    "Descricao": "McDonald's, R. São José, 70 - B - Centro, Rio de Janeiro - RJ, 20010-020 <br><br> <a href='https://www.google.com/maps/place/McDonalds/@-22.904057,-43.1789154,17z/data=!4m5!3m4!1s0x9be06a473cd78b:0x3a06111c2ea5ebd9!8m2!3d-22.9056583!4d-43.1761468' target='_blank'>Visualize no Google Maps</a>"
+  },
+  {
+    "Id": 139,
+    "Latitude": -22.904118,
+    "Longitude": -43.183459,
+    "Descricao": "McDonald's, R. Sr. dos Passos, 117 - Centro, Rio de Janeiro - RJ, 20051-040 <br><br> <a href='https://www.google.com/maps/place/McDonalds/@-22.904101,-43.1833722,20.29z/data=!4m5!3m4!1s0x997f5d5bfdfce9:0xa3f4d28fe834cb98!8m2!3d-22.9041252!4d-43.1834679' target='_blank'>Visualize no Google Maps</a>"
   }
 ]
