@@ -8,6 +8,12 @@ body {
   margin: 0 auto;
   position: relative;
 }
+.containers-politica {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
 #contacts input[type="text"],
 #contacts input[type="email"],
 #contacts input[type="tel"],
