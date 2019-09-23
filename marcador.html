@@ -98,9 +98,21 @@
             </label>
           </p>
         </fieldset>
+        <fieldset class="fs star" id="legend">
+        <legend>Avaliação</legend>
+        <div class="rating">
+          <br><br>
+          <input type="radio" name="star" id="star5" value="5"><label for="star5"></label>
+          <input type="radio" name="star" id="star4" value="4"><label for="star4"></label>
+          <input type="radio" name="star" id="star3" value="3"><label for="star3"></label>
+          <input type="radio" name="star" id="star2" value="2"><label for="star2"></label>
+          <input type="radio" name="star" id="star1" value="1"><label for="star1"></label>
+        </div>
+        </fieldset>
         <fieldset class="fs">
             <input id="valorinput" type="text" name="entry.758726952" value="Não">  
             <input id="valorinput2" type="text" name="entry.690648933" value="Não" >
+            <input id="valorinput3" type="text" name="entry.812291586" value="Sem avaliação">
           <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
             cloud_upload</i>ENVIAR</button>
         </fieldset>
@@ -112,6 +124,7 @@
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet"
     />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <script
     type="text/javascript"
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
@@ -133,6 +146,23 @@ $('input[id=valor]').change(function (e) {
 $('input[id=pcd]').change(function (e) {
   $('#valorinput2').val(e.target.value)
 })
+
+$('input[id=star1]').change(function(e) {
+  $('#valorinput3').val(e.target.value)
+});
+$('input[id=star2]').change(function(e) {
+  $('#valorinput3').val(e.target.value)
+});
+$('input[id=star3]').change(function(e) {
+  $('#valorinput3').val(e.target.value)
+});
+$('input[id=star4]').change(function(e) {
+  $('#valorinput3').val(e.target.value)
+});
+$('input[id=star5]').change(function(e) {
+  $('#valorinput3').val(e.target.value)
+});
+
 </script>
   </body>
 </html>

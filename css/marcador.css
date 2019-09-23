@@ -118,6 +118,7 @@ label {
   font-size: 14.5px !important;
   color: #000 !important;
 }
+
 textarea.materialize-textarea:focus:not([readonly]) {
   border-bottom: 1px solid #8e3dbc !important;
   -webkit-box-shadow: 0 1px 0 0 #8e3dbc !important;
@@ -152,6 +153,9 @@ input[type="radio"]:checked + span:after,
 }
 
 #valorinput2 {
+  display: none !important;
+}
+#valorinput3 {
   display: none !important;
 }
 #lukinmar {
@@ -226,4 +230,61 @@ button[type="button"]:active {
 
 .localizacao {
   margin: 0 0 15px !important;
+}
+
+[type="radio"]:not(:checked),
+[type="radio"]:checked {
+  position: relative !important;
+}
+
+.rating {
+  left: 43px !important;
+  position: absolute !important;
+  transform: translate(0%, 0%) rotateY(180deg);
+  display: flex;
+}
+
+.rating label {
+  cursor: pointer;
+  display: block;
+}
+
+.rating label:before {
+  content: "\f005";
+  font-family: fontAwesome;
+  position: relative !important;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #5a5a5a;
+  color: white !important;
+  font-size: 150%;
+}
+
+.rating label:after {
+  content: "\f005";
+  font-family: fontAwesome;
+  position: absolute !important;
+  color: #8e3dbc !important;
+  display: block !important;
+  top: 0;
+  opacity: 0;
+  transition: 0.28s ease 0s;
+  font-size: 150%;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #8e3dbc;
+}
+
+.rating label:hover:after,
+.rating input:hover ~ label:after,
+.rating input:checked ~ label:after {
+  opacity: 1;
+}
+
+.rating label:hover:after,
+.rating input:hover ~ label:after,
+.rating input:checked ~ label:after {
+  opacity: 1;
+}
+
+.star {
+  margin: 0 0 50px;
 }
