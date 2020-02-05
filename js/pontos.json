@@ -868,5 +868,11 @@
     "Latitude": -25.418013,
     "Longitude": -49.27054,
     "Descricao": "Teste Tadeu, R. Dr. Roberto Barrozo, 3 - Centro Cívico, Curitiba - PR, 80530-120, Brasil<br><br> <a href=https://www.google.com/maps/place/R.+Dr.+Roberto+Barrozo,+3+-+Centro+C%C3%ADvico,+Curitiba+-+PR,+80530-120/@-25.4180093,-49.2706588,21z/data=!4m5!3m4!1s0x94dce41bb37dc5bd:0x2aba0287a48df2f0!8m2!3d-25.4180096!4d-49.2705396 target=_blank> Visualize no Google Maps </a><br><br><img src='img/2estrelas.png'  width='100px' alt='2 estrelas'><br><br><img src='img/money.png' width='38px'  alt='Necessita pagamento'>"
+  },
+  {
+    "Id": 146,
+    "Latitude": -22.879251,
+    "Longitude": -43.343069,
+    "Descricao": "teste, testestestestwtstst<br><br> <a href=rwerwer target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='100px' alt='3 estrelas'><br><br><img src='img/money.png' width='38px'  alt='Necessita pagamento'><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   }
 ]
