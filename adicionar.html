@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <title>Adicionar</title>
+</head>
+<body>
+  <div class="containers">  
+    <form id="contacts" autocorrect="off" autocomplete="off" >
+      <h3 align="center">Adicionar</h3>
+      <br>
+            <fieldset class="fs">
+            <input  class="input-field" id=latitude placeholder="Latitude" type="text"  tabindex="2" required>
+          </fieldset>
+          <fieldset class="fs"> 
+            <input  class="input-field " id="longitude"  type="text"  placeholder="Longitude" tabindex="3" required>
+          </fieldset>
+          <fieldset class="fs"> 
+            <input  class="input-field " id="nome"  type="text"  placeholder="Nome do local" tabindex="4" required>
+          </fieldset>
+          <fieldset class="fs"> 
+            <input  class="input-field " id="endereco"  type="text"  placeholder="Endereço" tabindex="5" required>
+          </fieldset>
+          <fieldset class="fs"> 
+            <input  class="input-field" id="link"  type="text"  placeholder="Link" tabindex="6" required>
+          </fieldset>
+            <fieldset class="fs" id="legend">
+              <legend>Necessita pagamento para usar? &#x1F4B0; </legend>
+              <p></p>
+               <label>
+                  <input name="group1" type="radio" id="valor" value="<img src='img/money.png' width='38px'  alt='Necessita pagamento'>" >
+                  <span>Sim</span>
+                </label>
+              </p>
+              <p>
+                <label>
+                  <input name="group1" type="radio" id="valor" value="" checked >
+                  <span>Não</span>
+                </label>
+              </p>
+            </fieldset>
+            <fieldset class="fs" id="legend">
+              <legend>Banheiro adaptado para PcD? &#x267f;</legend>
+              <p></p>
+               <label>
+                  <input name="group2" type="radio" id="pcd" value="<img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>">
+                  <span>Sim</span>
+                </label>
+              </p>
+              <p>
+                <label>
+                  <input name="group2" type="radio" id="pcd" value="" checked >
+                  <span>Não</span>
+                </label>
+              </p>
+            </fieldset>
+            <fieldset class="fs star" id="legend">
+            <legend>Avaliação</legend>
+            <div class="rating">
+              <br><br>
+              <input type="radio" name="star" id="star5" value="<img src='img/5estrelas.png'  width='100px' alt='5 estrelas'>"><label for="star5"></label>
+              <input type="radio" name="star" id="star4" value="<img src='img/4estrelas.png'  width='100px' alt='4 estrelas'>"><label for="star4"></label>
+              <input type="radio" name="star" id="star3" value="<img src='img/3estrelas.png'  width='100px' alt='3 estrelas'>"><label for="star3"></label>
+              <input type="radio" name="star" id="star2" value="<img src='img/2estrelas.png'  width='100px' alt='2 estrelas'>"><label for="star2"></label>
+              <input type="radio" name="star" id="star1" value="<img src='img/1estrelas.png'  width='100px' alt='1 estrelas'>"><label for="star1"></label>
+            </div>
+            </fieldset>
+            <br><br>
+            <small>Copiar e colar</small>
+        <textarea class="input-field"   placeholder="" class="textarea1"  id="textarea1"></textarea>
+        <input id="valorinput" type="text"  value="">  
+        <input id="valorinput2" type="text" value="" >
+        <input id="valorinput3" type="text" value="" >
+
+    </form>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="css/marcador.css" />
+    <link rel="stylesheet" type="text/css" href="css/materialize.min.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+</body>
+<script>
+
+$('input[id=valor]').change(function (e) {
+  $('#valorinput').val(e.target.value)
+})
+
+$('input[id=pcd]').change(function (e) {
+  $('#valorinput2').val(e.target.value)
+}) 
+
+$('input[name=star]').change(function (e) {
+  $('#valorinput3').val(e.target.value)
+}) 
+
+
+    $( function() {
+    function updateTextarea() {
+      $( '#textarea1' ).val( '{' + '\n' + '"Id":,' + '\n' 
+                                 + '"Latitude":' + $( '#latitude' ).val() + ',' + '\n' 
+                                 + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
+                                 + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
+                                 + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
+                                 + '<br><br>' + $('#valorinput3').val() + '<br><br>' + $('#valorinput').val()
+                                 + $('#valorinput2').val()  + '"'
+                                 + '\n' + '},');
+      }
+    $( '#latitude, #longitude, #nome, #endereco, #link, #valorinput3, #valorinput, #valorinput2' ).keydown(updateTextarea);
+});
+
+
+
+
+</script>
+</html>
