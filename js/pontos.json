@@ -952,5 +952,35 @@
     "Latitude": -22.839355,
     "Longitude": -43.398458,
     "Descricao": "Estação Ricardo de Albuquerque, Ricardo de Albuquerque<br><br> <a href=https://www.google.com.br/maps/place/Ricardo+de+Albuquerque/@-22.8393849,-43.4006463,17z/data=!3m1!4b1!4m5!3m4!1s0x9963dae76d0fa9:0x2d17640c6b3c9bdb!8m2!3d-22.8393849!4d-43.3984576 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 159,
+    "Latitude": -22.910523,
+    "Longitude": -43.175269,
+    "Descricao": "Centro Cultural Justiça Federal, Av. Rio Branco, 241 - Centro, Rio de Janeiro - RJ, 20040-009<br><br> <a href=https://www.google.com.br/maps/place/Centro+Cultural+Justi%C3%A7a+Federal/@-22.910553,-43.1774359,17z/data=!3m1!4b1!4m5!3m4!1s0x997f61e8ff7453:0x63966cffafb6d5ca!8m2!3d-22.910553!4d-43.1752472 target=_blank> Visualize no Google Maps </a><br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 160,
+    "Latitude": -22.902823,
+    "Longitude": -43.185341,
+    "Descricao": "Claro, Terreo, Av. Pres. Vargas, 1012 - Centro, Rio de Janeiro - RJ, 20071-910<br><br> <a href=https://www.google.com.br/maps/place/Claro/@-22.9028212,-43.1875348,17z/data=!3m1!4b1!4m5!3m4!1s0x997ff5ae63124d:0x7dc8c6fd8b6efe86!8m2!3d-22.9028212!4d-43.1853461 target=_blank> Visualize no Google Maps </a><br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'><br><br>"
+  },
+  {
+    "Id": 161,
+    "Latitude": -23.017498,
+    "Longitude": -43.476588,
+    "Descricao": "Supermercado Vianense, Av. das Américas, 16.701 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-703<br><br> <a href=https://www.google.com.br/maps/place/Vianense+Filial+Recreio+dos+Bandeirantes/@-22.8297232,-43.5520411,11z/data=!4m8!1m2!2m1!1smercado+vianense+recreio!3m4!1s0x9bc34075e9b035:0x1878190381ddac2f!8m2!3d-23.0175099!4d-43.4765638 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br>"
+  },
+  {
+    "Id": 162,
+    "Latitude": -22.87941,
+    "Longitude": -43.46122,
+    "Descricao": "Labs A+ Medicina Diagnóstica, R. Jacinto Alcídes, 430 - Bangu, Rio de Janeiro - RJ, 21810-042<br><br> <a href=https://www.google.com.br/maps/place/Labs+a%2B+Medicina+Diagn%C3%B3stica/@-22.8793998,-43.463387,17z/data=!3m1!4b1!4m5!3m4!1s0x9bdf92343f4cc5:0xa2463a5417600054!8m2!3d-22.8793998!4d-43.4611983 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 163,
+    "Latitude": -22.982724,
+    "Longitude": -43.361741,
+    "Descricao": "C&C - Casa e Construção, Térreo Via Parque Shopping Avenida Ayrton Senna 3000 Loja 1.135 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-005<br><br> <a href=https://www.google.com.br/maps/place/C%26C+-+Casa+e+Constru%C3%A7%C3%A3o/@-22.982734,-43.3639087,17z/data=!3m2!4b1!5s0x9bda2ea5ce21cb:0x1d8d293d9bb85f58!4m5!3m4!1s0x9bda2c5137db07:0xa98132f0913c7695!8m2!3d-22.982734!4d-43.36172 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   }
 ]
