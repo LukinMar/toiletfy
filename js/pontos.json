@@ -3,7 +3,7 @@
     "Id": 1,
     "Latitude": -22.877839,
     "Longitude": -43.272083,
-    "Descricao": "Shopping Nova América, Av. Pastor Martin Luther King Junior - Del Castilho, Rio de Janeiro - RJ, 20730-380  <br><br> <a href='https://www.google.com.br/maps/place/Shopping+Nova+Am%C3%A9rica/@-22.8781756,-43.2736094,17z/data=!3m1!4b1!4m5!3m4!1s0x997c3f0a7c5cdd:0xf31c91cd0302bb07!8m2!3d-22.8781756!4d-43.2720618' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/5estrelas.png'  width='100px' alt='5 estrelas'> <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+    "Descricao": "Shopping Nova América, Av. Pastor Martin Luther King Junior - Del Castilho, Rio de Janeiro - RJ, 20730-380  <br><br> <a href='https://www.google.com.br/maps/place/Shopping+Nova+Am%C3%A9rica/@-22.8781756,-43.2736094,17z/data=!3m1!4b1!4m5!3m4!1s0x997c3f0a7c5cdd:0xf31c91cd0302bb07!8m2!3d-22.8781756!4d-43.2720618' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'> <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   },
   {
     "Id": 2,
@@ -39,7 +39,7 @@
     "Id": 7,
     "Latitude": -22.887122,
     "Longitude": -43.282704,
-    "Descricao": "Norte Shopping, Av. Dom Hélder Câmara, 5200 - Cachambi, Rio de Janeiro - RJ, 20771-004 <br><br> <a href='https://www.google.com.br/maps/place/Norte+Shopping+-+Torre+do+Shopping/@-22.887196,-43.2845051,17z/data=!3m1!4b1!4m5!3m4!1s0x997c52689d7fd3:0x114f6795bff2d4fa!8m2!3d-22.887196!4d-43.2823164' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/5estrelas.png'  width='100px' alt='5 estrelas'> <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+    "Descricao": "Norte Shopping, Av. Dom Hélder Câmara, 5200 - Cachambi, Rio de Janeiro - RJ, 20771-004 <br><br> <a href='https://www.google.com.br/maps/place/Norte+Shopping+-+Torre+do+Shopping/@-22.887196,-43.2845051,17z/data=!3m1!4b1!4m5!3m4!1s0x997c52689d7fd3:0x114f6795bff2d4fa!8m2!3d-22.887196!4d-43.2823164' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'> <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   },
   {
     "Id": 8,
@@ -801,7 +801,7 @@
     "Id": 134,
     "Latitude": -22.909542,
     "Longitude": -43.222817,
-    "Descricao": "Estação São Cristovão, s/n, R. Bartolomeu de Gusmão - São Cristóvão, Rio de Janeiro - RJ, 20941-160 <br><br> <a href='https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+De+S%C3%A3o+Crist%C3%B3v%C3%A3o/@-22.9095609,-43.2249833,17z/data=!3m1!4b1!4m5!3m4!1s0x997ef8034e97b7:0x2efdfb7f70056635!8m2!3d-22.9095609!4d-43.2227946' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/5estrelas.png'  width='100px' alt='5 estrelas'> <br><br> <img src='img/money.png' width='38px'  alt='Necessita pagamento'>  <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+    "Descricao": "Estação São Cristovão, s/n, R. Bartolomeu de Gusmão - São Cristóvão, Rio de Janeiro - RJ, 20941-160 <br><br> <a href='https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+De+S%C3%A3o+Crist%C3%B3v%C3%A3o/@-22.9095609,-43.2249833,17z/data=!3m1!4b1!4m5!3m4!1s0x997ef8034e97b7:0x2efdfb7f70056635!8m2!3d-22.9095609!4d-43.2227946' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'> <br><br> <img src='img/money.png' width='38px'  alt='Necessita pagamento'>  <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   },
   {
     "Id": 135,
@@ -843,24 +843,114 @@
     "Id": 141,
     "Latitude": -23.550097,
     "Longitude": -46.633322,
-    "Descricao": "Estação Metro Sé, Praça da Sé - Sé, São Paulo - SP, 01310-200 <br><br> <a href='https://www.google.com/maps/place/S%C3%A9/@-23.5500481,-46.6333686,21z/data=!4m5!3m4!1s0x0:0x37c720ec525c8bd9!8m2!3d-23.5500991!4d-46.633321' target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='100px' alt='4 estrelas'>"
+    "Descricao": "Estação Metro Sé, Praça da Sé - Sé, São Paulo - SP, 01310-200 <br><br> <a href='https://www.google.com/maps/place/S%C3%A9/@-23.5500481,-46.6333686,21z/data=!4m5!3m4!1s0x0:0x37c720ec525c8bd9!8m2!3d-23.5500991!4d-46.633321' target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
   },
   {
     "Id": 142,
     "Latitude": -23.544372,
     "Longitude": -46.634126,
-    "Descricao": "Estação Metrô São Bento, Largo de São Bento, 109 - Centro Histórico de São Paulo, São Paulo - SP, 01029-010 <br><br> <a href='https://www.google.com/maps/place/Largo+de+S%C3%A3o+Bento,+109+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01029-010/@-23.5441716,-46.634644,19z/data=!3m1!4b1!4m5!3m4!1s0x94ce5855c919ec4b:0x8744843e23934740!8m2!3d-23.5441728!4d-46.6340968'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/money.png' width='38px'  alt='Necessita pagamento'> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'> <br><br><img src='img/4estrelas.png'  width='100px' alt='4 estrelas'>"
+    "Descricao": "Estação Metrô São Bento, Largo de São Bento, 109 - Centro Histórico de São Paulo, São Paulo - SP, 01029-010 <br><br> <a href='https://www.google.com/maps/place/Largo+de+S%C3%A3o+Bento,+109+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01029-010/@-23.5441716,-46.634644,19z/data=!3m1!4b1!4m5!3m4!1s0x94ce5855c919ec4b:0x8744843e23934740!8m2!3d-23.5441728!4d-46.6340968'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/money.png' width='38px'  alt='Necessita pagamento'> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'> <br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
   },
   {
     "Id": 143,
     "Latitude": -23.556271,
     "Longitude": -46.635125,
-    "Descricao": "Mr. Wok, R. Galvão Bueno, 83 - Liberdade, São Paulo - SP, 01506-030 <br><br> <a href='https://www.google.com/maps/place/Mr.+Wok/@-23.5561337,-46.635058,21z/data=!4m5!3m4!1s0x94ce59a8ef1a7f41:0x9eb8997bca847e36!8m2!3d-23.5562772!4d-46.6351356'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='100px' alt='4 estrelas'>"
+    "Descricao": "Mr. Wok, R. Galvão Bueno, 83 - Liberdade, São Paulo - SP, 01506-030 <br><br> <a href='https://www.google.com/maps/place/Mr.+Wok/@-23.5561337,-46.635058,21z/data=!4m5!3m4!1s0x94ce59a8ef1a7f41:0x9eb8997bca847e36!8m2!3d-23.5562772!4d-46.6351356'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
   },
   {
     "Id": 144,
     "Latitude": -23.556048,
     "Longitude": -46.635994,
-    "Descricao": "Sogo Plaza, R. Galvão Bueno, 40 - Liberdade, São Paulo - SP, 01506-000 <br><br> <a href='https://www.google.com/maps/place/Sogo+-+Plaza+Shopping/@-23.5559763,-46.636136,20.25z/data=!4m5!3m4!1s0x94ce59a8d88350bd:0xa74c867e64167b09!8m2!3d-23.556057!4d-46.636005'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/3estrelas.png'  width='100px' alt='3 estrelas'>"
+    "Descricao": "Sogo Plaza, R. Galvão Bueno, 40 - Liberdade, São Paulo - SP, 01506-000 <br><br> <a href='https://www.google.com/maps/place/Sogo+-+Plaza+Shopping/@-23.5559763,-46.636136,20.25z/data=!4m5!3m4!1s0x94ce59a8d88350bd:0xa74c867e64167b09!8m2!3d-23.556057!4d-46.636005'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 145,
+    "Latitude": -22.900866,
+    "Longitude": -43.230924,
+    "Descricao": "Autoglass, R. São Luiz Gonzaga, 909 - São Cristóvão, Rio de Janeiro - RJ, 20910-061<br><br> <a href=https://www.google.com.br/maps/place/Autoglass+-+S%C3%A3o+Crist%C3%B3v%C3%A3o/@-22.9008776,-43.231452,19z/data=!3m1!4b1!4m5!3m4!1s0x997ef31cf1b41d:0x2adc630282d4b573!8m2!3d-22.9008788!4d-43.2309048 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br>"
+  },
+  {
+    "Id": 146,
+    "Latitude": -22.936715,
+    "Longitude": -43.190462,
+    "Descricao": "Instituto Nacional de Cardiologia, R. das Laranjeiras, 374 - Laranjeiras, Rio de Janeiro - RJ, 22240-006<br><br> <a href=https://www.google.com.br/maps/place/Instituto+Nacional+de+Cardiologia/@-22.93673,-43.1926619,17z/data=!3m1!4b1!4m5!3m4!1s0x997f946a66b09b:0x6c937ea60041685!8m2!3d-22.936735!4d-43.1904732 target=_blank> Visualize no Google Maps </a><br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 147,
+    "Latitude": -22.924856,
+    "Longitude": -43.243489,
+    "Descricao": "Bar da Gema, R. Barão de Mesquita, 615 - Tijuca, Rio de Janeiro - RJ, 20540-156<br><br> <a href=https://www.google.com.br/maps/place/Bar+da+Gema/@-22.9248709,-43.2456344,17z/data=!3m1!4b1!4m5!3m4!1s0x997e0d9e61951f:0x979baf23f5814a72!8m2!3d-22.9248759!4d-43.2434457 target=_blank> Visualize no Google Maps </a><br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'><br><br>"
+  },
+  {
+    "Id": 148,
+    "Latitude": -22.886721,
+    "Longitude": -43.222115,
+    "Descricao": "Crematório e Cemitério da Penitência, R. Monsenhor Manuel Gomes, 307 - Caju, Rio de Janeiro - RJ, 20931-673<br><br> <a href=https://www.google.com.br/maps/place/Cremat%C3%B3rio+e+Cemit%C3%A9rio+da+Penit%C3%AAncia/@-22.8866801,-43.2396197,13.93z/data=!4m8!1m2!2m1!1sCemit%C3%A9rio+e+Cremat%C3%B3rio+da+Provid%C3%AAncia!3m4!1s0x997fa1b3094303:0x820284431d7d8d6c!8m2!3d-22.8866801!4d-43.2221102 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 149,
+    "Latitude": -22.941233,
+    "Longitude": -43.180331,
+    "Descricao": "FGV - Fundação Getulio Vargas, Praia de Botafogo, 190 - Botafogo, Rio de Janeiro - RJ, 22250-900<br><br> <a href=https://www.google.com.br/maps/place/FGV+-+Funda%C3%A7%C3%A3o+Getulio+Vargas/@-22.9413244,-43.182453,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8c868f2667:0xfd19f999080c93ca!8m2!3d-22.9413244!4d-43.1802643 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 149,
+    "Latitude": -22.867786,
+    "Longitude": -43.412927,
+    "Descricao": "Estação Magalhães Bastos, Magalhães Bastos, Rio de Janeiro - RJ, 21615-310<br><br> <a href=https://www.google.com.br/maps/place/Magalh%C3%A3es+Bastos/@-22.8678996,-43.413807,18z/data=!4m5!3m4!1s0x9961f3ba9e8625:0x65ac413e8165e66a!8m2!3d-22.8678011!4d-43.4129138 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 150,
+    "Latitude": -22.862196,
+    "Longitude": -43.401346,
+    "Descricao": "Estação Vila Militar, Vila Militar, Rio de Janeiro - RJ, 21615-310<br><br> <a href=https://www.google.com.br/maps/place/Vila+Militar/@-22.8622354,-43.4035129,17z/data=!3m1!4b1!4m5!3m4!1s0x996226989f8e7d:0x34d2da2698468cbb!8m2!3d-22.8622354!4d-43.4013242 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 151,
+    "Latitude": -22.855006,
+    "Longitude": -43.383492,
+    "Descricao": "Estação Deodoro, Av. Duque de Caxias, S/N - Deodoro, Rio de Janeiro - RJ, 21615-220<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Deodoro/@-22.8550037,-43.3856759,17z/data=!3m1!4b1!4m5!3m4!1s0x9963b4beb30581:0x195725e810f48fe4!8m2!3d-22.8550037!4d-43.3834872 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 152,
+    "Latitude": -22.882711,
+    "Longitude": -43.328048,
+    "Descricao": "Estação Cascadura, Cascadura, Rio de Janeiro - RJ, 21311-110<br><br> <a href=https://www.google.com.br/maps/place/Cascadura/@-22.8825833,-43.3288643,18z/data=!4m5!3m4!1s0x997d2d169e1eab:0xdca3137973b404f8!8m2!3d-22.8827057!4d-43.3280593 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 153,
+    "Latitude": -22.888455,
+    "Longitude": -43.321191,
+    "Descricao": "Estação Quintino, s/n 110, R. Nerval de Gouvêia - Quintino Bocaiuva, Rio de Janeiro - RJ<br><br> <a href=https://www.google.com.br/maps/place/Quintino/@-22.8885245,-43.323369,17z/data=!3m1!4b1!4m5!3m4!1s0x997d305c42c2a3:0xfb270f1d6b7d8e55!8m2!3d-22.8885245!4d-43.3211803 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 154,
+    "Latitude": -22.89043,
+    "Longitude": -43.309616,
+    "Descricao": "Estação Piedade, s/n, R. Manoel Vitorino, 280 - Piedade, Rio de Janeiro - RJ<br><br> <a href=https://www.google.com.br/maps/place/Piedade/@-22.8904338,-43.3117953,17z/data=!3m1!4b1!4m5!3m4!1s0x997d18029c83a3:0x2eaa63f9e7709fcb!8m2!3d-22.8904338!4d-43.3096066 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 155,
+    "Latitude": -22.895466,
+    "Longitude": -43.29372,
+    "Descricao": "Estação Olímpica​ de Engenho de Dentro, R. Arquias Cordeiro - Engenho de Dentro, Rio de Janeiro - RJ, 20770-001<br><br> <a href=https://www.google.com.br/maps/place/Ol%C3%ADmpica%E2%80%8B+de+Engenho+de+Dentro/@-22.8954842,-43.2959097,17z/data=!3m1!4b1!4m5!3m4!1s0x997d06201d32f3:0x8070879a4ed49df8!8m2!3d-22.8954842!4d-43.293721 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 156,
+    "Latitude": -22.644509,
+    "Longitude": -43.653084,
+    "Descricao": "Estação Terminal Japeri, Centro de Japeri, Japeri - RJ<br><br> <a href=https://www.google.com.br/maps/place/Japeri/@-22.6445253,-43.6552581,17z/data=!3m1!4b1!4m5!3m4!1s0x994fe6bfff5457:0xe5e8fb2e312c126b!8m2!3d-22.6445253!4d-43.6530694 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 157,
+    "Latitude": -22.808588,
+    "Longitude": -43.414964,
+    "Descricao": "Estação Nilópolis, Centro, Nova Iguaçu - RJ, 26215-320<br><br> <a href=https://www.google.com.br/maps/place/Nil%C3%B3polis/@-22.8085793,-43.4154644,18.75z/data=!4m5!3m4!1s0x996152bc356ced:0x9f36ebef6e239359!8m2!3d-22.8086118!4d-43.4149647 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+  },
+  {
+    "Id": 158,
+    "Latitude": -22.839355,
+    "Longitude": -43.398458,
+    "Descricao": "Estação Ricardo de Albuquerque, Ricardo de Albuquerque<br><br> <a href=https://www.google.com.br/maps/place/Ricardo+de+Albuquerque/@-22.8393849,-43.4006463,17z/data=!3m1!4b1!4m5!3m4!1s0x9963dae76d0fa9:0x2d17640c6b3c9bdb!8m2!3d-22.8393849!4d-43.3984576 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
   }
 ]
