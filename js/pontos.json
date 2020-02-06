@@ -894,12 +894,6 @@
     "Descricao": "FGV - Fundação Getulio Vargas, Praia de Botafogo, 190 - Botafogo, Rio de Janeiro - RJ, 22250-900<br><br> <a href=https://www.google.com.br/maps/place/FGV+-+Funda%C3%A7%C3%A3o+Getulio+Vargas/@-22.9413244,-43.182453,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8c868f2667:0xfd19f999080c93ca!8m2!3d-22.9413244!4d-43.1802643 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   },
   {
-    "Id": 149,
-    "Latitude": -22.867786,
-    "Longitude": -43.412927,
-    "Descricao": "Estação Magalhães Bastos, Magalhães Bastos, Rio de Janeiro - RJ, 21615-310<br><br> <a href=https://www.google.com.br/maps/place/Magalh%C3%A3es+Bastos/@-22.8678996,-43.413807,18z/data=!4m5!3m4!1s0x9961f3ba9e8625:0x65ac413e8165e66a!8m2!3d-22.8678011!4d-43.4129138 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
-  },
-  {
     "Id": 150,
     "Latitude": -22.862196,
     "Longitude": -43.401346,
@@ -982,5 +976,11 @@
     "Latitude": -22.982724,
     "Longitude": -43.361741,
     "Descricao": "C&C - Casa e Construção, Térreo Via Parque Shopping Avenida Ayrton Senna 3000 Loja 1.135 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-005<br><br> <a href=https://www.google.com.br/maps/place/C%26C+-+Casa+e+Constru%C3%A7%C3%A3o/@-22.982734,-43.3639087,17z/data=!3m2!4b1!5s0x9bda2ea5ce21cb:0x1d8d293d9bb85f58!4m5!3m4!1s0x9bda2c5137db07:0xa98132f0913c7695!8m2!3d-22.982734!4d-43.36172 target=_blank> Visualize no Google Maps </a><br><br><img src='img/5estrelas.png'  width='170px' alt='5 estrelas'><br><br><img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 164,
+    "Latitude": -22.867786,
+    "Longitude": -43.412927,
+    "Descricao": "Estação Magalhães Bastos, Magalhães Bastos, Rio de Janeiro - RJ, 21615-310<br><br> <a href=https://www.google.com.br/maps/place/Magalh%C3%A3es+Bastos/@-22.8678996,-43.413807,18z/data=!4m5!3m4!1s0x9961f3ba9e8625:0x65ac413e8165e66a!8m2!3d-22.8678011!4d-43.4129138 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
   }
 ]
