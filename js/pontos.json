@@ -1078,5 +1078,11 @@
     "Latitude": -23.006778,
     "Longitude": -43.31095,
     "Descricao": "Estação Jardim Oceânico, Barra da Tijuca, Rio de Janeiro - RJ, 22640-100<br><br> <a href=https://www.google.com.br/maps/place/Jardim+Oce%C3%A2nico/@-23.0068023,-43.3131175,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd0b87ec0a9b3:0xacd510404de13fd6!8m2!3d-23.0068073!4d-43.3109288 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 181,
+    "Latitude": -22.963776,
+    "Longitude": -43.171535,
+    "Descricao": "Supermercado Zona Sul, Av. Atlântica, 866 - Leme, Rio de Janeiro - RJ, 22010-000<br><br> <a href=https://www.google.com/maps/place/Supermercado+Zona+Sul/@-22.963742,-43.1719244,18.75z/data=!4m5!3m4!1s0x998000ef626465:0x619355c437a9ac09!8m2!3d-22.9637791!4d-43.1715348 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"
   }
 ]
