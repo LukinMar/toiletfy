@@ -32,7 +32,7 @@
               <legend>Necessita pagamento para usar? &#x1F4B0; </legend>
               <p></p>
                <label>
-                  <input name="group1" type="radio" id="valor" value="<img src='img/money.png' width='38px'  alt='Necessita pagamento'>" >
+                  <input name="group1" type="radio" id="valor" value="<br><br> <img src='img/money.png' width='38px'  alt='Necessita pagamento'>" >
                   <span>Sim</span>
                 </label>
               </p>
@@ -47,7 +47,7 @@
               <legend>Banheiro adaptado para PcD? &#x267f;</legend>
               <p></p>
                <label>
-                  <input name="group2" type="radio" id="pcd" value="<img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>">
+                  <input name="group2" type="radio" id="pcd" value="<br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>">
                   <span>Sim</span>
                 </label>
               </p>
@@ -62,11 +62,11 @@
             <legend>Avaliação</legend>
             <div class="rating">
               <br><br>
-              <input type="radio" name="star" id="star5" value="<img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"><label for="star5"></label>
-              <input type="radio" name="star" id="star4" value="<img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"><label for="star4"></label>
-              <input type="radio" name="star" id="star3" value="<img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"><label for="star3"></label>
-              <input type="radio" name="star" id="star2" value="<img src='img/2estrelas.png'  width='170px' alt='2 estrelas'>"><label for="star2"></label>
-              <input type="radio" name="star" id="star1" value="<img src='img/1estrelas.png'  width='170px' alt='1 estrelas'>"><label for="star1"></label>
+              <input type="radio" name="star" id="star5" value="<br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"><label for="star5"></label>
+              <input type="radio" name="star" id="star4" value="<br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"><label for="star4"></label>
+              <input type="radio" name="star" id="star3" value="<br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"><label for="star3"></label>
+              <input type="radio" name="star" id="star2" value="<br><br> <img src='img/2estrelas.png'  width='170px' alt='2 estrelas'>"><label for="star2"></label>
+              <input type="radio" name="star" id="star1" value="<br><br> <img src='img/1estrelas.png'  width='170px' alt='1 estrelas'>"><label for="star1"></label>
             </div>
             </fieldset>
             <br><br>
@@ -107,7 +107,7 @@ $('input[name=star]').change(function (e) {
                                  + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
                                  + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
-                                 + '<br><br>' + $('#valorinput3').val() + '<br><br>' + $('#valorinput').val()
+                                 + $('#valorinput3').val() + $('#valorinput').val()
                                  + $('#valorinput2').val()  + '"'
                                  + '\n' + '},');
       }
