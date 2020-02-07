@@ -1017,7 +1017,7 @@
     "Id": 170,
     "Latitude": -22.831433,
     "Longitude": -43.343304,
-    "Descricao": "Estação Coelho Neto, Av. Pastor Martin Luther King Junior, 207 - Inhauma, Rio de Janeiro - RJ, 20765-630<br><br> <a href=https://www.google.com/maps/place/Coelho+Neto/@-22.8315024,-43.3432937,15z/data=!4m2!3m1!1s0x0:0x3608a3c94f259246?sa=X&ved=2ahUKEwjCxdC9nL7nAhVJLLkGHaydCNIQ_BIwCnoECA4QCA1 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br>"
+    "Descricao": "Estação Coelho Neto, Av. Pastor Martin Luther King Junior, 207 - Inhauma, Rio de Janeiro - RJ, 20765-630<br><br> <a href=https://www.google.com/maps/place/Coelho+Neto/@-22.8315024,-43.3432937,15z/data=!4m2!3m1!1s0x0:0x3608a3c94f259246?sa=X&ved=2ahUKEwjCxdC9nL7nAhVJLLkGHaydCNIQ_BIwCnoECA4QCA1 target=_blank> Visualize no Google Maps </a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
   },
   {
     "Id": 171,
@@ -1084,5 +1084,29 @@
     "Latitude": -22.963776,
     "Longitude": -43.171535,
     "Descricao": "Supermercado Zona Sul, Av. Atlântica, 866 - Leme, Rio de Janeiro - RJ, 22010-000<br><br> <a href=https://www.google.com/maps/place/Supermercado+Zona+Sul/@-22.963742,-43.1719244,18.75z/data=!4m5!3m4!1s0x998000ef626465:0x619355c437a9ac09!8m2!3d-22.9637791!4d-43.1715348 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"
+  },
+  {
+    "Id": 182,
+    "Latitude": -22.89679,
+    "Longitude": -43.123891,
+    "Descricao": "Shopping Plaza Niterói , Rua Quinze de Novembro, 8 - Centro, Niterói - RJ, 24020-125<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Plaza+Niter%C3%B3i/@-22.8968013,-43.1260733,17z/data=!3m1!4b1!4m5!3m4!1s0x9983db2748ab47:0x2149de2763f63c60!8m2!3d-22.8968063!4d-43.1238846 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"
+  },
+  {
+    "Id": 183,
+    "Latitude": -22.904749,
+    "Longitude": -43.131609,
+    "Descricao": "Universidade Federal Fluminense - Campus Praia Vermelha, R. Passo da Pátria, 152-470 - São Domingos, Niterói - RJ, 24210-240<br><br> <a href=https://www.google.com.br/maps/place/Universidade+Federal+Fluminense+-+Campus+Praia+Vermelha/@-22.9048575,-43.1338554,17z/data=!3m1!4b1!4m5!3m4!1s0x99817dce2f93eb:0x9e97773b91b93bba!8m2!3d-22.9048625!4d-43.1316667 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
+  },
+  {
+    "Id": 184,
+    "Latitude": -22.89882,
+    "Longitude": -43.106484,
+    "Descricao": "Mestre do Suco, R. Dr. Paulo César, 221 - Pé Pequeno, Niterói - RJ, 24220-401<br><br> <a href=https://www.google.com.br/maps/place/Lanchonete+Mestre+do+Suco/@-22.8977374,-43.1073639,18.25z/data=!4m8!1m2!2m1!1sla+sale!3m4!1s0x0:0x761812f9b579af32!8m2!3d-22.8988309!4d-43.1064976 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 185,
+    "Latitude": -22.893779,
+    "Longitude": -43.124348,
+    "Descricao": "Pop Mall , Praça Araribóia, 8 - Centro, Niterói - RJ, 24020-030<br><br> <a href=https://www.google.com.br/maps/place/Pop+Mall+Niter%C3%B3i/@-22.8937863,-43.126529,17z/data=!3m1!4b1!4m5!3m4!1s0x9983c504c3bdbf:0x58187818aef92c3f!8m2!3d-22.8937913!4d-43.1243403 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
   }
 ]
