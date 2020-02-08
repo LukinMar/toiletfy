@@ -393,7 +393,7 @@
     "Id": 66,
     "Latitude": -22.883449,
     "Longitude": -43.343711,
-    "Descricao": "Prezunic, R. Cândido Benício, 20 - Campinho, Rio de Janeiro - RJ, 21320-060 <br><br> <a href='https://www.google.com.br/maps/place/Prezunic+-+Campinho/@-22.8834394,-43.34561,17z/data=!3m1!4b1!4m5!3m4!1s0x9962c43dbb4b91:0x5fb4ffd57c23478!8m2!3d-22.8834394!4d-43.3434213' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+    "Descricao": "Prezunic, R. Cândido Benício, 20 - Campinho, Rio de Janeiro - RJ, 21320-060 <br><br> <a href='https://www.google.com.br/maps/place/Prezunic+-+Campinho/@-22.8834394,-43.34561,17z/data=!3m1!4b1!4m5!3m4!1s0x9962c43dbb4b91:0x5fb4ffd57c23478!8m2!3d-22.8834394!4d-43.3434213' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/2estrelas.png'  width='170px' alt='2 estrelas'>"
   },
   {
     "Id": 67,
@@ -693,7 +693,7 @@
     "Id": 116,
     "Latitude": -22.924697,
     "Longitude": -43.228143,
-    "Descricao": "Hortifruti, Rua Conde de Bonfim, 199 - Tijuca, Rio de Janeiro - RJ, 20520-050 <br><br> <a href='https://www.google.com.br/maps/place/Hortifruti/@-22.9245462,-43.2282515,20.25z/data=!4m5!3m4!1s0x997e46cb1abd85:0xb833bfb28aea5ba4!8m2!3d-22.9246712!4d-43.2281513' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+    "Descricao": "Hortifruti, Rua Conde de Bonfim, 199 - Tijuca, Rio de Janeiro - RJ, 20520-050 <br><br> <a href='https://www.google.com.br/maps/place/Hortifruti/@-22.9245462,-43.2282515,20.25z/data=!4m5!3m4!1s0x997e46cb1abd85:0xb833bfb28aea5ba4!8m2!3d-22.9246712!4d-43.2281513' target='_blank'>Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'><br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   },
   {
     "Id": 117,
@@ -717,7 +717,7 @@
     "Id": 120,
     "Latitude": -22.864205,
     "Longitude": -43.435771,
-    "Descricao": "Posto Vagão, Av. Brasil, 29659 - Realengo, Rio de Janeiro - RJ, 21720-000 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Vag%C3%A3o/@-22.8640601,-43.4357594,19z/data=!4m5!3m4!1s0x9961c587e229c7:0x4bccaddcb24581ec!8m2!3d-22.8642306!4d-43.4357374' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+    "Descricao": "Posto Vagão, Av. Brasil, 29659 - Realengo, Rio de Janeiro - RJ, 21720-000 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Vag%C3%A3o/@-22.8640601,-43.4357594,19z/data=!4m5!3m4!1s0x9961c587e229c7:0x4bccaddcb24581ec!8m2!3d-22.8642306!4d-43.4357374' target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='170px' alt='4 estrelas'> <br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
   },
   {
     "Id": 121,
@@ -1108,5 +1108,59 @@
     "Latitude": -22.893779,
     "Longitude": -43.124348,
     "Descricao": "Pop Mall , Praça Araribóia, 8 - Centro, Niterói - RJ, 24020-030<br><br> <a href=https://www.google.com.br/maps/place/Pop+Mall+Niter%C3%B3i/@-22.8937863,-43.126529,17z/data=!3m1!4b1!4m5!3m4!1s0x9983c504c3bdbf:0x58187818aef92c3f!8m2!3d-22.8937913!4d-43.1243403 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 186,
+    "Latitude": -22.984391,
+    "Longitude": -43.211617,
+    "Descricao": "Ipanema 2000, R. Visc. de Pirajá, 547 - Ipanema, Rio de Janeiro - RJ, 29185-000<br><br> <a href=https://www.google.com.br/maps/place/Ipanema+2000/@-22.9844052,-43.2116915,20.75z/data=!4m5!3m4!1s0x9bd5c250aa8f8b:0xb628863e99cd2645!8m2!3d-22.9843954!4d-43.211617 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 187,
+    "Latitude": -22.972117,
+    "Longitude": -43.375041,
+    "Descricao": "Hilton, Av. Embaixador Abelardo Bueno, 1430 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-040<br><br> <a href=https://www.google.com.br/maps/place/Hilton+Barra+Rio+De+Janeiro/@-22.9721416,-43.3772403,17z/data=!3m1!4b1!4m8!3m7!1s0x9bd97dbd5bdfc9:0x9359f46c48704183!5m2!4m1!1i2!8m2!3d-22.9721466!4d-43.3750516 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"
+  },
+  {
+    "Id": 188,
+    "Latitude": -22.901762,
+    "Longitude": -43.177655,
+    "Descricao": "Supermercado Zona Sul, R. da Alfândega, 33 - Centro, Rio de Janeiro - RJ, 20070-000<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul+-+Centro,+Rua+da+Alf%C3%A2ndega/@-22.9018216,-43.1798184,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5ecdf9c6f5:0x606fe0f37825971e!8m2!3d-22.9018266!4d-43.1776297 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'><br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 189,
+    "Latitude": -22.89709,
+    "Longitude": -43.177993,
+    "Descricao": "Mosteiro de São Bento, R. Dom Gerardo, 68 - Centro, Rio de Janeiro - RJ, 20090-030<br><br> <a href=https://www.google.com.br/maps/place/Mosteiro+de+S%C3%A3o+Bento/@-22.8970815,-43.1801782,17z/data=!3m1!4b1!4m5!3m4!1s0x997f59bf33fa73:0x41dd2da43b718ef7!8m2!3d-22.8970865!4d-43.1779895 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 190,
+    "Latitude": -22.93232,
+    "Longitude": -43.181847,
+    "Descricao": "Posto Ipiranga, R. das Laranjeiras, 75 - Laranjeiras, Rio de Janeiro - RJ, 22240-004<br><br> <a href=https://www.google.com.br/maps/place/Ipiranga+-+Posto+Dom+Pedro+II/@-22.932389,-43.1840057,17z/data=!3m1!4b1!4m5!3m4!1s0x997f85a1bab04d:0xa554fda7994e2ee8!8m2!3d-22.932394!4d-43.181817 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 191,
+    "Latitude": 21.041642,
+    "Longitude": -86.874198,
+    "Descricao": "Aeroporto Internacional de Cancún, Cancun - Chetumal Km 22, 77565 Cancún, Q.R., México <br><br> <a href=https://www.google.com.br/maps/place/Aeroporto+Internacional+de+Canc%C3%BAn/@21.0415832,-86.8767019,17.25z/data=!4m5!3m4!1s0x8f4e8047678409bf:0x5fd4feaf78eabb92!8m2!3d21.0417033!4d-86.8740062 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' alt='5 estrelas'>"
+  },
+  {
+    "Id": 192,
+    "Latitude": -22.924296,
+    "Longitude": -43.373542,
+    "Descricao": "Supermercado Prezunic, Estr. dos Bandeirantes, 105 - Taquara, Rio de Janeiro - RJ, 22710-570 <br><br> <a href=https://www.google.com.br/maps/place/Prezunic+-+Taquara/@-22.9292551,-43.381297,15z/data=!4m8!1m2!2m1!1sprezunic+taquara!3m4!1s0x9bd8f120a77169:0x4ddbf48a9e213748!8m2!3d-22.9243133!4d-43.3735421 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' alt='2 estrelas'>"
+  },
+  {
+    "Id": 193,
+    "Latitude": -23.013629,
+    "Longitude": -43.397743,
+    "Descricao": "Quiosque Come-Come, Av. Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ, 22795-006<br><br> <a href=https://www.google.com.br/maps/place/Quiosque+Come-Come/@-23.0136506,-43.3736352,14z/data=!4m8!1m2!2m1!1squiosque+come+come!3m4!1s0x9bdb65458c9cfb:0x37e584786b7fa84e!8m2!3d-23.0136134!4d-43.3977395 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
+  },
+  {
+    "Id": 194,
+    "Latitude": -22.925125,
+    "Longitude": -43.679393,
+    "Descricao": "Chatuba Materiais de Construção, R. Felipe Cardoso, 1150 - Santa Cruz, Rio de Janeiro - RJ, 23520-572<br><br> <a href=https://www.google.com.br/maps/place/Chatuba+Materiais+de+Constru%C3%A7%C3%A3o+-+Santa+Cruz/@-22.9015943,-43.6277432,12z/data=!4m8!1m2!2m1!1sloja+chatuba+santa+cruz!3m4!1s0x9bfa5e46c6b6c3:0x195b01fb8bf420e7!8m2!3d-22.9250871!4d-43.6794512 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
   }
 ]
