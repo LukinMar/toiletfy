@@ -151,3 +151,15 @@ body {
     transform: translateY(0) rotate(-45deg);
   }
 }
+
+.recarregar {
+  display: block !important;
+  text-align: right !important;
+  margin-right: 4% !important;
+}
+
+@media screen and (min-width: 993px) {
+  .recarregar {
+    display: none !important;
+  }
+}
