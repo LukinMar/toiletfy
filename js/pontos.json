@@ -1162,5 +1162,35 @@
     "Latitude": -22.925125,
     "Longitude": -43.679393,
     "Descricao": "Chatuba Materiais de Construção, R. Felipe Cardoso, 1150 - Santa Cruz, Rio de Janeiro - RJ, 23520-572<br><br> <a href=https://www.google.com.br/maps/place/Chatuba+Materiais+de+Constru%C3%A7%C3%A3o+-+Santa+Cruz/@-22.9015943,-43.6277432,12z/data=!4m8!1m2!2m1!1sloja+chatuba+santa+cruz!3m4!1s0x9bfa5e46c6b6c3:0x195b01fb8bf420e7!8m2!3d-22.9250871!4d-43.6794512 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' alt='3 estrelas'>"
+  },
+  {
+    "Id": 195,
+    "Latitude": -22.902911,
+    "Longitude": -43.34691,
+    "Descricao": "INSS, Rua Barão, 207 - Praça Seca, Rio de Janeiro - RJ, 21321-620<br><br> <a href=https://www.google.com.br/maps/place/Instituto+Nacional+do+Seguro+Social/@-22.90288,-43.3470265,21z/data=!4m5!3m4!1s0x9962a03bef86a7:0xd952a69f89722047!8m2!3d-22.9029121!4d-43.3469137 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' alt='2 estrelas'>"
+  },
+  {
+    "Id": 196,
+    "Latitude": -22.99653,
+    "Longitude": -43.355995,
+    "Descricao": "Posto Ipiranga, Av. Luís Carlos Prestes, 8 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-055<br><br> <a href=https://www.google.com.br/maps/place/Posto+Ipiranga/@-22.9965125,-43.3566014,18z/data=!3m1!4b1!4m5!3m4!1s0x936f33ece076f243:0x8d9377afd7b8bb6a!8m2!3d-22.9965605!4d-43.3559967 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'><br><br> <img src='img/PCD.png' width='38px'  alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 197,
+    "Latitude": -22.527497,
+    "Longitude": -43.212677,
+    "Descricao": "Palacio Quitandinha, Av. Getulio Vargas - Quitandinha, Petrópolis - RJ, 25650-027<br><br> <a href=https://www.google.com.br/maps/place/Palacio+Quitandinha/@-22.5275066,-43.2148652,17z/data=!3m1!4b1!4m5!3m4!1s0x990857575f0a2f:0xe898fbb0c6b736bc!8m2!3d-22.5275116!4d-43.2126765 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
+  },
+  {
+    "Id": 198,
+    "Latitude": -22.984625,
+    "Longitude": -43.222386,
+    "Descricao": "Sérgio Franco, Av. Ataulfo de Paiva, 669 - 1º andar - Leblon, Rio de Janeiro - RJ, 22440-030<br><br> <a href=https://www.google.com.br/maps/place/S%C3%A9rgio+Franco+CID+Leblon/@-22.9846218,-43.2245779,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd5ad784eb78f:0x322e1da5b51b1d2!8m2!3d-22.9846268!4d-43.2223892 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
+  },
+  {
+    "Id": 199,
+    "Latitude": -22.896645,
+    "Longitude": -43.181945,
+    "Descricao": "Museu de Arte do Rio, Praça Mauá, 5 - Centro, Rio de Janeiro - RJ, 20081-240<br><br> <a href=https://www.google.com.br/maps/place/Museu+de+Arte+do+Rio/@-22.8966508,-43.1841452,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5a6615c3e7:0x3f311c24ed97b20!8m2!3d-22.8966558!4d-43.1819565 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' alt='4 estrelas'>"
   }
 ]
