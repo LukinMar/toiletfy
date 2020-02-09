@@ -38,6 +38,7 @@ body {
 }
 #nav-mobile {
   background-color: #decdee;
+  margin-top: 5px;
 }
 #menu {
   position: fixed;
@@ -153,13 +154,24 @@ body {
 }
 
 .recarregar {
-  display: block !important;
-  text-align: right !important;
-  margin-right: 4% !important;
+  float: right !important ;
+  position: relative !important;
+  z-index: 1 !important;
+  height: 56px !important;
+  margin: 0 18px !important;
 }
 
 @media screen and (min-width: 993px) {
   .recarregar {
     display: none !important;
   }
+}
+
+.warning {
+  float: right !important ;
+  position: relative !important;
+  z-index: 1 !important;
+  height: 56px !important;
+  margin: 0 !important;
+  color: rgba(0, 0, 0, 0.54) !important;
 }
