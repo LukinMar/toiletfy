@@ -213,7 +213,7 @@
     "Id": 36,
     "Latitude": -23.203069,
     "Longitude": -45.883799,
-    "Descricao": "Extra, Av. Dr. Nelson d'Ávila, 1941 - Jd. Osvaldo, São José dos Campos - SP, 12245-030 <br><br> <a href='https://www.google.com.br/maps/place/Extra+-+S%C3%A3o+Jos%C3%A9+dos+Campos/@-23.203133,-45.8858267,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a5d0c86119f:0xf54737948bffdeae!8m2!3d-23.203133!4d-45.883638' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Extra Hipermercado, Av. Dr. Nelson d'Ávila, 1941 - Jd. Osvaldo, São José dos Campos - SP, 12245-030 <br><br> <a href='https://www.google.com.br/maps/place/Extra+-+S%C3%A3o+Jos%C3%A9+dos+Campos/@-23.203133,-45.8858267,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a5d0c86119f:0xf54737948bffdeae!8m2!3d-23.203133!4d-45.883638' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 37,
@@ -273,7 +273,7 @@
     "Id": 46,
     "Latitude": -23.207522,
     "Longitude": -45.906093,
-    "Descricao": "Extra Hiper, Av. Jorge Zarur, 100 - Jardim Apolo, São José dos Campos - SP, 12243-081 <br><br> <a href='https://www.google.com.br/maps/place/Extra+Hiper/@-23.2074892,-45.9082373,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc3505764a2a8f:0xad55c666b98740b4!8m2!3d-23.2074892!4d-45.9060486' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Extra Hipermercado, Av. Jorge Zarur, 100 - Jardim Apolo, São José dos Campos - SP, 12243-081 <br><br> <a href='https://www.google.com.br/maps/place/Extra+Hiper/@-23.2074892,-45.9082373,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc3505764a2a8f:0xad55c666b98740b4!8m2!3d-23.2074892!4d-45.9060486' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 47,
@@ -1204,5 +1204,191 @@
     "Latitude": -5.840454,
     "Longitude": -35.20955,
     "Descricao": "Via Direta Shopping, Av. Sen. Salgado Filho, 2233 - Lagoa Nova, Natal - RN, 59078-000<br><br> <a href=https://www.google.com.br/maps/place/Via+Direta+Shopping/@-5.8405127,-35.2117168,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2ff8b8d65e961:0xe005edc23b8cce1!8m2!3d-5.840518!4d-35.2095281 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt  ='3 estrelas'>"
+  },
+  {
+    "Id": 202,
+    "Latitude": -22.978605,
+    "Longitude": -43.492518,
+    "Descricao": "Posto Ipiranga, Estr. dos Bandeirantes, 23579 - Vargem Grande, Rio de Janeiro - RJ, 22785-091<br><br> <a href=https://www.google.com.br/maps/place/Auto+Posto+de+Gasolina+e+Serv+L+%26+Z/@-22.9786595,-43.4947176,17z/data=!3m1!4b1!4m5!3m4!1s0x9be78f6a384c3d:0xa7ae203d5ec6b68f!8m2!3d-22.9786645!4d-43.4925289 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 203,
+    "Latitude": -23.012126,
+    "Longitude": -43.540595,
+    "Descricao": "Posto Ipiranga, Av. das Américas, 46673 - Ilha de Guaratiba, Rio de Janeiro - RJ, 23032-050<br><br> <a href=https://www.google.com.br/maps/place/Auto+Posto+Trevo+das+Am%C3%A9ricas+-+Ipiranga/@-23.0121483,-43.5427753,17z/data=!3m1!4b1!4m5!3m4!1s0x9be88dc38757e9:0xafc90a444c2340b0!8m2!3d-23.0121533!4d-43.5405866 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 204,
+    "Latitude": -22.890336,
+    "Longitude": -43.559822,
+    "Descricao": "Posto Ipiranga, Estr. das Capoeiras, 605 - Campo Grande, Rio de Janeiro - RJ, 23085-660<br><br> <a href=https://www.google.com.br/maps/place/Posto+Ipiranga/@-22.890341,-43.5597045,17z/data=!4m5!3m4!1s0x9be16016a55555:0xb66ebdd0104fb0f8!8m2!3d-22.890386!4d-43.5598489 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 205,
+    "Latitude": -22.908931,
+    "Longitude": -43.56639,
+    "Descricao": "Posto Ipiranga, Estr. do Monteiro, 50 - Campo Grande, Rio de Janeiro - RJ, 23045-830<br><br> <a href=https://www.google.com.br/maps/place/Posto+Ipiranga/@-22.9089197,-43.5685862,17z/data=!4m5!3m4!1s0x9be407440068f1:0x440218ff7a1d5c18!8m2!3d-22.9089245!4d-43.5663975 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 206,
+    "Latitude": -22.913483,
+    "Longitude": -43.563492,
+    "Descricao": "Posto Shell, R. Augusto de Vasconcelos, 1290 - Campo Grande, Rio de Janeiro - RJ, 23040-120<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Auto+Posto+Campuscao+Ltda/@-22.9135931,-43.5636177,19z/data=!4m5!3m4!1s0x9be576df838e29:0xa97be829b58896a2!8m2!3d-22.9134834!4d-43.5634954 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 207,
+    "Latitude": -5.865849,
+    "Longitude": -35.185664,
+    "Descricao": "Praia Shopping, Av. Engenheiro Roberto Freire, 3132 - Capim Macio, Natal - RN, 59082-400elos, 1290 - Campo Grande, Rio de Janeiro - RJ, 23040-120<br><br> <a href=https://www.google.com.br/maps/place/Praia+Shopping/@-5.8658864,-35.1878204,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2ff3f056a3c5d:0xede03e489822d26!8m2!3d-5.8658917!4d-35.1856317 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 208,
+    "Latitude": -5.85075,
+    "Longitude": -35.205631,
+    "Descricao": "Cidade Jardim Shopping, Av. Engenheiro Roberto Freire, 340 - Capim Macio, Natal - RN, 59080-900<br><br> <a href=https://www.google.com.br/maps/place/Cidade+Jardim+Shopping/@-5.8507662,-35.2078199,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2ff6f6fe0fcc1:0x3200ac4d357017dc!8m2!3d-5.8507715!4d-35.2056312 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 209,
+    "Latitude": -5.850441,
+    "Longitude": -35.207251,
+    "Descricao": "Hiper Bompreço, Av. Engenheiro Roberto Freire, 142 - Capim Macio, Natal - RN, 59080-075<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Hiper+Bompre%C3%A7o/@-5.8507662,-35.2078199,17z/data=!4m12!1m6!3m5!1s0x7b2ff6f6fe0fcc1:0x3200ac4d357017dc!2sCidade+Jardim+Shopping!8m2!3d-5.8507715!4d-35.2056312!3m4!1s0x7b2ff64d0c80e29:0xe45f06efb744ecd3!8m2!3d-5.850329!4d-35.2072535 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 210,
+    "Latitude": -5.75808,
+    "Longitude": -35.246808,
+    "Descricao": "Partage Norte Shopping Natal, Av. Dr. João Medeiros Filho, 2395 - Potengi, Natal - RN, 59110-200<br><br> <a href=https://www.google.com.br/maps/place/Partage+Norte+Shopping+Natal/@-5.7581285,-35.2489641,17z/data=!3m1!4b1!4m5!3m4!1s0x7b3aa4484175c1d:0x7c50cdd1371fb131!8m2!3d-5.7581338!4d-35.2467754 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 211,
+    "Latitude": -5.759212,
+    "Longitude": -35.247526,
+    "Descricao": "Carrefour Hipermercado, Av. Dr. João Medeiros Filho, 2005 - Potengi, Natal - RN, 59136-070<br><br> <a href=https://www.google.com.br/maps/place/Carrefour+Hipermercado/@-5.7581285,-35.2489641,17z/data=!4m12!1m6!3m5!1s0x7b3aa4484175c1d:0x7c50cdd1371fb131!2sPartage+Norte+Shopping+Natal!8m2!3d-5.7581338!4d-35.2467754!3m4!1s0x7b3aa4ff8472387:0x9657cc0ff511cd5e!8m2!3d-5.7592726!4d-35.2475323 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 212,
+    "Latitude": -5.759788,
+    "Longitude": -35.247129,
+    "Descricao": "Shopping Estação, Av. Dr. João Medeiros Filho, 2300 - Potengi, Natal - RN, 59110-200<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Esta%C3%A7%C3%A3o/@-5.7581285,-35.2489641,17z/data=!4m5!3m4!1s0x0:0xb328384839ff1590!8m2!3d-5.759831!4d-35.2471085 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 213,
+    "Latitude": -22.806596,
+    "Longitude": -43.197928,
+    "Descricao": "Posto Ipiranga, R. Muiatuca, 125 - Jardim Carioca, Rio de Janeiro - RJ, 21921-680<br><br> <a href=https://www.google.com.br/maps/place/Posto+Ipiranga/@-22.806453,-43.2002987,17z/data=!4m5!3m4!1s0x997821278bd519:0xb854a291803ee61b!8m2!3d-22.8066295!4d-43.1979036 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 214,
+    "Latitude": -22.805726,
+    "Longitude": -43.199988,
+    "Descricao": "Supermercado Prezunic, Estrada do Galeão, 1800 - Jardim Carioca, Rio de Janeiro - RJ, 21931-524<br><br> <a href=https://www.google.com.br/maps/place/Prezunic+-+Ilha+do+Governador/@-22.806453,-43.2002987,17z/data=!4m5!3m4!1s0x997826de2878a7:0x6e140ba53a7fa9aa!8m2!3d-22.8058148!4d-43.1999715 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 215,
+    "Latitude": -22.802506,
+    "Longitude": -43.202815,
+    "Descricao": "Assaí Atacadista, Av. Maestro Paulo e Silva, 100 - Jardim Carioca, Rio de Janeiro - RJ, 21920-445<br><br> <a href=https://www.google.com.br/maps/place/Assa%C3%AD+Atacadista/@-22.8057706,-43.1999446,17z/data=!4m5!3m4!1s0x997788523264ab:0xc7bb752b9a3033da!8m2!3d-22.8027421!4d-43.2024727 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 216,
+    "Latitude": -22.801919,
+    "Longitude": -43.20179,
+    "Descricao": "Ilha Plaza, Av. Maestro Paulo e Silva, 400 - Jardim Carioca, Rio de Janeiro - RJ, 21920-445<br><br> <a href=https://www.google.com.br/maps/place/Ilha+Plaza/@-22.802685,-43.2046657,17z/data=!3m1!5s0x997788311266db:0xe2320e122cf2ed45!4m5!3m4!1s0x99778d72deb42f:0xb55a80d7d6333024!8m2!3d-22.8019554!4d-43.2017456 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 217,
+    "Latitude": -22.804428,
+    "Longitude": -43.207859,
+    "Descricao": "Extra Hipermercado, Av. Maestro Paulo e Silva, 400Estrada do Galeão, 2700 - Cacuia, Rio de Janeiro - RJ, 21931-005 - Jardim Carioca, Rio de Janeiro - RJ, 21920-445<br><br> <a href=https://www.google.com.br/maps/place/Extra+Hipermercado+-+Gale%C3%A3o/@-22.8027022,-43.2069929,17.25z/data=!4m5!3m4!1s0x0:0x5527059765111f28!8m2!3d-22.804042!4d-43.2076608 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 218,
+    "Latitude": -22.805252,
+    "Longitude": -43.208584,
+    "Descricao": "Posto Shell, Estrada do Galeão, 2781 - Portuguesa, Rio de Janeiro - RJ, 21931-387<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Amor+da+Ilha/@-22.8051658,-43.2086837,17z/data=!4m5!3m4!1s0x99782cf5c59405:0x5bdbfa5ef2dd6fec!8m2!3d-22.8052548!4d-43.2085841 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 219,
+    "Latitude": -22.892838,
+    "Longitude": -43.239203,
+    "Descricao": "Posto BR, R. São Luiz Gonzaga, 2286 - São Cristóvão, Rio de Janeiro - RJ, 20910-062<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+Meia+Noite/@-22.8929018,-43.23901,17z/data=!4m5!3m4!1s0x997e91a8683071:0x1d41d99c0cdc9761!8m2!3d-22.8928829!4d-43.2391901 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 220,
+    "Latitude": -22.892225,
+    "Longitude": -43.240973,
+    "Descricao": "Supermercado Prezunic, Av. Dom Hélder Câmara, 105 - Benfica, Rio de Janeiro - RJ, 20911-291<br><br> <a href=https://www.google.com.br/maps/place/Prezunic+-+Benfica/@-22.8924372,-43.2402975,17z/data=!4m5!3m4!1s0x997e90f03edb0f:0x4e39eff613417f83!8m2!3d-22.8922404!4d-43.2409704 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 221,
+    "Latitude": -22.908387,
+    "Longitude": -43.219979,
+    "Descricao": "Posto Ipiranga, R. Francisco Eugênio, 349 - São Cristóvão, Rio de Janeiro - RJ, 20941-120<br><br> <a href=https://www.google.com.br/maps/place/Centro+de+Conveni%C3%AAncias+Millennium+Ltda./@-22.9082438,-43.2200434,17z/data=!4m5!3m4!1s0x997ef9048dc4b3:0xc0f3a60bff691ce0!8m2!3d-22.9084372!4d-43.2199862 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 222,
+    "Latitude": -5.886998,
+    "Longitude": -35.210357,
+    "Descricao": "Nordestão, Av. Maria Lacerda Montenegro, 1400 - Nova Parnamirim, Parnamirim - RN, 59152-600<br><br> <a href=https://www.google.com.br/maps/place/Nordest%C3%A3o+Nova+Parnamirim/@-5.8870037,-35.212546,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2566617207c07:0x9f1b8532bbfb212e!8m2!3d-5.887009!4d-35.2103573 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 223,
+    "Latitude": -5.884426,
+    "Longitude": -35.213029,
+    "Descricao": "Extra Hipermercado, Av. Maria Lacerda Montenegro, s/n - Nova Parnamirim, Parnamirim - RN<br><br> <a href=https://www.google.com.br/maps/place/Extra+Hipermercado+%7C+Nova+Parnamirim/@-5.8870037,-35.212546,17z/data=!4m12!1m6!3m5!1s0x7b2566617207c07:0x9f1b8532bbfb212e!2sNordest%C3%A3o+Nova+Parnamirim!8m2!3d-5.887009!4d-35.2103573!3m4!1s0x0:0x9a4124048e5d93ca!8m2!3d-5.884444!4d-35.2130008 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 224,
+    "Latitude": -5.859275,
+    "Longitude": -35.214695,
+    "Descricao": "Sam's Club, Av. Dão Silveira, 4500 - Candelária, Natal - RN, 59066-900<br><br> <a href=https://www.google.com.br/maps/place/Sam's+Club+Natal/@-5.8593659,-35.21683,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2ff5f8314a363:0xbdf318475e4988b2!8m2!3d-5.8593712!4d-35.2146413 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 225,
+    "Latitude": -5.844688,
+    "Longitude": -35.210585,
+    "Descricao": "Carrefour Hipermercado, 02 - BR-101, s/n - Lagoa Nova, Natal - RN, 59063-904<br><br> <a href=https://www.google.com.br/maps/place/Carrefour+Hipermercado/@-5.8446373,-35.2127523,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2ff794c869c81:0xb6d7f048e652dac!8m2!3d-5.8446426!4d-35.2105636 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 226,
+    "Latitude": -5.878162,
+    "Longitude": -35.201281,
+    "Descricao": "Supermercado Favorito, Av. Ayrton Senna, 3215 - Neópolis, Natal - RN, 59086-100<br><br> <a href=https://www.google.com.br/maps/place/Favorito+Supermercados+-+Ne%C3%B3polis/@-5.878074,-35.2033711,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2f8b2e5b7a20d:0xe6a7014d0efd49c0!8m2!3d-5.8780793!4d-35.2011824 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 227,
+    "Latitude": -22.917238,
+    "Longitude": -43.210337,
+    "Descricao": "Posto Ipiranga, Av. Paulo de Frontin - Rio Comprido, Rio de Janeiro - RJ, 20260-142<br><br> <a href=https://www.google.com.br/maps/place/Ipiranga/@-22.9171364,-43.2110813,18.25z/data=!4m5!3m4!1s0x997fabbc7ca92f:0x35a348831e22737!8m2!3d-22.9172491!4d-43.2103436 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 228,
+    "Latitude": -22.930956,
+    "Longitude": -43.325222,
+    "Descricao": "Posto Ipiranga, Estr. dos Três Rios, 2141 - Jacarepaguá, Rio de Janeiro - RJ, 22745-003<br><br> <a href=Estr. dos Três Rios, 2141 - Jacarepaguá, Rio de Janeiro - RJ, 22745-003 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 229,
+    "Latitude": -22.928549,
+    "Longitude": -43.335298,
+    "Descricao": "Posto Ipiranga, Estr. do Pau-Ferro, 1128 - Freguesia de Jacarepaguá, Rio de Janeiro - RJ, 22743-052<br><br> <a href=https://www.google.com.br/maps/place/Auto+Posto+Valdevez/@-22.9285583,-43.3374841,17z/data=!4m5!3m4!1s0x9bd818be4dae05:0x1482cf86dfb173b2!8m2!3d-22.9285635!4d-43.3352957 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 230,
+    "Latitude": -22.932366,
+    "Longitude": -43.381813,
+    "Descricao": "Posto Ipiranga, Estrada do Guerenguê, 1291 - Taquara, Rio de Janeiro - RJ, 22713-002<br><br> <a href=https://www.google.com.br/maps/place/Posto+Guerengu%C3%AA+-+Ipiranga/@-22.9322965,-43.3816293,17z/data=!4m5!3m4!1s0x9bd91953b3c63b:0xa8dedd5b180dcb77!8m2!3d-22.932398!4d-43.3817898 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 231,
+    "Latitude": -22.924244,
+    "Longitude": -43.373512,
+    "Descricao": "Supermercado Prezunic, Estr. dos Bandeirantes, 105 - Taquara, Rio de Janeiro - RJ, 22710-570<br><br> <a href=https://www.google.com.br/maps/place/Prezunic+-+Taquara/@-22.929392,-43.3810002,16z/data=!4m5!3m4!1s0x0:0x4ddbf48a9e213748!8m2!3d-22.9243127!4d-43.373542 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 232,
+    "Latitude": -22.942825,
+    "Longitude": -43.366997,
+    "Descricao": "Supermercado Prezunic, Estrada Marechal Miguel Salazar Mendes de Moraes, 906 - Taquara, Rio de Janeiro - RJ, 22770-331<br><br> <a href=https://www.google.com.br/maps/place/Prezunic+Supermercado/@-22.9365621,-43.3781997,15.75z/data=!4m5!3m4!1s0x9bd9aa24600203:0x42a194dc2b6df20f!8m2!3d-22.9428948!4d-43.3670148 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
