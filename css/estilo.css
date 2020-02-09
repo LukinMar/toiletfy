@@ -39,6 +39,7 @@ body {
 #nav-mobile {
   background-color: #decdee;
   margin-top: 5px;
+  height: 100%;
 }
 #menu {
   position: fixed;
@@ -168,8 +169,11 @@ body {
 }
 
 .warning {
+  display: block !important;
+  bottom: 0 !important;
+  position: fixed !important;
+  text-align: right !important;
   float: right !important ;
-  position: relative !important;
   z-index: 1 !important;
   height: 56px !important;
   margin: 0 !important;
