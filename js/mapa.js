@@ -92,26 +92,10 @@ function initialize() {
     gestureHandling: "greedy",
     styles: [
       {
-        featureType: "poi",
-        stylers: [
-          {
-            visibility: "off"
-          }
-        ]
-      },
-      {
-        featureType: "transit.station.bus",
-        stylers: [
-          {
-            visibility: "off"
-          }
-        ]
-      },
-      {
         elementType: "geometry",
         stylers: [
           {
-            color: "#f5f5f5"
+            color: "#212121"
           }
         ]
       },
@@ -127,7 +111,7 @@ function initialize() {
         elementType: "labels.text.fill",
         stylers: [
           {
-            color: "#616161"
+            color: "#757575"
           }
         ]
       },
@@ -135,12 +119,30 @@ function initialize() {
         elementType: "labels.text.stroke",
         stylers: [
           {
-            color: "#f5f5f5"
+            color: "#212121"
           }
         ]
       },
       {
-        featureType: "administrative.land_parcel",
+        featureType: "administrative",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#757575"
+          }
+        ]
+      },
+      {
+        featureType: "administrative.country",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#9e9e9e"
+          }
+        ]
+      },
+      {
+        featureType: "administrative.locality",
         elementType: "labels.text.fill",
         stylers: [
           {
@@ -150,15 +152,6 @@ function initialize() {
       },
       {
         featureType: "poi",
-        elementType: "geometry",
-        stylers: [
-          {
-            color: "#eeeeee"
-          }
-        ]
-      },
-      {
-        featureType: "poi",
         elementType: "labels.text.fill",
         stylers: [
           {
@@ -167,52 +160,32 @@ function initialize() {
         ]
       },
       {
-        featureType: "poi.park",
-        elementType: "geometry",
+        featureType: "poi.attraction",
         stylers: [
           {
-            color: "#e5e5e5"
+            visibility: "off"
+          }
+        ]
+      },
+      {
+        featureType: "poi.business",
+        stylers: [
+          {
+            visibility: "off"
           }
         ]
       },
       {
         featureType: "poi.park",
-        elementType: "labels.text.fill",
-        stylers: [
-          {
-            color: "#9e9e9e"
-          }
-        ]
-      },
-      {
-        featureType: "road",
         elementType: "geometry",
         stylers: [
           {
-            color: "#ffffff"
+            color: "#181818"
           }
         ]
       },
       {
-        featureType: "road.arterial",
-        elementType: "labels.text.fill",
-        stylers: [
-          {
-            color: "#757575"
-          }
-        ]
-      },
-      {
-        featureType: "road.highway",
-        elementType: "geometry",
-        stylers: [
-          {
-            color: "#dadada"
-          }
-        ]
-      },
-      {
-        featureType: "road.highway",
+        featureType: "poi.park",
         elementType: "labels.text.fill",
         stylers: [
           {
@@ -221,29 +194,74 @@ function initialize() {
         ]
       },
       {
+        featureType: "poi.park",
+        elementType: "labels.text.stroke",
+        stylers: [
+          {
+            color: "#1b1b1b"
+          }
+        ]
+      },
+      {
+        featureType: "road",
+        elementType: "geometry.fill",
+        stylers: [
+          {
+            color: "#2c2c2c"
+          }
+        ]
+      },
+      {
+        featureType: "road",
+        elementType: "labels.text.fill",
+        stylers: [
+          {
+            color: "#8a8a8a"
+          }
+        ]
+      },
+      {
+        featureType: "road.arterial",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#373737"
+          }
+        ]
+      },
+      {
+        featureType: "road.highway",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#3c3c3c"
+          }
+        ]
+      },
+      {
+        featureType: "road.highway.controlled_access",
+        elementType: "geometry",
+        stylers: [
+          {
+            color: "#4e4e4e"
+          }
+        ]
+      },
+      {
         featureType: "road.local",
         elementType: "labels.text.fill",
         stylers: [
           {
-            color: "#9e9e9e"
+            color: "#616161"
           }
         ]
       },
       {
-        featureType: "transit.line",
-        elementType: "geometry",
+        featureType: "transit",
+        elementType: "labels.text.fill",
         stylers: [
           {
-            color: "#e5e5e5"
-          }
-        ]
-      },
-      {
-        featureType: "transit.station",
-        elementType: "geometry",
-        stylers: [
-          {
-            color: "#eeeeee"
+            color: "#757575"
           }
         ]
       },
@@ -252,7 +270,7 @@ function initialize() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#c9c9c9"
+            color: "#0d0d0d"
           }
         ]
       },
@@ -261,7 +279,7 @@ function initialize() {
         elementType: "labels.text.fill",
         stylers: [
           {
-            color: "#9e9e9e"
+            color: "#3d3d3d"
           }
         ]
       }
@@ -294,7 +312,7 @@ function abrirInfoBox(id, marker) {
 }
 
 function carregarPontos() {
-  $.getJSON("https://toiletfy.herokuapp.com/js/pontos.json", function(pontos) {
+  $.getJSON("js/pontos.json", function(pontos) {
     var latlngbounds = new google.maps.LatLngBounds();
 
     $.each(pontos, function(index, ponto) {
