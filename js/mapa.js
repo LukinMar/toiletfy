@@ -291,12 +291,20 @@ function initialize() {
   geocoder = new google.maps.Geocoder();
 
   marker = new google.maps.Marker({
+    animation: google.maps.Animation.DROP,
     map: map
   });
-
+  marker.addListener("click", toggleBounce);
   addYourLocationButton(map, marker);
 }
 
+function toggleBounce() {
+  if (marker.getAnimation() !== null) {
+    marker.setAnimation(null);
+  } else {
+    marker.setAnimation(google.maps.Animation.BOUNCE);
+  }
+}
 initialize();
 
 function abrirInfoBox(id, marker) {
