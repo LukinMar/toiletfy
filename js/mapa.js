@@ -312,7 +312,7 @@ function abrirInfoBox(id, marker) {
 }
 
 function carregarPontos() {
-  $.getJSON("js/pontos.json", function(pontos) {
+  $.getJSON("https://toiletfy.herokuapp.com/js/pontos.json", function(pontos) {
     var latlngbounds = new google.maps.LatLngBounds();
 
     $.each(pontos, function(index, ponto) {
