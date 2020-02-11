@@ -292,7 +292,8 @@ function initialize() {
 
   marker = new google.maps.Marker({
     animation: google.maps.Animation.DROP,
-    map: map
+    map: map,
+    icon: "img/marker.png"
   });
   marker.addListener("click", toggleBounce);
   addYourLocationButton(map, marker);
