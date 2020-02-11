@@ -1141,9 +1141,9 @@
   },
   {
     "Id": 191,
-    "Latitude": 21.041642,
-    "Longitude": -86.874198,
-    "Descricao": "Aeroporto Internacional de Cancún, Cancun - Chetumal Km 22, 77565 Cancún, Q.R., México <br><br> <a href=https://www.google.com.br/maps/place/Aeroporto+Internacional+de+Canc%C3%BAn/@21.0415832,-86.8767019,17.25z/data=!4m5!3m4!1s0x8f4e8047678409bf:0x5fd4feaf78eabb92!8m2!3d21.0417033!4d-86.8740062 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>"
+    "Latitude": -22.882712,
+    "Longitude": -43.280852,
+    "Descricao": "Sam's Club, Rua Santiago Guerra, 345 - Cachambi, Rio de Janeiro - RJ, 20771-001<br><br> <a href= target=_blank> Visualize no Google Maps </a>"
   },
   {
     "Id": 192,
@@ -1438,5 +1438,17 @@
     "Latitude": -22.862722,
     "Longitude": -43.346363,
     "Descricao": "Parque Madureira, R. Soares Caldeira, 115 - Madureira, Rio de Janeiro - RJ, 21351-140<br><br> <a href=https://www.google.com/maps/place/22%C2%B051'45.8%22S+43%C2%B020'46.9%22W/@-22.862717,-43.3485517,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-22.862722!4d-43.346363 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><br><br> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 241,
+    "Latitude": -22.883764,
+    "Longitude": -43.284984,
+    "Descricao": "Walmart, R. Degas - Engenho de Dentro, Rio de Janeiro - RJ, 20730-140<br><br> <a href=https://www.google.com.br/maps/place/Walmart/@-22.8846976,-43.2806599,17z/data=!4m5!3m4!1s0x997c6e82b7e1b1:0xad6ae5e49bde1700!8m2!3d-22.8837524!4d-43.2849627 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 242,
+    "Latitude": -22.884657,
+    "Longitude": -43.283153,
+    "Descricao": "Leroy Merlin, Rua das Projetadas, 550 - Del Castilho, Rio de Janeiro - RJ, 20771-632<br><br> <a href=https://www.google.com.br/maps/place/Leroy+Merlin+Del+Castilho/@-22.8864212,-43.2830669,17z/data=!4m5!3m4!1s0x997c519729ad43:0x68cbaf36f4c366a1!8m2!3d-22.884684!4d-43.2831569 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
   }
 ]
