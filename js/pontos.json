@@ -735,13 +735,13 @@
     "Id": 123,
     "Latitude": -22.88221,
     "Longitude": -43.293051,
-    "Descricao": "Posto Shell, Av. Dom Hélder Câmara, 6525-6613 - Pilares, Rio de Janeiro - RJ, 20771-070 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell/@-22.8822399,-43.2929676,20.25z/data=!4m5!3m4!1s0x997cff28571139:0x4430e6a5157539d9!8m2!3d-22.8822667!4d-43.2930918' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Posto Shell, Av. Dom Hélder Câmara, 6611 - Pilares, Rio de Janeiro - RJ, 20771-002 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell/@-22.8822399,-43.2929676,20.25z/data=!4m5!3m4!1s0x997cff28571139:0x4430e6a5157539d9!8m2!3d-22.8822667!4d-43.2930918' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 124,
     "Latitude": -22.881012,
     "Longitude": -43.293494,
-    "Descricao": "Habib's, Av. Dom Hélder Câmara, 6525-6613 - Pilares, Rio de Janeiro - RJ, 20771-070 <br><br> <a href='https://www.google.com.br/maps/place/Habibs/@-22.8812755,-43.2947863,17z/data=!4m5!3m4!1s0x0:0x588d9011913fcae3!8m2!3d-22.880978!4d-43.2934733' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Habib's, Av. João Ribeiro, 2 - Pilares, Rio de Janeiro - RJ, 20750-093 <br><br> <a href='https://www.google.com.br/maps/place/Habibs/@-22.8812755,-43.2947863,17z/data=!4m5!3m4!1s0x0:0x588d9011913fcae3!8m2!3d-22.880978!4d-43.2934733' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 125,
@@ -759,7 +759,7 @@
     "Id": 127,
     "Latitude": -22.881386,
     "Longitude": -43.324344,
-    "Descricao": "Supermercados Rede Unno, R. Cerqueira Dtitlero, 51 - Cascadura, Rio de Janeiro - RJ, 21380-320 <br><br> <a href='https://www.google.com.br/maps/place/Inter+Supermercados+Rede+Unno/@-22.8814216,-43.3247127,20.25z/data=!4m5!3m4!1s0x0:0xab2bed8283fb0797!8m2!3d-22.8813829!4d-43.3243167' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Supermercados Rede Unno, R. Cerqueira Daltro, 51 - Cascadura, Rio de Janeiro - RJ, 21380-320 <br><br> <a href='https://www.google.com.br/maps/place/Inter+Supermercados+Rede+Unno/@-22.8814216,-43.3247127,20.25z/data=!4m5!3m4!1s0x0:0xab2bed8283fb0797!8m2!3d-22.8813829!4d-43.3243167' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 128,
@@ -1450,5 +1450,35 @@
     "Latitude": -22.884657,
     "Longitude": -43.283153,
     "Descricao": "Leroy Merlin, Rua das Projetadas, 550 - Del Castilho, Rio de Janeiro - RJ, 20771-632<br><br> <a href=https://www.google.com.br/maps/place/Leroy+Merlin+Del+Castilho/@-22.8864212,-43.2830669,17z/data=!4m5!3m4!1s0x997c519729ad43:0x68cbaf36f4c366a1!8m2!3d-22.884684!4d-43.2831569 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 243,
+    "Latitude": -22.882124,
+    "Longitude": -43.334717,
+    "Descricao": "Posto Shell, Av. Ernani Cardoso, 202 - Cascadura, Rio de Janeiro - RJ, 21310-310<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.8821917,-43.3349216,18.5z/data=!4m13!1m7!3m6!1s0x9962cfb506a17d:0x4caa197a11fb6308!2sAv.+Ernani+Cardoso,+275+-+Cascadura,+Rio+de+Janeiro+-+RJ,+21310-310!3b1!8m2!3d-22.882585!4d-43.336833!3m4!1s0x9962ce045fdeeb:0x5a4c0bdb9dc0299a!8m2!3d-22.8821431!4d-43.3347103 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 244,
+    "Latitude": -22.877879,
+    "Longitude": -43.271218,
+    "Descricao": "Madero Steak House, Av. Pastor Martin Luther King Junior, 126 - BLC 10 LOJ 0108 - Del Castilho, Rio de Janeiro - RJ, 20765-000<br><br> <a href=https://www.google.com/maps/place/Madero+Steak+House+-+Nova+Am%C3%A9rica/@-22.8778901,-43.2712209,15z/data=!4m2!3m1!1s0x0:0x4f7d729433bfd0a7?sa=X&ved=2ahUKEwj694jlzcznAhU9HrkGHbA0A6AQ_BIwE3oECBwQCA target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><br><br> <img src='img/money.png' width='38px' title='Necessita pagamento'  alt='Necessita pagamento'><br><br> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'>"
+  },
+  {
+    "Id": 245,
+    "Latitude": -22.883978,
+    "Longitude": -43.297532,
+    "Descricao": "Posto BR, Av. Dom Hélder Câmara, 7208 - Pilares, Rio de Janeiro - RJ, 20751-003<br><br> <a href=https://www.google.com/maps/place/Posto+Petrobras/@-22.8838928,-43.2980821,19z/data=!4m13!1m7!3m6!1s0x997cfea3bc607f:0x3e3af62132bbe485!2sAv.+Dom+H%C3%A9lder+C%C3%A2mara,+6888+-+Pilares,+Rio+de+Janeiro+-+RJ,+20751-002!3b1!8m2!3d-22.882001!4d-43.29525!3m4!1s0x997cfd99cbb0db:0x981d97d4182d0e3a!8m2!3d-22.883986!4d-43.2975315 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 246,
+    "Latitude": -22.885082,
+    "Longitude": -43.29892,
+    "Descricao": "Supermercado Rede Unno, Av. Dom Hélder Câmara, 7384/7392 - Abolição, Rio de Janeiro - RJ, 20751-014<br><br> <a href=https://www.google.com/maps/place/Supermercados+Campe%C3%A3o/@-22.884841,-43.298748,19z/data=!4m13!1m7!3m6!1s0x997cfea3bc607f:0x3e3af62132bbe485!2sAv.+Dom+H%C3%A9lder+C%C3%A2mara,+6888+-+Pilares,+Rio+de+Janeiro+-+RJ,+20751-002!3b1!8m2!3d-22.882001!4d-43.29525!3m4!1s0x997d0290a70597:0xcd04786cbd8fbfc!8m2!3d-22.8849997!4d-43.2988887 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 247,
+    "Latitude": -22.876047,
+    "Longitude": -43.339136,
+    "Descricao": "Recheio Carioca, R. Domingos Lopes, 845 - Madureira, Rio de Janeiro - RJ, 21310-120<br><br> <a href=https://www.google.com/maps/place/Recheio+Carioca/@-22.8761608,-43.3394872,20.25z/data=!4m5!3m4!1s0x9962d0aa3a568b:0x81e24bd3ba7033ac!8m2!3d-22.8760399!4d-43.339154 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><br><br> <img src='img/money.png' width='38px' title='Necessita pagamento'  alt='Necessita pagamento'>"
   }
 ]
