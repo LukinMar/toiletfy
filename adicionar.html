@@ -58,6 +58,21 @@
                 </label>
               </p>
             </fieldset>
+            <fieldset class="fs" id="legend">
+              <legend> Caso seja pago e seja adaptado &#x267f;  &#x1f4b0;</legend>
+              <p></p>
+               <label>
+                  <input name="group3" type="radio" id="pagamentopcd" value="<br><br> <img src='img/money.png' width='38px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'>">
+                  <span>Sim</span>
+                </label>
+              </p>
+              <p>
+                <label>
+                  <input name="group3" type="radio" id="pagamentopcd" value="" checked >
+                  <span>Não</span>
+                </label>
+              </p>
+            </fieldset>
             <fieldset class="fs star" id="legend">
             <legend>Avaliação</legend>
             <div class="rating">
@@ -70,12 +85,12 @@
             </div>
             </fieldset>
             <br><br>
-            <small>Copiar e colar</small>
-            <small>Caso tenha pagamento + PcD apagar brbr do PcD</small>
+            <small>Copiar e colar</small><br>
         <textarea class="input-field"   placeholder="" class="textarea1"  id="textarea1"></textarea>
         <input id="valorinput" type="text"  value="">  
         <input id="valorinput2" type="text" value="" >
         <input id="valorinput3" type="text" value="" >
+        <input id="valorinput4" type="text" value="" >
 
     </form>
     <link rel="stylesheet" type="text/css" href="css/estilo.css" />
@@ -96,6 +111,10 @@ $('input[id=pcd]').change(function (e) {
   $('#valorinput2').val(e.target.value)
 }) 
 
+$('input[id=pagamentopcd]').change(function (e) {
+  $('#valorinput4').val(e.target.value)
+}) 
+
 $('input[name=star]').change(function (e) {
   $('#valorinput3').val(e.target.value)
 }) 
@@ -109,10 +128,10 @@ $('input[name=star]').change(function (e) {
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
                                  + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
                                  + $('#valorinput3').val() + $('#valorinput').val()
-                                 + $('#valorinput2').val()  + '"'
+                                 + $('#valorinput2').val()  + $('#valorinput4').val() + '"'
                                  + '\n' + '},');
       }
-    $( '#latitude, #longitude, #nome, #endereco, #link, #valorinput3, #valorinput, #valorinput2' ).keydown(updateTextarea);
+    $( '#latitude, #longitude, #nome, #endereco, #link, #valorinput3, #valorinput, #valorinput2, #valorinput4' ).keydown(updateTextarea);
 });
 
 
