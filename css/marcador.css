@@ -164,6 +164,9 @@ input[type="radio"]:checked + span:after,
 #valorinput3 {
   display: none !important;
 }
+#valorinput4 {
+  display: none !important;
+}
 #lukinmar {
   color: #fff !important;
 }
