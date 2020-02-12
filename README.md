@@ -1,6 +1,6 @@
 # ToiletFY
  
-<p> Conversando com um amigo sobre ideias de projetinhos pra fazer, surgiu a ideia de fazer um sistema que mostra onde tem banheiro, se ele é de graça ou se tem que pagar, perto da localização da pessoa usando a API do Google Maps. </p>
+<p> Desenvolvi esse app, como forma de estudo, que usa a localização do usuário usando a API do Google Maps para mostrar onde tem banheiro próximo. Possui avaliação dos banheiros, informa se é adaptado ou se necessita pagamento para uso.</p>
 
 <p> Contribuições são bem vindas! </p>
 
@@ -14,3 +14,4 @@ if it's free or if you have to pay near the person's location using the Google M
 
 
 <p align="center"><img src="https://i.imgur.com/ndkZgxi.png" width="450" target="_blank" alt="logo-toiletfy"/></p>
+
