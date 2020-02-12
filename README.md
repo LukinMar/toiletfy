@@ -9,8 +9,7 @@
 
 <hr>
 
-I was talking to a friend about small project ideas, then came the idea of developing a system that shows where there are toilets,
-if it's free or if you have to pay near the person's location using the Google Maps API.</p>
+<p>This app uses the user's location to show where there is a bathroom nearby. It has an evaluation of the bathrooms, informs if it is adapted or if it requires payment for use</p>
 
 
 <p align="center"><img src="https://i.imgur.com/ndkZgxi.png" width="450" target="_blank" alt="logo-toiletfy"/></p>
