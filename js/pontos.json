@@ -1692,18 +1692,6 @@
     "Descricao": "Posto Shell, Av. Raja Gabáglia, 2526 - Estoril, Belo Horizonte - MG, 30494-170<br><br> <a href=https://www.google.com.br/maps/place/POSTO+RAJA+F+R+LTDA/@-19.956613,-43.9601532,17z/data=!4m5!3m4!1s0xa6979708008a8b:0x652874ebe83d960d!8m2!3d-19.9566559!4d-43.9579558 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
-    "Id": 281,
-    "Latitude": -23.486384,
-    "Longitude": -46.382045,
-    "Descricao": "Posto Shell, Avenida Marechal Tito, 7059 - Itaim Paulista, São Paulo - SP, 08115-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+REDE+SETE/@-23.4865299,-46.3825166,20.04z/data=!4m5!3m4!1s0x94ce638b03ab8027:0x80aa8d8b20733c11!8m2!3d-23.4863834!4d-46.3820531 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-  },
-  {
-    "Id": 282,
-    "Latitude": -22.937545,
-    "Longitude": -43.061787,
-    "Descricao": "Posto Shell, Estrada Francisco da Cruz Nunes, 5874 - Piratininga, Niterói - RJ, 24350-190<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.9375026,-43.0619341,20z/data=!4m5!3m4!1s0x998688e64806e9:0xfc2c302b4e97d321!8m2!3d-22.9375643!4d-43.0617929 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-  },
-  {
     "Id": 283,
     "Latitude": -22.911193,
     "Longitude": -43.056674,
@@ -1936,5 +1924,17 @@
     "Latitude": -22.886065,
     "Longitude": -43.557817,
     "Descricao": "Posto Shell, Estr. do Mendanha, 356 - Campo Grande, Rio de Janeiro - RJ, 23087-280<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Auto+Servico+Mangueirinha+Ltda/@-22.8860115,-43.55799,20.54z/data=!4m13!1m7!3m6!1s0x9be163b7d30625:0xc9f5f389190922a1!2sEstr.+do+Mendanha,+356+-+Campo+Grande,+Rio+de+Janeiro+-+RJ,+23087-284!3b1!8m2!3d-22.8860833!4d-43.5577735!3m4!1s0x9be161c924508f:0x3d0322f22ac6becf!8m2!3d-22.8861055!4d-43.5577983 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 322,
+    "Latitude": -23.486384,
+    "Longitude": -46.382045,
+    "Descricao": "Posto Shell, Avenida Marechal Tito, 7059 - Itaim Paulista, São Paulo - SP, 08115-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+REDE+SETE/@-23.4865299,-46.3825166,20.04z/data=!4m5!3m4!1s0x94ce638b03ab8027:0x80aa8d8b20733c11!8m2!3d-23.4863834!4d-46.3820531 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 323,
+    "Latitude": -22.937545,
+    "Longitude": -43.061787,
+    "Descricao": "Posto Shell, Estrada Francisco da Cruz Nunes, 5874 - Piratininga, Niterói - RJ, 24350-190<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.9375026,-43.0619341,20z/data=!4m5!3m4!1s0x998688e64806e9:0xfc2c302b4e97d321!8m2!3d-22.9375643!4d-43.0617929 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
