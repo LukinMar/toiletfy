@@ -1961,5 +1961,53 @@
     "Longitude": -43.451068,
     "Descricao": "Posto Shell, R. Francisco Real, 616 - Padre Miguel, Rio de Janeiro - RJ, 21715-422<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Auto+Center+Duduca+Ltda/@-22.8790803,-43.4512464,20.25z/data=!4m5!3m4!1s0x9bdf9022db9ebf:0x4388c4f765578a8!8m2!3d-22.8791048!4d-43.4510665 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
+  {
+    "Id": 328,
+    "Latitude": -22.783661,
+    "Longitude": -43.428711,
+    "Descricao": "Posto Shell, Av. Pres. Costa e Silva, 1846 - Centro, Mesquita - RJ, 26553-295<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.7836731,-43.4287997,21z/data=!4m5!3m4!1s0x9966c1d641988d:0x5be740affcad7a8c!8m2!3d-22.7836598!4d-43.4286949 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 329,
+    "Latitude": -22.663378,
+    "Longitude": -43.033653,
+    "Descricao": "Posto Shell, Av. Simão da Motta, 20 - CENTRO, Magé - RJ, 25900-000<br><br> <a href=https://www.google.com.br/maps/place/Shell/@-22.6633589,-43.0340026,20z/data=!4m5!3m4!1s0x99a326af048d53:0x1e81d4cb204a708b!8m2!3d-22.663411!4d-43.0335546 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 330,
+    "Latitude": -22.985825,
+    "Longitude": -43.458811,
+    "Descricao": "Posto Shell, Estr. dos Bandeirantes, 13951 - Vargem Pequena, Rio de Janeiro - RJ, 22793-112<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Posto+Gas+Est+Band+Vargem+Pq+Lt/@-22.9859137,-43.4610288,17z/data=!4m5!3m4!1s0x9bdd741eda3859:0xa849868125743210!8m2!3d-22.9859375!4d-43.4588403 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 331,
+    "Latitude": -23.54179,
+    "Longitude": -46.339217,
+    "Descricao": "Posto Shell, Rua João Pekny, 1210 - Água Vermelha, Poá - SP, 08565-600<br><br> <a href=https://www.google.com.br/maps/place/Loja+Shell+Select+-+POSTO+SHELL+-+CENTRO+AUTOMOTIVO+SELENE+LTDA/@-23.5418627,-46.3394281,19.79z/data=!4m5!3m4!1s0x94ce7b2ac0735713:0xaab2e57d8624418a!8m2!3d-23.5418718!4d-46.3391519 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 332,
+    "Latitude": -23.533471,
+    "Longitude": -46.311805,
+    "Descricao": "Posto Shell, R. Prudente de Moraes, 50 - Centro, Suzano - SP, 08613-000<br><br> <a href=https://www.google.com.br/maps/place/Loja+Shell+Select+-+POSTO+SHELL+-+AUTO+POSTO+SUZANO+LTDA/@-23.5334037,-46.3119517,20.25z/data=!4m5!3m4!1s0x94ce7b168886e4b5:0x7ef824fb917a1834!8m2!3d-23.5334607!4d-46.3117987 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 333,
+    "Latitude": -20.061587,
+    "Longitude": -43.978123,
+    "Descricao": "Posto Shell, Av. Toronto, 470 - Jardim Canada, Nova Lima - MG, 34000-973<br><br> <a href=https://www.google.com.br/maps/place/Posto+Chef%C3%A3o/@-20.0615066,-43.9783053,20.12z/data=!4m5!3m4!1s0xa6bba0c7e61275:0xfaca30b3c36ee79c!8m2!3d-20.0615347!4d-43.9782058 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 334,
+    "Latitude": -23.297717,
+    "Longitude": -45.954764,
+    "Descricao": "Posto Shell, R. Barão de Jacareí, 1481 - Vila Formosa, Jacareí - SP, 12308-000<br><br> <a href=https://www.google.com.br/maps/place/Loja+Shell+Select+-+POSTO+SHELL+-+RM+CONVENIENCIA+JACAREI/@-23.2977323,-45.9548575,20.75z/data=!4m5!3m4!1s0x94cdcbc22ee24399:0x4af0d264bfb8d4b6!8m2!3d-23.2977416!4d-45.9547323 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 335,
+    "Latitude": -22.746054,
+    "Longitude": -42.856135,
+    "Descricao": "Posto Shell, Av. Vinte e Dois de Maio, 5849 - Centro, Itaboraí - RJ, 24800-097<br><br> <a href=https://www.google.com.br/maps/place/Posto+2001/@-22.7460294,-42.8561869,21z/data=!4m5!3m4!1s0x99c0696971c25f:0x266f11a1edafdac6!8m2!3d-22.7460402!4d-42.8561351 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
   
 ]
