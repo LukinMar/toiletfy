@@ -1627,9 +1627,9 @@
   },
   {
     "Id": 272,
-    "Latitude": -22.80525,
-    "Longitude": -43.208623,
-    "Descricao": "Posto Shell, Estrada do Galeão, 2781 - Portuguesa, Rio de Janeiro - RJ, 21931-387<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Amor+da+Ilha/@-22.80521,-43.2091832,19.04z/data=!4m5!3m4!1s0x0:0x5bdbfa5ef2dd6fec!8m2!3d-22.8052545!4d-43.2085838 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Latitude": -19.929264,
+    "Longitude": -43.977276,
+    "Descricao": "Posto Shell, Av. Amazonas, 4808 - Nova Suíça, Belo Horizonte - MG, 30480-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+Estoril+Ltda/@-19.9291313,-43.9775982,19.5z/data=!4m5!3m4!1s0xa6970381741271:0xb6cbec3a0bd1a7f0!8m2!3d-19.9292562!4d-43.9772817 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 273,
@@ -1666,11 +1666,5 @@
     "Latitude": -19.921995,
     "Longitude": -43.965443,
     "Descricao": "Posto Shell, R. Platina, 789 - Prado, Belo Horizonte - MG, 30411-095<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Posto+Ramadas+Ltda/@-19.9219961,-43.9656785,20.04z/data=!4m5!3m4!1s0xa697159d0799d9:0x24a2c2513bbc70dd!8m2!3d-19.922045!4d-43.9654733 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-  },
-  {
-    "Id": 279,
-    "Latitude": -19.929264,
-    "Longitude": -43.977276,
-    "Descricao": "Posto Shell, Av. Amazonas, 4808 - Nova Suíça, Belo Horizonte - MG, 30480-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+Estoril+Ltda/@-19.9291313,-43.9775982,19.5z/data=!4m5!3m4!1s0xa6970381741271:0xb6cbec3a0bd1a7f0!8m2!3d-19.9292562!4d-43.9772817 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
