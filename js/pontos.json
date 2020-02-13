@@ -1738,5 +1738,41 @@
     "Latitude": -22.910871,
     "Longitude": -43.360518,
     "Descricao": "Posto Shell, R. Cândido Benício, 3530 - Praça Seca, Rio de Janeiro - RJ, 22733-001<br><br> <a href=https://www.google.com.br/maps/place/Posto+Mato+Alto/@-22.9108229,-43.3626906,17z/data=!4m5!3m4!1s0x9bd87a8ab0d5ad:0xe8ffed7c95c06c2f!8m2!3d-22.910885!4d-43.3605266 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 289,
+    "Latitude": -22.823824,
+    "Longitude": -43.279199,
+    "Descricao": "Posto Shell, Av. Brasil, 11847 - Penha Circular, Rio de Janeiro - RJ, 21012-351<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.8238745,-43.2798028,18z/data=!3m1!4b1!4m5!3m4!1s0x997bc76cf507f7:0x87477dc52c56d7b5!8m2!3d-22.8238759!4d-43.2791886 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 290,
+    "Latitude": -22.837047,
+    "Longitude": -43.317525,
+    "Descricao": "Posto Shell, Av. Braz de Pina, 1823 - Brás de Pina, Rio de Janeiro - RJ, 21235-602<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.8371115,-43.3178102,19.79z/data=!4m5!3m4!1s0x997b59994e4e77:0xf7f2a5aeeaaf0d0d!8m2!3d-22.8370454!4d-43.3175556 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 291,
+    "Latitude": -22.951388,
+    "Longitude": -43.338645,
+    "Descricao": "Posto Shell, Estr. de Jacarepaguá, 6580 - Anil, Rio de Janeiro - RJ, 22753-045<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+S%C3%A3o+Jeronimo+do+Anil/@-22.9514654,-43.3389658,19.75z/data=!4m5!3m4!1s0x9bd7594b9d96b5:0xfc29ecfb980b21c6!8m2!3d-22.9513834!4d-43.3386464 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 292,
+    "Latitude": -22.871027,
+    "Longitude": -43.004269,
+    "Descricao": "Posto Shell, Av. Dr. Eugênio Borges, s/n - Arrastão, São Gonçalo - RJ, 24751-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Auto+Posto+Arrastao+Ltda/@-22.8709393,-43.0041335,20.79z/data=!4m5!3m4!1s0x998fe19c76eeff:0x11d4baa24c77f106!8m2!3d-22.8710108!4d-43.0042306 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 293,
+    "Latitude": -22.828701,
+    "Longitude": -43.324641,
+    "Descricao": "Posto Shell, Estr. da Água Grande, 230 - Irajá, RJ, 21230-350<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Posto+De+Abast+E+Lubrif+Agua+Grande/@-22.828761,-43.3267937,17z/data=!4m5!3m4!1s0x997b51f8f1ff69:0xbb7f0290bb4f36c9!8m2!3d-22.828766!4d-43.3246051 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 294,
+    "Latitude": -23.006382,
+    "Longitude": -43.309199,
+    "Descricao": "Posto Shell, Av. Armando Lombardi, 370 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-000<br><br> <a href=https://www.google.com.br/maps/place/Shell/@-23.0063537,-43.3094334,19.83z/data=!4m5!3m4!1s0x9bd0b861457181:0x98778349d78c76b9!8m2!3d-23.006364!4d-43.3091911 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
