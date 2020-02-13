@@ -1666,5 +1666,30 @@
     "Latitude": -19.921995,
     "Longitude": -43.965443,
     "Descricao": "Posto Shell, R. Platina, 789 - Prado, Belo Horizonte - MG, 30411-095<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Posto+Ramadas+Ltda/@-19.9219961,-43.9656785,20.04z/data=!4m5!3m4!1s0xa697159d0799d9:0x24a2c2513bbc70dd!8m2!3d-19.922045!4d-43.9654733 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-  }
+  },
+  {
+    "Id": 279,
+    "Latitude": -23.522856,
+    "Longitude": -46.443228,
+    "Descricao": "Posto Shell, Av. Pires do Rio, 2705 - Itaquera, São Paulo - SP, 08240-001<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Auto+Posto+Radial+Iii+Ltda/@-23.5227584,-46.4435304,19.54z/data=!4m5!3m4!1s0x94ce66ab56f2cc67:0x8a1eec0d92791c3f!8m2!3d-23.522859!4d-46.4432517 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 280,
+    "Latitude": 23.954277,
+    "Longitude": -46.313016,
+    "Descricao": "Posto Shell, Av. Sen. Dantas, 75 - Macuco, Santos - SP, 11015-211<br><br> <a href=https://www.google.com.br/maps/place/Posto+-+Santo+Ant%C3%B4nio/@-23.9542697,-46.3152042,17z/data=!4m5!3m4!1s0x94ce03bb6191189d:0x2785a798225b6d28!8m2!3d-23.9542747!4d-46.3130157 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 281,
+    "Latitude": -19.961164,
+    "Longitude": -43.964648,
+    "Descricao": "Posto Shell, Av. Barão Homem de Melo, 3000 - Nova Granada, Belo Horizonte - MG, 30450-250<br><br> <a href=https://www.google.com.br/maps/place/WR+Simone+Comercial/@-19.9612999,-43.9669115,17z/data=!4m5!3m4!1s0xa697c1b77fc031:0x2a7c8b207b57fda0!8m2!3d-19.9612197!4d-43.964617 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 282,
+    "Latitude": -19.956656,
+    "Longitude": -43.957964,
+    "Descricao": "Posto Shell, Av. Raja Gabáglia, 2526 - Estoril, Belo Horizonte - MG, 30494-170<br><br> <a href=https://www.google.com.br/maps/place/POSTO+RAJA+F+R+LTDA/@-19.956613,-43.9601532,17z/data=!4m5!3m4!1s0xa6979708008a8b:0x652874ebe83d960d!8m2!3d-19.9566559!4d-43.9579558 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  
 ]
