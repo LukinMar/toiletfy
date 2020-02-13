@@ -1691,5 +1691,52 @@
     "Longitude": -43.957964,
     "Descricao": "Posto Shell, Av. Raja Gabáglia, 2526 - Estoril, Belo Horizonte - MG, 30494-170<br><br> <a href=https://www.google.com.br/maps/place/POSTO+RAJA+F+R+LTDA/@-19.956613,-43.9601532,17z/data=!4m5!3m4!1s0xa6979708008a8b:0x652874ebe83d960d!8m2!3d-19.9566559!4d-43.9579558 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
-  
+  {
+    "Id": 281,
+    "Latitude": -23.486384,
+    "Longitude": -46.382045,
+    "Descricao": "Posto Shell, Avenida Marechal Tito, 7059 - Itaim Paulista, São Paulo - SP, 08115-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+REDE+SETE/@-23.4865299,-46.3825166,20.04z/data=!4m5!3m4!1s0x94ce638b03ab8027:0x80aa8d8b20733c11!8m2!3d-23.4863834!4d-46.3820531 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 282,
+    "Latitude": -22.937545,
+    "Longitude": -43.061787,
+    "Descricao": "Posto Shell, Estrada Francisco da Cruz Nunes, 5874 - Piratininga, Niterói - RJ, 24350-190<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell/@-22.9375026,-43.0619341,20z/data=!4m5!3m4!1s0x998688e64806e9:0xfc2c302b4e97d321!8m2!3d-22.9375643!4d-43.0617929 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 283,
+    "Latitude": -22.911193,
+    "Longitude": -43.056674,
+    "Descricao": "Posto Shell, Estrada Francisco da Cruz Nunes, 915 - Pendotiba, Niterói - RJ, 24310-340<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Auto+Posto+Vancouver+Ltda/@-22.9110154,-43.0566571,19.5z/data=!4m5!3m4!1s0x998586854d88ef:0x8297d9f9fa6ca7eb!8m2!3d-22.9111858!4d-43.0566812 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 284,
+    "Latitude": -22.800246,
+    "Longitude": -43.200251,
+    "Descricao": "Posto Shell, R. Jaime Perdigão, 806 - Jardim Carioca, Rio de Janeiro - RJ, 21920-240<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Buggy/@-22.800235,-43.2023027,17z/data=!4m5!3m4!1s0x99778966f13b4f:0x73335b7b28a1ec26!8m2!3d-22.8002423!4d-43.2002532 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 285,
+    "Latitude": -22.798632,
+    "Longitude": -43.195976,
+    "Descricao": "Posto Shell, R. Jaime Perdigão, 292 - Tauá, Rio de Janeiro - RJ, 21920-240<br><br> <a href=https://www.google.com.br/maps/place/Posto+Shell+-+Posto+De+Gasolina+Sol+Da+Praia+Ltda/@-22.7986463,-43.196126,21z/data=!4m5!3m4!1s0x99778ceb1b200f:0x309648ef71341ceb!8m2!3d-22.7986672!4d-43.195959 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 286,
+    "Latitude": -22.993127,
+    "Longitude": -43.255751,
+    "Descricao": "Posto Shell, Estr. da Gávea, 586 - São Conrado, Rio de Janeiro - RJ, 22451-272<br><br> <a href=https://www.google.com.br/maps/place/P+Gas+E+Bar+Garoa+Ltda/@-22.9931629,-43.2579096,17z/data=!4m5!3m4!1s0x9bd69e6cde88e9:0xf61dfe5eacafc3d4!8m2!3d-22.9931678!4d-43.2557206 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 287,
+    "Latitude": -22.998335,
+    "Longitude": -43.267677,
+    "Descricao": "Posto Shell, Estr. da Gávea, 820 - A 850 - São Conrado, Rio de Janeiro - RJ, 22610-002<br><br> <a href=https://www.google.com.br/maps/place/Loja+Shell+Select+-+POSTO+SHELL+-+CENTRO+AUTOM+GOLFE+CLUBE+LTDA/@-22.9983763,-43.2673785,20.04z/data=!4m5!3m4!1s0x9bd74c22e7b523:0x393f741c5063e2ae!8m2!3d-22.9983498!4d-43.2676752 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 288,
+    "Latitude": -22.910871,
+    "Longitude": -43.360518,
+    "Descricao": "Posto Shell, R. Cândido Benício, 3530 - Praça Seca, Rio de Janeiro - RJ, 22733-001<br><br> <a href=https://www.google.com.br/maps/place/Posto+Mato+Alto/@-22.9108229,-43.3626906,17z/data=!4m5!3m4!1s0x9bd87a8ab0d5ad:0xe8ffed7c95c06c2f!8m2!3d-22.910885!4d-43.3605266 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  }
 ]
