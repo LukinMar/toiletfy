@@ -2100,12 +2100,6 @@
     "Descricao": "Posto Petrobras, Av. Lúcio Costa, 5130 - Barra da Tijuca, Rio de Janeiro - RJ, 22620-172<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Golden+Green/@-23.0101296,-43.3502536,20z/data=!4m5!3m4!1s0x9bda42cbf22063:0xa17dd5e8215145e4!8m2!3d-23.0098722!4d-43.3502705 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
-    "Id": 350,
-    "Latitude": -23.002372,
-    "Longitude": -43.304694,
-    "Descricao": "Posto Petrobras, Estrada da Barra da Tijuca, S/N - Barra da Tijuca, Rio de Janeiro - RJ, 22641-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Petrobr%C3%A1s+Portal+do+Itanhang%C3%A1/@-23.0023704,-43.3047663,20.75z/data=!4m5!3m4!1s0x9bd0cea3570f6d:0xa80204792ec4e6f!8m2!3d-23.0023724!4d-43.3046796 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-  },
-  {
     "Id": 351,
     "Latitude": -23.003256,
     "Longitude": -43.323417,
@@ -2320,5 +2314,11 @@
     "Latitude": -22.840902,
     "Longitude": -43.315926,
     "Descricao": "Posto Petrobras, Estrada Padre Roser, 296 - Vila da Penha, Rio de Janeiro - RJ, 21220-560<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.840855,-43.318123,17z/data=!3m1!4b1!4m5!3m4!1s0x997b58a8f06885:0xb5f87afe78affaba!8m2!3d-22.84086!4d-43.3159343 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 387,
+    "Latitude": -23.002372,
+    "Longitude": -43.304694,
+    "Descricao": "Posto Petrobras, Estrada da Barra da Tijuca, S/N - Barra da Tijuca, Rio de Janeiro - RJ, 22641-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Petrobr%C3%A1s+Portal+do+Itanhang%C3%A1/@-23.0023704,-43.3047663,20.75z/data=!4m5!3m4!1s0x9bd0cea3570f6d:0xa80204792ec4e6f!8m2!3d-23.0023724!4d-43.3046796 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
