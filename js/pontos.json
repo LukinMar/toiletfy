@@ -2134,6 +2134,48 @@
     "Latitude": -23.000501,
     "Longitude": -43.375857,
     "Descricao": "Posto Petrobras, Av. das Américas, 7597 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-081<br><br> <a href=https://www.google.com.br/maps/place/Posto+Mandala+Petrobras/@-23.0006398,-43.3755971,20z/data=!4m5!3m4!1s0x9bdbb032cf19e1:0x171050f020056e6e!8m2!3d-23.0004941!4d-43.3758795 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-  }
+  },
+  {
+    "Id": 356,
+    "Latitude": -22.999988,
+    "Longitude": -43.398794,
+    "Descricao": "Posto Petrobras, Av. das Américas, 9300 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-081<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9998912,-43.3988895,21z/data=!4m5!3m4!1s0x9bdb830e21675b:0xcb29f472e7255a73!8m2!3d-22.9999867!4d-43.3987977 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 357,
+    "Latitude": -23.011394,
+    "Longitude": -43.301488,
+    "Descricao": "Posto Petrobras, Av. Min. Ivan Lins, 516 - Barra da Tijuca, Rio de Janeiro - RJ, 22620-110<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Petrobr%C3%A1s+Auto+Posto+Quebramar/@-23.0116249,-43.301679,19.75z/data=!4m5!3m4!1s0x9bd0c4c4af3637:0xefd5a76e8ef496e5!8m2!3d-23.0113405!4d-43.3014643 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 358,
+    "Latitude": -22.861641,
+    "Longitude": -43.537135,
+    "Descricao": "Posto Petrobras, Av. Brasil, 40.235 - Campo Grande, Rio de Janeiro - RJ, 20940-070<br><br> <a href=https://www.google.com.br/maps/place/Br/@-22.8617656,-43.5368651,20.5z/data=!4m5!3m4!1s0x9be1bf4f08b3d3:0x5e3900037a267411!8m2!3d-22.8617127!4d-43.53715 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 359,
+    "Latitude": -22.943017,
+    "Longitude": -43.575999,
+    "Descricao": "Posto Petrobras, Estr. do Mato Alto, 503 - Campo Grande, Rio de Janeiro - RJ, 23036-150<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9429861,-43.5763081,19.29z/data=!4m5!3m4!1s0x9be59d43efed99:0xeb8b99193e345bff!8m2!3d-22.9430294!4d-43.5759427 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 360,
+    "Latitude": -22.921911,
+    "Longitude": -43.172577,
+    "Descricao": "Posto Petrobras, Av. Beira Mar, S/N - Glória, Rio de Janeiro - RJ, 20021-060<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9219145,-43.17438,17z/data=!3m1!4b1!4m5!3m4!1s0x9981d687dbca57:0x7c4d14dd628c0263!8m2!3d-22.9219195!4d-43.1721913 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 361,
+    "Latitude": -22.964333,
+    "Longitude": -43.180289,
+    "Descricao": "Posto Petrobras, Praça Cardeal Arcoverde, 30 - Copacabana, Rio de Janeiro - RJ, 22040-030<br><br> <a href=https://www.google.com.br/maps/place/Posto+Cardeal/@-22.9644566,-43.1802872,21z/data=!4m5!3m4!1s0x9bd556b612ba5b:0x73f44bd69bdf5075!8m2!3d-22.9643298!4d-43.1802902 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 362,
+    "Latitude": -22.970361,
+    "Longitude": -43.182815,
+    "Descricao": "Posto Petrobras, Av. Atlântica, s/n - Copacabana, Rio de Janeiro - RJ, 22040-020<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR/@-22.9703575,-43.1827725,19z/data=!4m5!3m4!1s0x9bd55038f03043:0xdaf84c699e0f6b0c!8m2!3d-22.9703575!4d-43.1827725 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
   
 ]
