@@ -2177,5 +2177,52 @@
     "Longitude": -43.182815,
     "Descricao": "Posto Petrobras, Av. Atlântica, s/n - Copacabana, Rio de Janeiro - RJ, 22040-020<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR/@-22.9703575,-43.1827725,19z/data=!4m5!3m4!1s0x9bd55038f03043:0xdaf84c699e0f6b0c!8m2!3d-22.9703575!4d-43.1827725 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
-  
+  {
+    "Id": 363,
+    "Latitude": -22.903018,
+    "Longitude": -43.270571,
+    "Descricao": "Posto Petrobras, Praça do Engenho Novo, 23-39 - Engenho Novo, Rio de Janeiro - RJ, 20770-007<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+BR/@-22.9030163,-43.270653,20z/data=!4m5!3m4!1s0x997dc8120e9417:0x9c3345780c96bd3e!8m2!3d-22.9030461!4d-43.2705311 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 364,
+    "Latitude": -22.940322,
+    "Longitude": -43.171359,
+    "Descricao": "Posto Petrobras, Av. Rui Barbosa, S/N - Flamengo, Rio de Janeiro - RJ, 22250-020<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9403081,-43.1716094,19.25z/data=!4m5!3m4!1s0x998026c27bd591:0xca995f764ed030bd!8m2!3d-22.9403634!4d-43.1712937 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 365,
+    "Latitude": -22.795283,
+    "Longitude": -43.182636,
+    "Descricao": "Posto Petrobras, R. Capanema, 15 - Tauá, Rio de Janeiro - RJ, 21920-070<br><br> <a href=https://www.google.com.br/maps/place/BR+Petrobras/@-22.7953229,-43.1825552,20z/data=!4m5!3m4!1s0x9977e5d0da38e9:0xfb106a1cf3425036!8m2!3d-22.7952728!4d-43.1827088 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 366,
+    "Latitude": -22.795513,
+    "Longitude": -43.178279,
+    "Descricao": "Posto Petrobras, Av. Paranapuã, 902 - ILHA DO GOVERNADOR, Rio de Janeiro - RJ, 21910-000<br><br> <a href=https://www.google.com.br/maps/place/BR+Petrobras/@-22.7955082,-43.1780592,21z/data=!4m5!3m4!1s0x9977e1428bff79:0x89a9fca135d33a2e!8m2!3d-22.7954935!4d-43.1783355 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 367,
+    "Latitude": -22.816733,
+    "Longitude": -43.240438,
+    "Descricao": "Posto Petrobras, Avenida Vinte de Janeiro-AER.INTERNACIONAL S/N - Ilha do Governador, Rio de Janeiro - RJ, 21941-570<br><br> <a href=https://www.google.com.br/maps/place/Posto+Supers%C3%B4nico/@-22.8289384,-43.2374431,15z/data=!4m8!1m2!2m1!1sBR+Petrobras,++AV.20+DE+JANEIRO-AER.INTERNACIONAL+S%2FN!3m4!1s0x0:0x3e4c4d0027c05f50!8m2!3d-22.8167535!4d-43.2404441 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 368,
+    "Latitude": -22.953373,
+    "Longitude": -43.337825,
+    "Descricao": "Posto Petrobras, Estr. de Jacarepaguá, 6346 - Freguesia de Jacarepaguá, Rio de Janeiro - RJ, 22753-211<br><br> <a href=https://www.google.com.br/maps/place/BR+Petrobras/@-22.9533618,-43.3399573,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd9d19575522b:0x79cf8d6cceef3129!8m2!3d-22.9533668!4d-43.3377686 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 369,
+    "Latitude": -22.972791,
+    "Longitude": -43.386381,
+    "Descricao": "Posto Petrobras, Av. Embaixador Abelardo Bueno, LOTE 93 - Jacarepaguá, Rio de Janeiro - RJ, 22775-040<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9727484,-43.3864215,20z/data=!4m8!1m2!2m1!1sPosto+petrobras,+AV+EMBAIXADOR+ABELARDO+BUENO+LOTE+93!3m4!1s0x0:0x5777765e433eddc!8m2!3d-22.97278!4d-43.3863846 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 370,
+    "Latitude": -22.962726,
+    "Longitude": -43.400269,
+    "Descricao": "Posto Petrobras, Estr. dos Bandeirantes, 6273 - Jacarepaguá, Rio de Janeiro - RJ, 22783-116<br><br> <a href=https://www.google.com.br/maps/place/Posto+Projac+Rio/@-22.9628978,-43.400145,20.75z/data=!4m5!3m4!1s0x9bd9565ce1d579:0x6a0948386756264b!8m2!3d-22.9629258!4d-43.4002072 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  }
 ]
