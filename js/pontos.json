@@ -1311,7 +1311,7 @@
     "Id": 219,
     "Latitude": -22.892838,
     "Longitude": -43.239203,
-    "Descricao": "Posto BR, R. São Luiz Gonzaga, 2286 - São Cristóvão, Rio de Janeiro - RJ, 20910-062<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+Meia+Noite/@-22.8929018,-43.23901,17z/data=!4m5!3m4!1s0x997e91a8683071:0x1d41d99c0cdc9761!8m2!3d-22.8928829!4d-43.2391901 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Posto Petrobras, R. São Luiz Gonzaga, 2286 - São Cristóvão, Rio de Janeiro - RJ, 20910-062<br><br> <a href=https://www.google.com.br/maps/place/Posto+de+Gasolina+Meia+Noite/@-22.8929018,-43.23901,17z/data=!4m5!3m4!1s0x997e91a8683071:0x1d41d99c0cdc9761!8m2!3d-22.8928829!4d-43.2391901 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 220,
@@ -1467,7 +1467,7 @@
     "Id": 245,
     "Latitude": -22.883978,
     "Longitude": -43.297532,
-    "Descricao": "Posto BR, Av. Dom Hélder Câmara, 7208 - Pilares, Rio de Janeiro - RJ, 20751-003<br><br> <a href=https://www.google.com/maps/place/Posto+Petrobras/@-22.8838928,-43.2980821,19z/data=!4m13!1m7!3m6!1s0x997cfea3bc607f:0x3e3af62132bbe485!2sAv.+Dom+H%C3%A9lder+C%C3%A2mara,+6888+-+Pilares,+Rio+de+Janeiro+-+RJ,+20751-002!3b1!8m2!3d-22.882001!4d-43.29525!3m4!1s0x997cfd99cbb0db:0x981d97d4182d0e3a!8m2!3d-22.883986!4d-43.2975315 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Descricao": "Posto Petrobras, Av. Dom Hélder Câmara, 7208 - Pilares, Rio de Janeiro - RJ, 20751-003<br><br> <a href=https://www.google.com/maps/place/Posto+Petrobras/@-22.8838928,-43.2980821,19z/data=!4m13!1m7!3m6!1s0x997cfea3bc607f:0x3e3af62132bbe485!2sAv.+Dom+H%C3%A9lder+C%C3%A2mara,+6888+-+Pilares,+Rio+de+Janeiro+-+RJ,+20751-002!3b1!8m2!3d-22.882001!4d-43.29525!3m4!1s0x997cfd99cbb0db:0x981d97d4182d0e3a!8m2!3d-22.883986!4d-43.2975315 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 246,
@@ -2068,5 +2068,41 @@
     "Latitude": -22.884899,
     "Longitude": -43.402608,
     "Descricao": "Posto Ipiranga, Av. Marechal Fontenele, 3620 - Jardim Sulacap, Rio de Janeiro - RJ, 22725-000<br><br> <a href=https://www.google.com/maps/place/Posto+de+Servi%C3%A7os+Rom%C3%A2ntico+Ltda/@-22.8849639,-43.4025163,19.79z/data=!4m5!3m4!1s0x996201aa49560d:0xc54ddf9c70c9bbd2!8m2!3d-22.8848947!4d-43.4026091 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 346,
+    "Latitude": -22.912952,
+    "Longitude": -43.170114,
+    "Descricao": "Posto Petrobras, Av. Infante Dom Henrique, 7 - Flamengo, Rio de Janeiro - RJ, 20021-140<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9128931,-43.1700578,20.29z/data=!4m5!3m4!1s0x9981dea699d337:0x621139ba1a36dabd!8m2!3d-22.9129652!4d-43.1700924 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 347,
+    "Latitude": -22.854781,
+    "Longitude": -43.482761,
+    "Descricao": "Posto Petrobras, Av. Brasil, 34500 - Bangu, Rio de Janeiro - RJ, 21852-001<br><br> <a href=https://www.google.com.br/maps/place/Br+Mania/@-22.8547448,-43.4828821,20.92z/data=!4m5!3m4!1s0x99600746c004bb:0x1f6883536212676d!8m2!3d-22.8547867!4d-43.4827488 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 348,
+    "Latitude": -22.989659,
+    "Longitude": -43.366396,
+    "Descricao": "Posto Petrobras, Av. Ayrton Senna, 2541 - Jacarepaguá, Rio de Janeiro - RJ, 22775-000<br><br> <a href=https://www.google.com.br/maps/place/Auto+Posto+Alvorada/@-22.9898431,-43.3658283,18z/data=!4m5!3m4!1s0x9bda33048c2fdd:0xedb0b4feaa712668!8m2!3d-22.9895734!4d-43.3665327 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 349,
+    "Latitude": -23.003983,
+    "Longitude": -43.322884,
+    "Descricao": "Posto Petrobras, Av. das Américas, 2010 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-101<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-23.0039626,-43.3234433,20.08z/data=!4m5!3m4!1s0x9bd0a411416359:0xc05a0adb9146a00b!8m2!3d-23.0039759!4d-43.3228865 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 350,
+    "Latitude": -23.010003,
+    "Longitude": -43.350268,
+    "Descricao": "Posto Petrobras, Av. Lúcio Costa, 5130 - Barra da Tijuca, Rio de Janeiro - RJ, 22620-172<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Golden+Green/@-23.0101296,-43.3502536,20z/data=!4m5!3m4!1s0x9bda42cbf22063:0xa17dd5e8215145e4!8m2!3d-23.0098722!4d-43.3502705 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 350,
+    "Latitude": -23.002372,
+    "Longitude": -43.304694,
+    "Descricao": "Posto Petrobras, Estrada da Barra da Tijuca, S/N - Barra da Tijuca, Rio de Janeiro - RJ, 22641-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Petrobr%C3%A1s+Portal+do+Itanhang%C3%A1/@-23.0023704,-43.3047663,20.75z/data=!4m5!3m4!1s0x9bd0cea3570f6d:0xa80204792ec4e6f!8m2!3d-23.0023724!4d-43.3046796 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
