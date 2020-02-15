@@ -2224,5 +2224,53 @@
     "Latitude": -22.962726,
     "Longitude": -43.400269,
     "Descricao": "Posto Petrobras, Estr. dos Bandeirantes, 6273 - Jacarepaguá, Rio de Janeiro - RJ, 22783-116<br><br> <a href=https://www.google.com.br/maps/place/Posto+Projac+Rio/@-22.9628978,-43.400145,20.75z/data=!4m5!3m4!1s0x9bd9565ce1d579:0x6a0948386756264b!8m2!3d-22.9629258!4d-43.4002072 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 371,
+    "Latitude": -22.972818,
+    "Longitude": -43.203422,
+    "Descricao": "Posto Petrobras, Av. Epitácio Pessoa - Lagoa, Rio de Janeiro - RJ<br><br> <a href=https://www.google.com.br/maps/place/AGORA+BR+40+ANOS+POSTO+DE+COMBUSTIVEIS/@-22.972759,-43.2036911,19.75z/data=!4m5!3m4!1s0x9bd572b096a939:0x8cdad96026446c23!8m2!3d-22.9728257!4d-43.2034155 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 372,
+    "Latitude": -22.979758,
+    "Longitude": -43.216483,
+    "Descricao": "Posto Petrobras, Av. Borges de Medeiros, S/N - Leblon, Rio de Janeiro - RJ, 22430-041<br><br> <a href=https://www.google.com.br/maps/place/Sonap+Big+Rio/@-22.9801494,-43.2158476,19z/data=!4m5!3m4!1s0x0:0x895abdcd98813a3!8m2!3d-22.9797639!4d-43.2164163 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 373,
+    "Latitude": -22.909508,
+    "Longitude": -43.236739,
+    "Descricao": "Posto Petrobras, Av. Pres. Castelo Branco, 293 - Maracanã, Rio de Janeiro - RJ, 20271-130<br><br> <a href=https://www.google.com.br/maps/place/BR+Petrobr%C3%A1s/@-22.90948,-43.2369849,20.71z/data=!4m5!3m4!1s0x997e6145c574a5:0x92c577ca3c477315!8m2!3d-22.9095002!4d-43.2367299 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 374,
+    "Latitude": 22.913032,
+    "Longitude": -43.225207,
+    "Descricao": "Posto Petrobras, R. Gen. Canabarro, 485 - Maracanã, Rio de Janeiro - RJ, 20271-204<br><br> <a href=https://www.google.com.br/maps/place/Posto+Novo+Maracan%C3%A3+Petrobras/@-22.9126573,-43.2247535,19.25z/data=!4m5!3m4!1s0x997e599f4f1cb3:0xa73406a5c897ae03!8m2!3d-22.913022!4d-43.2252165 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 375,
+    "Latitude": -22.911623,
+    "Longitude": -43.286197,
+    "Descricao": "Posto Petrobras, Rua Pedro de Carvalho, 811 - Lins de Vasconcelos, Rio de Janeiro - RJ, 20725-231<br><br> <a href=https://www.google.com.br/maps/place/Br+Mania+-+Vila+Nova+Paiva/@-22.9114375,-43.2863371,19.83z/data=!4m5!3m4!1s0x997d9eb0f9299f:0x5d49fd945ffa27f5!8m2!3d-22.9114606!4d-43.2861798 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 376,
+    "Latitude": -22.820469,
+    "Longitude": -43.280831,
+    "Descricao": "Posto Petrobras, Av. Brasil, 12800 - Penha, Rio de Janeiro - RJ, 21615-336<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.8207312,-43.2813684,19.13z/data=!4m5!3m4!1s0x997bae277670f3:0x3367cfad20af671d!8m2!3d-22.8204502!4d-43.2808401 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 377,
+    "Latitude": -22.832657,
+    "Longitude": -43.279617,
+    "Descricao": "Posto Petrobras, Av. Lobo Júnior, 1429 - Penha Circular, Rio de Janeiro - RJ, 21020-125<br><br> <a href=https://www.google.com.br/maps/place/Br+Mania/@-22.832668,-43.2796781,21z/data=!4m5!3m4!1s0x997bbd6ba2638f:0x656851c770d68a7f!8m2!3d-22.8327862!4d-43.2797264 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 378,
+    "Latitude": -22.838255,
+    "Longitude": -43.294682,
+    "Descricao": "Posto Petrobras, Av. Braz de Pina, 832 - Penha Circular, Rio de Janeiro - RJ, 21210-672<br><br> <a href=https://www.google.com.br/maps/place/Posto+Santa+Cruz/@-22.838243,-43.2948372,20.71z/data=!4m5!3m4!1s0x997b79e2303911:0x93088ed741f1bcb7!8m2!3d-22.8382561!4d-43.2946676 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
