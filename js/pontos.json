@@ -2089,9 +2089,9 @@
   },
   {
     "Id": 349,
-    "Latitude": -23.003983,
-    "Longitude": -43.322884,
-    "Descricao": "Posto Petrobras, Av. das Américas, 2010 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-101<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-23.0039626,-43.3234433,20.08z/data=!4m5!3m4!1s0x9bd0a411416359:0xc05a0adb9146a00b!8m2!3d-23.0039759!4d-43.3228865 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+    "Latitude": -23.003683,
+    "Longitude": -43.323631,
+    "Descricao": "Posto Petrobras, Av. das Américas, 2009 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Barramar/@-23.0037058,-43.3232341,20z/data=!4m5!3m4!1s0x9bd0a4112d69b5:0x7ecb7a556ebe49ee!8m2!3d-23.0036877!4d-43.3236281 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 350,
@@ -2104,5 +2104,36 @@
     "Latitude": -23.002372,
     "Longitude": -43.304694,
     "Descricao": "Posto Petrobras, Estrada da Barra da Tijuca, S/N - Barra da Tijuca, Rio de Janeiro - RJ, 22641-000<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Petrobr%C3%A1s+Portal+do+Itanhang%C3%A1/@-23.0023704,-43.3047663,20.75z/data=!4m5!3m4!1s0x9bd0cea3570f6d:0xa80204792ec4e6f!8m2!3d-23.0023724!4d-43.3046796 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 351,
+    "Latitude": -23.003256,
+    "Longitude": -43.323417,
+    "Descricao": "Posto Petrobras, Av. das Américas, 2010 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-101<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Kohara/@-23.0033969,-43.3233508,20.25z/data=!4m5!3m4!1s0x9be81146e2a573:0x25c0cbf6aba9ef75!8m2!3d-23.0032618!4d-43.3234175 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 352,
+    "Latitude": -22.999829,
+    "Longitude": -43.414567,
+    "Descricao": "Posto Petrobras, Av. das Américas - Barra da Tijuca, Rio de Janeiro - RJ, 22793-970<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-22.9997622,-43.4144728,21z/data=!4m13!1m7!3m6!1s0x9bdc87a4fefaab:0x81086d1d0c00ebd7!2sAv.+das+Am%C3%A9ricas,+10200+-+Barra+da+Tijuca,+Rio+de+Janeiro+-+RJ,+22793-970!3b1!8m2!3d-22.9995629!4d-43.4141564!3m4!1s0x0:0xd34d9bdca33dee5c!8m2!3d-22.9998089!4d-43.4145685 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 353,
+    "Latitude": -23.000618,
+    "Longitude": -43.351423,
+    "Descricao": "Posto Petrobras, Av. das Américas, 3757 - Barra da Tijuca, Rio de Janeiro - RJ, 22631-004<br><br> <a href=https://www.google.com.br/maps/place/Posto+BR+Parque+das+Rosas/@-23.0006163,-43.3514603,21z/data=!4m5!3m4!1s0x9bda4081ae96df:0x6bbad4f84392961a!8m2!3d-23.0006768!4d-43.3514178 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 354,
+    "Latitude": -23.007585,
+    "Longitude": -43.316431,
+    "Descricao": "Posto Petrobras, Av. Rodolfo de Amoedo, 455 - Barra da Tijuca, Rio de Janeiro - RJ, 22620-350<br><br> <a href=https://www.google.com.br/maps/place/Posto+Petrobras/@-23.0075579,-43.3165896,21z/data=!4m5!3m4!1s0x9bd0bc724271a7:0xb1f3492601a4d8c0!8m2!3d-23.0074972!4d-43.3164411 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 355,
+    "Latitude": -23.000501,
+    "Longitude": -43.375857,
+    "Descricao": "Posto Petrobras, Av. das Américas, 7597 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-081<br><br> <a href=https://www.google.com.br/maps/place/Posto+Mandala+Petrobras/@-23.0006398,-43.3755971,20z/data=!4m5!3m4!1s0x9bdbb032cf19e1:0x171050f020056e6e!8m2!3d-23.0004941!4d-43.3758795 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
+  
 ]
