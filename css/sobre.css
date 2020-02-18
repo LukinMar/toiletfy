@@ -133,3 +133,23 @@ body {
   margin-top: -25px;
   opacity: 0.2;
 }
+
+a {
+  color: #ffff !important;
+  opacity: 0.5 !important;
+  font-size: 20px !important;
+  margin-left: 8% !important;
+  line-height: 64px !important;
+  cursor: pointer !important;
+  padding: 0 15px !important;
+  top: 10% !important;
+}
+
+.voltar {
+  position: relative;
+  margin-left: 5%;
+  width: 35px;
+  height: 35px;
+  top: -5%;
+  padding-top: 3%;
+}
