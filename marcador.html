@@ -100,6 +100,21 @@
             </label>
           </p>
         </fieldset>
+        <fieldset class="fs" id="legend">
+          <legend>Possui fraldário? 🚼</legend>
+          <p></p>
+           <label>
+              <input name="group4" type="radio" id="fraldario" value="Sim">
+              <span>Sim</span>
+            </label>
+          </p>
+          <p>
+            <label>
+              <input name="group4" type="radio" id="fraldario" value="Não" checked >
+              <span>Não</span>
+            </label>
+          </p>
+        </fieldset>
         <fieldset class="fs star" id="legend">
         <legend>Avaliação</legend>
         <div class="rating">
@@ -117,6 +132,7 @@
             <input id="valorinput3" type="text" name="entry.812291586" value="Sem avaliação">
             <input id="valorlat" type="text" name="entry.283967867" value="">
             <input id="valorlong" type="text" name="entry.895813622" value="">
+            <input id="valorfraldario" type="text" name="entry.1233615498" value="Não">
           <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
             cloud_upload</i>ENVIAR</button>
         </fieldset>
@@ -167,6 +183,9 @@ $('input[id=star5]').change(function(e) {
   $('#valorinput3').val(e.target.value)
 });
 
+$('input[id=fraldario]').change(function (e) {
+    $('#valorfraldario').val(e.target.value)
+  })
 </script>
   </body>
 </html>
