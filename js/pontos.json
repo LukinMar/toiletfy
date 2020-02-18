@@ -2341,12 +2341,6 @@
   },
   {
     "Id": 391,
-    "Latitude": -22.982877,
-    "Longitude": -43.207752,
-    "Descricao": "Gula Gula, R. Barão da Torre, 446 - Ipanema, Rio de Janeiro - RJ, 22411-002<br><br> <a href=https://www.google.com.br/maps/place/Gula+Gula+Ipanema/@-22.9828471,-43.2099323,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd505eea66d13:0xb1fdb178bc5d79a1!8m2!3d-22.9828521!4d-43.2077436 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>Não<br><br> <img src='img/money.png' width='45px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='45px' title='Banheiro adaptado' alt='Banheiro adaptado'> <img src='img/fraldario.png' width='45px' title='Possui fraldário' alt='Possui fraldário'>"
-  },
-  {
-    "Id": 391,
     "Latitude": -22.908935,
     "Longitude": -43.184711,
     "Descricao": "Refeitório, Av. Gomes Freire, 226 - Centro, Rio de Janeiro - RJ, 20231-014<br><br> <a href=https://www.google.com.br/maps/place/Refeit%C3%B3rio/@-22.9089957,-43.1848298,20.87z/data=!4m5!3m4!1s0x997f68acea9949:0xbce9d75a30ee99ed!8m2!3d-22.9089393!4d-43.1847071 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>Não<br><br> <img src='img/money.png' width='45px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='45px' title='Banheiro adaptado' alt='Banheiro adaptado'> <img src='img/fraldario.png' width='45px' title='Possui fraldário' alt='Possui fraldário'>"
@@ -2392,5 +2386,11 @@
     "Latitude": -22.961791,
     "Longitude": -43.207915,
     "Descricao": "Bráz Pizzaria, R. Maria Angélica, 129 - Lagoa, Rio de Janeiro - RJ, 22470-202<br><br> <a href=https://www.google.com.br/maps/place/Br%C3%A1z+Pizzaria/@-22.9618309,-43.2101431,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd57a3da585a1:0x19c0a105b8e658b0!8m2!3d-22.9618359!4d-43.2079544 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><br><br> <img src='img/money.png' width='45px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='45px' title='Banheiro adaptado' alt='Banheiro adaptado'> <img src='img/fraldario.png' width='45px' title='Possui fraldário' alt='Possui fraldário'>"
+  },
+  {
+    "Id": 399,
+    "Latitude": -22.982877,
+    "Longitude": -43.207752,
+    "Descricao": "Gula Gula, R. Barão da Torre, 446 - Ipanema, Rio de Janeiro - RJ, 22411-002<br><br> <a href=https://www.google.com.br/maps/place/Gula+Gula+Ipanema/@-22.9828471,-43.2099323,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd505eea66d13:0xb1fdb178bc5d79a1!8m2!3d-22.9828521!4d-43.2077436 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>Não<br><br> <img src='img/money.png' width='45px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='45px' title='Banheiro adaptado' alt='Banheiro adaptado'> <img src='img/fraldario.png' width='45px' title='Possui fraldário' alt='Possui fraldário'>"
   }
 ]
