@@ -152,4 +152,5 @@ a {
   height: 35px;
   top: -5%;
   padding-top: 3%;
+  z-index: 99999999998;
 }
