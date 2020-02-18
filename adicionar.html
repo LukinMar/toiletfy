@@ -59,16 +59,61 @@
               </p>
             </fieldset>
             <fieldset class="fs" id="legend">
-              <legend> Caso seja pago e seja adaptado &#x267f;  &#x1f4b0;</legend>
+              <legend>Possui fraldário? 🚼</legend>
               <p></p>
                <label>
-                  <input name="group3" type="radio" id="pagamentopcd" value="<br><br> <img src='img/money.png' width='38px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'>">
+                  <input name="group3" type="radio" id="fraldario" value="<br><br> <img src='img/fraldario.png' width='38px' title='Possui fraldário' alt='Possui fraldário'>">
                   <span>Sim</span>
                 </label>
               </p>
               <p>
                 <label>
-                  <input name="group3" type="radio" id="pagamentopcd" value="" checked >
+                  <input name="group3" type="radio" id="fraldario" value="Não" checked >
+                  <span>Não</span>
+                </label>
+              </p>
+            </fieldset>
+            <fieldset class="fs" id="legend">
+              <legend> Caso seja pago e seja adaptado &#x267f;  &#x1f4b0;</legend>
+              <p></p>
+               <label>
+                  <input name="group4" type="radio" id="pagamentopcd" value="<br><br> <img src='img/money.png' width='38px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'>">
+                  <span>Sim</span>
+                </label>
+              </p>
+              <p>
+                <label>
+                  <input name="group4" type="radio" id="pagamentopcd" value="" checked >
+                  <span>Não</span>
+                </label>
+              </p>
+            </fieldset>
+            <fieldset class="fs" id="legend">
+              <legend> Caso seja pago, seja adaptado e possua fraldário &#x267f;  &#x1f4b0; 🚼 </legend>
+              <p></p>
+               <label>
+                  <input name="group5" type="radio" id="pagamentopcdfrald" value="<br><br> <img src='img/money.png' width='38px' title='Necessita pagamento'  alt='Necessita pagamento'> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'> <img src='img/fraldario.png' width='38px' title='Possui fraldário' alt='Possui fraldário'>">
+                  <span>Sim</span>
+                </label>
+              </p>
+              <p>
+                <label>
+                  <input name="group5" type="radio" id="pagamentopcdfrald" value="" checked >
+                  <span>Não</span>
+                </label>
+              </p>
+            </fieldset>
+            <fieldset class="fs" id="legend">
+              <legend> Caso  seja adaptado e possua fraldário  &#x267f; 🚼 </legend>
+              <p></p>
+               <label>
+                  <input name="group6" type="radio" id="pcdfrald" value="<br><br> <img src='img/PCD.png' width='38px' title='Banheiro adaptado' alt='Banheiro adaptado'> <img src='img/fraldario.png' width='38px' title='Possui fraldário' alt='Possui fraldário'>">
+                  <span>Sim</span>
+                </label>
+              </p>
+              <p>
+                <label>
+                  <input name="group6" type="radio" id="pcdfrald" value="" checked >
                   <span>Não</span>
                 </label>
               </p>
@@ -91,6 +136,9 @@
         <input id="valorinput2" type="text" value="" >
         <input id="valorinput3" type="text" value="" >
         <input id="valorinput4" type="text" value="" >
+        <input id="valorfraldario" type="text" value="">
+        <input id="valorinput5" type="text" value="">
+        <input id="valorinput6" type="text" value="">
 
     </form>
     <link rel="stylesheet" type="text/css" href="css/estilo.css" />
@@ -111,13 +159,27 @@ $('input[id=pcd]').change(function (e) {
   $('#valorinput2').val(e.target.value)
 }) 
 
-$('input[id=pagamentopcd]').change(function (e) {
-  $('#valorinput4').val(e.target.value)
-}) 
-
 $('input[name=star]').change(function (e) {
   $('#valorinput3').val(e.target.value)
 }) 
+
+$('input[id=fraldario]').change(function (e) {
+  $('#valorfraldario').val(e.target.value)
+}) 
+
+$('input[id=pagamentopcd]').change(function (e) {
+  $('#valorinput4').val(e.target.value)
+})
+
+$('input[id=pagamentopcdfrald]').change(function (e) {
+  $('#valorinput5').val(e.target.value)
+}) 
+
+$('input[id=pcdfrald]').change(function (e) {
+  $('#valorinput6').val(e.target.value)
+}) 
+
+
 
 
     $( function() {
@@ -128,10 +190,10 @@ $('input[name=star]').change(function (e) {
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
                                  + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
                                  + $('#valorinput3').val() + $('#valorinput').val()
-                                 + $('#valorinput2').val()  + $('#valorinput4').val() + '"'
+                                 + $('#valorinput2').val()  + $('#valorinput4').val() + $('#valorfraldario').val() +  $('#valorinput5').val() +  $('#valorinput6').val() + '"'
                                  + '\n' + '},');
       }
-    $( '#latitude, #longitude, #nome, #endereco, #link, #valorinput3, #valorinput, #valorinput2, #valorinput4' ).keydown(updateTextarea);
+    $( '#latitude, #longitude, #nome, #endereco, #link, #valorinput3, #valorinput, #valorinput2, #valorinput4, #valorfraldario, #valorinput5, #valorinput6' ).keydown(updateTextarea);
 });
 
 
