@@ -167,12 +167,22 @@ input[type="radio"]:checked + span:after,
 #valorinput4 {
   display: none !important;
 }
+#valorinput5 {
+  display: none !important;
+}
+#valorinput6 {
+  display: none !important;
+}
 #valorlat {
   display: none !important;
 }
 #valorlong {
   display: none !important;
 }
+#valorfraldario {
+  display: none !important;
+}
+
 #lukinmar {
   color: #fff !important;
 }
