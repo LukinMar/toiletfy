@@ -2392,5 +2392,29 @@
     "Latitude": -22.982877,
     "Longitude": -43.207752,
     "Descricao": "Gula Gula, R. Barão da Torre, 446 - Ipanema, Rio de Janeiro - RJ, 22411-002<br><br> <a href=https://www.google.com.br/maps/place/Gula+Gula+Ipanema/@-22.9828471,-43.2099323,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd505eea66d13:0xb1fdb178bc5d79a1!8m2!3d-22.9828521!4d-43.2077436 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><br><br><img src='img/moneypcdfrald.png' width='120px' title='Necessita pagamento, possui banheiro adaptado e possui fraldário' alt='Necessita pagamento, possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 400,
+    "Latitude": -22.910367,
+    "Longitude": -43.176298,
+    "Descricao": "Amarelinho da Cinelândia, Praça Floriano, 55 - B - Centro, Rio de Janeiro - RJ, 20031-050<br><br> <a href=https://www.google.com.br/maps/place/Amarelinho+da+Cinel%C3%A2ndia/@-22.9101478,-43.1769179,19.04z/data=!4m5!3m4!1s0x997f61bd77a5bb:0x2149cb1383fca428!8m2!3d-22.9103702!4d-43.1762561 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 401,
+    "Latitude": -22.902413,
+    "Longitude": -43.177308,
+    "Descricao": "Bar Devassa, R. do Rosário, 90 - A - Centro, Rio de Janeiro - RJ, 20041-002<br><br> <a href=https://www.google.com.br/maps/place/Devassa+(Centro)/@-22.9023869,-43.1795025,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5ed84a8c93:0xa155274daeb9654a!8m2!3d-22.9023919!4d-43.1773138 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 401,
+    "Latitude": -22.903384,
+    "Longitude": -43.190534,
+    "Descricao": "Bob's, Praça Cristiano Otoni, S/N - Centro, Rio de Janeiro - RJ, 20221-250<br><br> <a href=https://www.google.com.br/maps/place/Bob's+Shakes/@-22.9033515,-43.1912166,18.38z/data=!4m8!1m2!2m1!1sbob%E2%80%99s+shakes+perto+de+Central+do+Brasil+-+Avenida+Presidente+Vargas+-+Centro,+Rio+de+Janeiro+-+RJ!3m4!1s0x997f3db827fec1:0xafa5f5cff1da8dc0!8m2!3d-22.903392!4d-43.190526 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 402,
+    "Latitude": -22.909643,
+    "Longitude": -43.171568,
+    "Descricao": "Bob's, Av. Franklin Roosevelt, 23 - Centro, Rio de Janeiro - RJ, 20021-120<br><br> <a href=https://www.google.com.br/maps/place/Bob's/@-22.9097211,-43.1712143,18.75z/data=!4m5!3m4!1s0x9981de4f5d6e27:0xe355009128107c7f!8m2!3d-22.9096346!4d-43.1715745 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
