@@ -2053,9 +2053,9 @@
   },
   {
     "Id": 343,
-    "Latitude": -22.538023,
-    "Longitude": -41.966987,
-    "Descricao": "Posto Shell, ROD AMARAL PEIXOTO, SN QD 8 LT 3A5, Rio das Ostras - RJ, 28890-000<br><br> <a href=https://www.google.com.br/maps/place/Loja+Shell+Select+-+POSTO+SHELL+-+OSORIO+S+2+LOJA+DE+CONVENIENCIA+LTD/@-22.538008,-41.9672611,19.75z/data=!4m5!3m4!1s0x97b31f07454e51:0x7732cfde30865619!8m2!3d-22.5380192!4d-41.96698 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Latitude": -22.902135,
+    "Longitude": -43.176125,
+    "Descricao": "Subway, R. Primeiro de Março, 37 - Centro, Rio de Janeiro - RJ, 20010-000<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9021459,-43.1783161,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5f34d7d2ed:0xa7902e3ab2918b2e!8m2!3d-22.9021509!4d-43.1761274 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
     "Id": 344,
@@ -2525,5 +2525,16 @@
     "Longitude": -43.177513,
     "Descricao": "Starbucks, Av. Rio Branco, 143 - A - Centro, Rio de Janeiro - RJ, 20040-006<br><br> <a href=https://www.google.com.br/maps/place/Starbucks/@-22.905004,-43.1796687,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5e49920a03:0x36741ea5f991d3ae!8m2!3d-22.905009!4d-43.17748 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
   },
-  
+  {
+    "Id": 422,
+    "Latitude": -22.913561,
+    "Longitude": -43.181441,
+    "Descricao": "Subway, R. do Lavradio, 185 - Centro, Rio de Janeiro - RJ, 20230-070<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9135239,-43.1815725,21z/data=!4m5!3m4!1s0x997f64db5faf1b:0xbcc97d990aac9ec3!8m2!3d-22.9135584!4d-43.1814273 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 423,
+    "Latitude": -22.902978,
+    "Longitude": -43.179071,
+    "Descricao": "Subway, R. Miguel Couto, 29 - Centro, Rio de Janeiro - RJ, 20070-030<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.903028,-43.179189,21z/data=!4m5!3m4!1s0x997f5e855082d9:0xfc172842ee3048b4!8m2!3d-22.9029887!4d-43.179066 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  }
 ]
