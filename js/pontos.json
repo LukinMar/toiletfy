@@ -837,7 +837,7 @@
     "Id": 140,
     "Latitude": -22.878031,
     "Longitude": -43.359351,
-    "Descricao": "Burguer King, Estrada Intendente Magalhães, 740 - Vila Valqueire, Rio de Janeiro - RJ, 21331-720 <br><br> <a href='https://www.google.com.br/maps/place/Burger+King/@-22.8779387,-43.359976,19z/data=!4m5!3m4!1s0x9963ba39fa5951:0x7b35846a4b31dea2!8m2!3d-22.8780104!4d-43.3593486' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Burger King, Estrada Intendente Magalhães, 740 - Vila Valqueire, Rio de Janeiro - RJ, 21331-720 <br><br> <a href='https://www.google.com.br/maps/place/Burger+King/@-22.8779387,-43.359976,19z/data=!4m5!3m4!1s0x9963ba39fa5951:0x7b35846a4b31dea2!8m2!3d-22.8780104!4d-43.3593486' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   },
   {
     "Id": 141,
@@ -2418,16 +2418,10 @@
     "Descricao": "Bob's, R. Sen. Dantas, 48 - Centro, Rio de Janeiro - RJ, 20031-200<br><br> <a href=https://www.google.com.br/maps/place/Bob's/@-22.9107792,-43.1770754,20.25z/data=!4m5!3m4!1s0x997f63de5ca6b3:0xcab6be119cfc2889!8m2!3d-22.9107855!4d-43.1770465 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   },
   {
-    "Id": 403,
-    "Latitude": -22.913392,
-    "Longitude": -43.181031,
-    "Descricao": "Bob's, Av. Mem de Sá, 55 - Centro, Rio de Janeiro - RJ, 20230-150<br><br> <a href=https://www.google.com.br/maps/place/Bob's/@-22.913452,-43.1832287,17z/data=!3m1!4b1!4m5!3m4!1s0x997f64ea236995:0x944ffc7c0cec4d5c!8m2!3d-22.913457!4d-43.18104 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
-  },
-  {
     "Id": 404,
     "Latitude": -22.908779,
     "Longitude": -43.178614,
-    "Descricao": "Burger King, R. Sen. Dantas, 177 - Centro, Rio de Janeiro - RJ, 26440-100<br><br> <a href=https://www.google.com.br/maps/place/Burger+King/@-22.9086606,-43.1787802,20.33z/data=!4m5!3m4!1s0x997f612249577d:0xf11f52f40f524bf2!8m2!3d-22.9088096!4d-43.1785927 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Burger King, R. Sen. Dantas, 177 - Centro, Rio de Janeiro - RJ, 26440-100<br><br> <a href=https://www.google.com.br/maps/place/Burger+King/@-22.9086606,-43.1787802,20.33z/data=!4m5!3m4!1s0x997f612249577d:0xf11f52f40f524bf2!8m2!3d-22.9088096!4d-43.1785927 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/pcd.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 405,
@@ -2500,5 +2494,36 @@
     "Latitude": -22.902365,
     "Longitude": -43.181112,
     "Descricao": "McDonald's, Rua Uruguaiana, 174, loja A, sobre SL 101 - Centro, Rio de Janeiro - RJ, 20050-092<br><br> <a href=https://www.google.com.br/maps/place/McDonald's/@-22.9023732,-43.1816027,19z/data=!4m8!1m2!2m1!1smcdonalds+perto+de+Rua+Uruguaiana+-+Centro,+Rio+de+Janeiro+-+RJ!3m4!1s0x997f5c6af1099f:0xd3a142d6f8f852ed!8m2!3d-22.9023732!4d-43.1810555 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
-  }
+  },
+  {
+    "Id": 417,
+    "Latitude": -22.913392,
+    "Longitude": -43.181031,
+    "Descricao": "Bob's, Av. Mem de Sá, 55 - Centro, Rio de Janeiro - RJ, 20230-150<br><br> <a href=https://www.google.com.br/maps/place/Bob's/@-22.913452,-43.1832287,17z/data=!3m1!4b1!4m5!3m4!1s0x997f64ea236995:0x944ffc7c0cec4d5c!8m2!3d-22.913457!4d-43.18104 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 418,
+    "Latitude": -22.904906,
+    "Longitude": -43.179021,
+    "Descricao": "Starbucks, Rua Goncalves Dias, 51 Store A - Centro, Rio de Janeiro - RJ, 20050-030<br><br> <a href=https://www.google.com.br/maps/place/Starbucks/@-22.9047953,-43.1791997,19.75z/data=!4m5!3m4!1s0x997f5e0e8138e1:0xeab7ec0ad5364742!8m2!3d-22.9049149!4d-43.1790272 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 419,
+    "Latitude": -22.903543,
+    "Longitude": -43.178488,
+    "Descricao": "Starbucks, R. Miguel Couto, 7 - Centro, Rio de Janeiro - RJ, 20070-030<br><br> <a href=https://www.google.com.br/maps/place/Starbucks/@-22.9035477,-43.1806765,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5e8afb3b21:0xd0f0fb0e7ac7805a!8m2!3d-22.9035527!4d-43.1784878 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 420,
+    "Latitude": -22.911657,
+    "Longitude": -43.175821,
+    "Descricao": "Starbucks, Praça Floriano, 7 - Centro, Rio de Janeiro - RJ, 20031-050<br><br> <a href=https://www.google.com.br/maps/place/Starbucks/@-22.9116617,-43.178022,17z/data=!3m1!4b1!4m5!3m4!1s0x997f61f595bb4f:0xe064d3f56dde7083!8m2!3d-22.9116667!4d-43.1758333 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 421,
+    "Latitude": -22.905015,
+    "Longitude": -43.177513,
+    "Descricao": "Starbucks, Av. Rio Branco, 143 - A - Centro, Rio de Janeiro - RJ, 20040-006<br><br> <a href=https://www.google.com.br/maps/place/Starbucks/@-22.905004,-43.1796687,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5e49920a03:0x36741ea5f991d3ae!8m2!3d-22.905009!4d-43.17748 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  
 ]
