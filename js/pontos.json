@@ -2406,12 +2406,6 @@
     "Descricao": "Bar Devassa, R. do Rosário, 90 - A - Centro, Rio de Janeiro - RJ, 20041-002<br><br> <a href=https://www.google.com.br/maps/place/Devassa+(Centro)/@-22.9023869,-43.1795025,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5ed84a8c93:0xa155274daeb9654a!8m2!3d-22.9023919!4d-43.1773138 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title='Sem informação' alt='Sem informação'>"
   },
   {
-    "Id": 401,
-    "Latitude": -22.903384,
-    "Longitude": -43.190534,
-    "Descricao": "Bob's, Praça Cristiano Otoni, S/N - Centro, Rio de Janeiro - RJ, 20221-250<br><br> <a href=https://www.google.com.br/maps/place/Bob's+Shakes/@-22.9033515,-43.1912166,18.38z/data=!4m8!1m2!2m1!1sbob%E2%80%99s+shakes+perto+de+Central+do+Brasil+-+Avenida+Presidente+Vargas+-+Centro,+Rio+de+Janeiro+-+RJ!3m4!1s0x997f3db827fec1:0xafa5f5cff1da8dc0!8m2!3d-22.903392!4d-43.190526 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title='Sem informação' alt='Sem informação'>"
-  },
-  {
     "Id": 402,
     "Latitude": -22.909643,
     "Longitude": -43.171568,
@@ -2446,5 +2440,17 @@
     "Latitude": -22.901025,
     "Longitude": -43.176354,
     "Descricao": "Centro Cultural Banco do Brasil (CCBB RJ), R. Primeiro de Março, 66 - Centro, Rio de Janeiro - RJ, 20010-000<br><br> <a href=https://www.google.com.br/maps/place/Centro+Cultural+Banco+do+Brasil+(CCBB+RJ)/@-22.9010003,-43.1784606,17z/data=!3m1!4b1!4m5!3m4!1s0x997f58c55b484f:0xb0d27098592841af!8m2!3d-22.9010053!4d-43.1762719 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 407,
+    "Latitude": -22.903384,
+    "Longitude": -43.190534,
+    "Descricao": "Bob's, Praça Cristiano Otoni, S/N - Centro, Rio de Janeiro - RJ, 20221-250<br><br> <a href=https://www.google.com.br/maps/place/Bob's+Shakes/@-22.9033515,-43.1912166,18.38z/data=!4m8!1m2!2m1!1sbob%E2%80%99s+shakes+perto+de+Central+do+Brasil+-+Avenida+Presidente+Vargas+-+Centro,+Rio+de+Janeiro+-+RJ!3m4!1s0x997f3db827fec1:0xafa5f5cff1da8dc0!8m2!3d-22.903392!4d-43.190526 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title='Sem informação' alt='Sem informação'>"
+  },
+  {
+    "Id": 408,
+    "Latitude": -22.913392,
+    "Longitude": -43.181031,
+    "Descricao": "Bob's, Av. Mem de Sá, 55 - Centro, Rio de Janeiro - RJ, 20230-150<br><br> <a href=https://www.google.com.br/maps/place/Bob's/@-22.913452,-43.1832287,17z/data=!3m1!4b1!4m5!3m4!1s0x997f64ea236995:0x944ffc7c0cec4d5c!8m2!3d-22.913457!4d-43.18104 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title='Sem informação' alt='Sem informação'>"
   }
 ]
