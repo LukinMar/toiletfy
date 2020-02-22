@@ -2650,5 +2650,29 @@
     "Latitude": -22.977526,
     "Longitude": -43.190375,
     "Descricao": "Subway, Av. Nossa Sra. de Copacabana, 1003 - Copacabana, Rio de Janeiro - RJ, 22020-001<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9775428,-43.1925168,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd544e08467c7:0xbe0163eab93291de!8m2!3d-22.9775478!4d-43.1903281 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 443,
+    "Latitude": -22.964594,
+    "Longitude": -43.179734,
+    "Descricao": "Subway, R. Barata Ribeiro, 194 - N - Copacabana, Rio de Janeiro - RJ, 22011-900<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9645828,-43.1819328,17z/data=!3m1!4b1!4m5!3m4!1s0x9980000498aa53:0xc2e3586b50e5e5e8!8m2!3d-22.9645878!4d-43.1797441 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 444,
+    "Latitude": -22.970668,
+    "Longitude": -43.185741,
+    "Descricao": "Subway, Rua Figueiredo de Magalhães, 147 - Copacabana, Rio de Janeiro - RJ, 22031-011<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9706371,-43.1858174,21z/data=!4m5!3m4!1s0x9bd541363e41cb:0xe2106461aee8ecb5!8m2!3d-22.9707007!4d-43.1857776 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 445,
+    "Latitude": -22.936386,
+    "Longitude": -43.189926,
+    "Descricao": "Subway, R. das Laranjeiras, 371 - Laranjeiras, Rio de Janeiro - RJ, 22240-006<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9364267,-43.1920795,17z/data=!3m1!4b1!4m5!3m4!1s0x997f9411a4ebf5:0x587068b20d14191a!8m2!3d-22.9364317!4d-43.1898908 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 446,
+    "Latitude": -22.922739,
+    "Longitude": -43.177294,
+    "Descricao": "Subway, R. do Catete, 44 - Loja B - Catete, Rio de Janeiro - RJ, 22220-000<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9227415,-43.1795538,17z/data=!3m1!4b1!4m5!3m4!1s0x1563976bb9a61ab:0x539a13e57d14a8d3!8m2!3d-22.9227465!4d-43.1773651 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
