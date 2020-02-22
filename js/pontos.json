@@ -2676,21 +2676,21 @@
     "Descricao": "Subway, R. do Catete, 44 - Loja B - Catete, Rio de Janeiro - RJ, 22220-000<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9227415,-43.1795538,17z/data=!3m1!4b1!4m5!3m4!1s0x1563976bb9a61ab:0x539a13e57d14a8d3!8m2!3d-22.9227465!4d-43.1773651 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   },
   {
-    "Id":447,
-    "Latitude":-22.942071,
-    "Longitude":-43.180921,
+    "Id": 447,
+    "Latitude": -22.942071,
+    "Longitude": -43.180921,
     "Descricao": "Subway, Rua Farani, 3 - Botafogo, Rio de Janeiro - RJ, 22231-020<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9420667,-43.183113,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8ce96f2133:0xe894a791f275fe46!8m2!3d-22.9420717!4d-43.1809243 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-    },
-    {
-      "Id":448,
-      "Latitude":-22.957615,
-      "Longitude":-43.199359,
-      "Descricao": "Subway, Rua Humaitá, 134 - Humaitá, Rio de Janeiro - RJ, 22261-002<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9575838,-43.2015731,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd5622251eabb:0x6b9660b5a1e3afd6!8m2!3d-22.9575888!4d-43.1993844 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-      },
-      {
-        "Id":449,
-        "Latitude":-22.984571,
-        "Longitude": -43.201034,
-        "Descricao": "Subway, R. Visc. de Pirajá, 187 - D - Ipanema, Rio de Janeiro - RJ, 22410-001<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9845994,-43.2032266,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd51a7924eb93:0x2f6fa71ad40ccd33!8m2!3d-22.9846044!4d-43.2010379 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
-        },
+  },
+  {
+    "Id": 448,
+    "Latitude": -22.957615,
+    "Longitude": -43.199359,
+    "Descricao": "Subway, Rua Humaitá, 134 - Humaitá, Rio de Janeiro - RJ, 22261-002<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9575838,-43.2015731,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd5622251eabb:0x6b9660b5a1e3afd6!8m2!3d-22.9575888!4d-43.1993844 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 449,
+    "Latitude": -22.984571,
+    "Longitude": -43.201034,
+    "Descricao": "Subway, R. Visc. de Pirajá, 187 - D - Ipanema, Rio de Janeiro - RJ, 22410-001<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9845994,-43.2032266,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd51a7924eb93:0x2f6fa71ad40ccd33!8m2!3d-22.9846044!4d-43.2010379 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  }
 ]
