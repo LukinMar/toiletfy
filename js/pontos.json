@@ -519,7 +519,7 @@
     "Id": 87,
     "Latitude": -22.947424,
     "Longitude": -43.18342,
-    "Descricao": "Botafogo Praia Shopping, Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ, 22250-040     <br><br>  <a href='https://www.google.com/maps/place/Botafogo+Praia+Shopping/@-22.9475183,-43.1855761,17z/data=!3m1!4b1!4m5!3m4!1s0x997ff18ad255d7:0xe110541cdcfacbbb!8m2!3d-22.9475233!4d-43.1833874' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Botafogo Praia Shopping, Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ, 22250-040     <br><br>  <a href='https://www.google.com/maps/place/Botafogo+Praia+Shopping/@-22.9475183,-43.1855761,17z/data=!3m1!4b1!4m5!3m4!1s0x997ff18ad255d7:0xe110541cdcfacbbb!8m2!3d-22.9475233!4d-43.1833874' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 88,
@@ -801,7 +801,7 @@
     "Id": 134,
     "Latitude": -22.909542,
     "Longitude": -43.222817,
-    "Descricao": "Estação São Cristovão, s/n, R. Bartolomeu de Gusmão - São Cristóvão, Rio de Janeiro - RJ, 20941-160 <br><br> <a href='https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+De+S%C3%A3o+Crist%C3%B3v%C3%A3o/@-22.9095609,-43.2249833,17z/data=!3m1!4b1!4m5!3m4!1s0x997ef8034e97b7:0x2efdfb7f70056635!8m2!3d-22.9095609!4d-43.2227946' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'> <img src='img/money.png' width='120px'  title='Necessita pagamento' alt='Necessita pagamento'>  <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Estação São Cristovão, s/n, R. Bartolomeu de Gusmão - São Cristóvão, Rio de Janeiro - RJ, 20941-160 <br><br> <a href='https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+De+S%C3%A3o+Crist%C3%B3v%C3%A3o/@-22.9095609,-43.2249833,17z/data=!3m1!4b1!4m5!3m4!1s0x997ef8034e97b7:0x2efdfb7f70056635!8m2!3d-22.9095609!4d-43.2227946' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'> <img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>"
   },
   {
     "Id": 135,
@@ -849,7 +849,7 @@
     "Id": 142,
     "Latitude": -23.544372,
     "Longitude": -46.634126,
-    "Descricao": "Estação Metrô São Bento, Largo de São Bento, 109 - Centro Histórico de São Paulo, São Paulo - SP, 01029-010 <br><br> <a href='https://www.google.com/maps/place/Largo+de+S%C3%A3o+Bento,+109+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01029-010/@-23.5441716,-46.634644,19z/data=!3m1!4b1!4m5!3m4!1s0x94ce5855c919ec4b:0x8744843e23934740!8m2!3d-23.5441728!4d-46.6340968'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/money.png' width='120px'  title='Necessita pagamento' alt='Necessita pagamento'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Estação Metrô São Bento, Largo de São Bento, 109 - Centro Histórico de São Paulo, São Paulo - SP, 01029-010 <br><br> <a href='https://www.google.com/maps/place/Largo+de+S%C3%A3o+Bento,+109+-+Centro+Hist%C3%B3rico+de+S%C3%A3o+Paulo,+S%C3%A3o+Paulo+-+SP,+01029-010/@-23.5441716,-46.634644,19z/data=!3m1!4b1!4m5!3m4!1s0x94ce5855c919ec4b:0x8744843e23934740!8m2!3d-23.5441728!4d-46.6340968'target='_blank'>Visualize no Google Maps</a> <br><br><img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>"
   },
   {
     "Id": 143,
@@ -2536,5 +2536,119 @@
     "Latitude": -22.902978,
     "Longitude": -43.179071,
     "Descricao": "Subway, R. Miguel Couto, 29 - Centro, Rio de Janeiro - RJ, 20070-030<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.903028,-43.179189,21z/data=!4m5!3m4!1s0x997f5e855082d9:0xfc172842ee3048b4!8m2!3d-22.9029887!4d-43.179066 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 424,
+    "Latitude": -22.984903,
+    "Longitude": -43.198725,
+    "Descricao": "Boteco Belmonte, R. Teixeira de Melo, 53 B - Ipanema, Rio de Janeiro - RJ, 22410-010<br><br> <a href=https://www.google.com.br/maps/place/Boteco+Belmonte/@-22.9725293,-43.2062254,14.75z/data=!4m8!1m2!2m1!1sboteco+belmonte!3m4!1s0x0:0x60e3dcf2524e0d56!8m2!3d-22.9849158!4d-43.1987572 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 425,
+    "Latitude": -22.975799,
+    "Longitude": -43.188965,
+    "Descricao": "Boteco Belmonte, R. Domingos Ferreira, 242 - Copacabana, Rio de Janeiro - RJ, 22050-012<br><br> <a href=https://www.google.com.br/maps/place/Boteco+Belmonte/@-22.974634,-43.2012896,14.5z/data=!4m8!1m2!2m1!1sboteco+belmonte!3m4!1s0x0:0xe53230a51263652e!8m2!3d-22.975794!4d-43.1889886 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 426,
+    "Latitude": -22.935131,
+    "Longitude": -43.174417,
+    "Descricao": "Boteco Belmonte, Praia do Flamengo, 300 - Loja B - Flamengo, Rio de Janeiro - RJ, 22210-030<br><br> <a href=https://www.google.com.br/maps/place/Boteco+Belmonte/@-22.962748,-43.2283329,13.67z/data=!4m8!1m2!2m1!1sboteco+belmonte!3m4!1s0x0:0x80f51e3661241bc0!8m2!3d-22.9351362!4d-43.1744349 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 427,
+    "Latitude": -22.962568,
+    "Longitude": -43.168359,
+    "Descricao": "Boteco Belmonte, Av. Atlântica, 514 - Leme, Rio de Janeiro - RJ, 22010-010<br><br> <a href=https://www.google.com.br/maps/place/Boteco+Belmonte/@-22.9728767,-43.1945076,14.42z/data=!4m8!1m2!2m1!1sboteco+belmonte!3m4!1s0x0:0xad644ad42da63124!8m2!3d-22.9625721!4d-43.1683624 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 428,
+    "Latitude": -22.982468,
+    "Longitude": -43.225702,
+    "Descricao": "Boteco Belmonte, Rua Dias Ferreira, 521 - Leblon, Rio de Janeiro - RJ, 22431-050<br><br> <a href=https://www.google.com.br/maps/place/Boteco+Belmonte/@-22.9824692,-43.2258054,21z/data=!4m8!1m2!2m1!1sboteco+belmonte!3m4!1s0x9bd5b3ad78e4d1:0x7ada0750a0fcf5cf!8m2!3d-22.9824636!4d-43.2256973 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 429,
+    "Latitude": -22.929666,
+    "Longitude": -43.177174,
+    "Descricao": "KFC, R. do Catete, 269 - Catete, Rio de Janeiro - RJ, 22220-001<br><br> <a href=https://www.google.com.br/maps/place/KFC+Largo+do+Machado/@-22.9296682,-43.1771857,21z/data=!4m5!3m4!1s0x997f80d814bccb:0x2b6373309c27fe91!8m2!3d-22.9296653!4d-43.1771728 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 430,
+    "Latitude": -22.931897,
+    "Longitude": -43.180356,
+    "Descricao": "Laranjeiras Mall, R. das Laranjeiras, 29 - Laranjeiras, Rio de Janeiro - RJ, 22221-060<br><br> <a href=https://www.google.com.br/maps/place/Laranjeiras+Mall/@-22.9320097,-43.1825052,17z/data=!3m1!4b1!4m5!3m4!1s0x997f85ce875f09:0x4104f477f21ec762!8m2!3d-22.9320147!4d-43.1803165 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'> <img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 431,
+    "Latitude": -22.983664,
+    "Longitude": -43.219844,
+    "Descricao": "McDonald's, Av. Ataulfo de Paiva, 406 - Lojas A/B, Rio de Janeiro - RJ, 22440-033<br><br> <a href=https://www.google.com.br/maps/place/McDonald's/@-22.9837029,-43.2201282,20.33z/data=!4m5!3m4!1s0x9bd5ac391b77a3:0xf1cf0b32cfe1c8b4!8m2!3d-22.98367!4d-43.2198219 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 432,
+    "Latitude": -22.983853,
+    "Longitude": -43.226982,
+    "Descricao": "Supermercado Zona Sul, Rua Dias Ferreira, 290 - Leblon, Rio de Janeiro - RJ, 22431-050<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul+-+Leblon,+Rua+Dias+Ferreira/@-22.9838414,-43.2271431,21z/data=!4m5!3m4!1s0x9bd5b340300001:0x8d97c84d16fd4076!8m2!3d-22.9838775!4d-43.2269472 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 433,
+    "Latitude": -22.969883,
+    "Longitude": -43.185311,
+    "Descricao": "Supermercado Zona Sul, Av. Nossa Sra. de Copacabana, 595 - Copacabana, Rio de Janeiro - RJ, 22020-001<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul/@-22.9699838,-43.1874078,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd55ab978aa05:0xe6f8461f7372658e!8m2!3d-22.9699888!4d-43.1852191 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 434,
+    "Latitude": -22.985488,
+    "Longitude": -43.192692,
+    "Descricao": "Supermercado Zona Sul, Av. Rainha Elisabeth, 325 - Copacabana, Rio de Janeiro - RJ, 22081-030<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul/@-22.9855058,-43.1948653,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd53d12775e65:0x4c11b3f7bb54d8ef!8m2!3d-22.9855108!4d-43.1926766 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 435,
+    "Latitude": -22.975274,
+    "Longitude": -43.226498,
+    "Descricao": "Supermercado Zona Sul, Av. Rodrigo Otávio, 269 - Gávea, Rio de Janeiro - RJ, 22450-060<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul+-+G%C3%A1vea,+Av.+Rodrigo+Ot%C3%A1vio/@-22.9752348,-43.2265138,20.5z/data=!4m5!3m4!1s0x9bd6b9be6cf183:0x8c944e652c796a87!8m2!3d-22.9752813!4d-43.2265227 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 436,
+    "Latitude": -22.983294,
+    "Longitude": -43.191746,
+    "Descricao": "Supermercado Zona Sul, R. Francisco Sá, 35 - Copacabana, Rio de Janeiro - RJ, 22080-010<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul/@-22.9833254,-43.1939093,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd53c66aabad3:0xcdce42622f62bc9e!8m2!3d-22.9833304!4d-43.1917206 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 437,
+    "Latitude": -22.944566,
+    "Longitude": -43.185529,
+    "Descricao": "Supermercado Zona Sul, R. Bambina, 36 - Botafogo, Rio de Janeiro - RJ, 22510-050<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul/@-22.9445502,-43.1877824,17z/data=!3m1!4b1!4m5!3m4!1s0x997fed99b4cea3:0x5051366010a14a31!8m2!3d-22.9445552!4d-43.1855937 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 438,
+    "Latitude": -22.980511,
+    "Longitude": -43.224264,
+    "Descricao": "Supermercado Zona Sul, Av. Bartolomeu Mitre, 705 - Leblon, Rio de Janeiro - RJ, 22431-000<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul+-+Leblon,+Rua+Bartolomeu+Mitre/@-22.9805418,-43.2265281,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd5b1eb891f4d:0x45547ceb7e742d37!8m2!3d-22.9805468!4d-43.2243394 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 439,
+    "Latitude": -22.984709,
+    "Longitude": -43.226065,
+    "Descricao": "Supermercado Zona Sul, R. Gen. Artigas, 325 - Leblon, Rio de Janeiro - RJ, 22450-010<br><br> <a href=https://www.google.com.br/maps/place/Zona+Sul/@-22.9846937,-43.2259814,21z/data=!4m5!3m4!1s0x9bd5b34209f42f:0x83cee7455474e32c!8m2!3d-22.9847244!4d-43.2260916 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 440,
+    "Latitude": -22.985903,
+    "Longitude": -43.197111,
+    "Descricao": "Supermercado Zona Sul, R. Prudente de Morais, 49 - Ipanema, Rio de Janeiro - RJ, 22420-040<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul/@-22.9859624,-43.199305,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd519da27b517:0xb3b451a586239bd5!8m2!3d-22.9859674!4d-43.1971163 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 441,
+    "Latitude": -22.983783,
+    "Longitude": -43.210044,
+    "Descricao": "Supermercado Zona Sul, R. Visc. de Pirajá, 504 - Ipanema, Rio de Janeiro - RJ, 22410-002<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Zona+Sul/@-22.9837564,-43.2109059,18z/data=!4m5!3m4!1s0x9bd505d160e05b:0x302cc5c80a451e12!8m2!3d-22.9837609!4d-43.2100436 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 442,
+    "Latitude": -22.977526,
+    "Longitude": -43.190375,
+    "Descricao": "Subway, Av. Nossa Sra. de Copacabana, 1003 - Copacabana, Rio de Janeiro - RJ, 22020-001<br><br> <a href=https://www.google.com.br/maps/place/Subway/@-22.9775428,-43.1925168,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd544e08467c7:0xbe0163eab93291de!8m2!3d-22.9775478!4d-43.1903281 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
   }
 ]
