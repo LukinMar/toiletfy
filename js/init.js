@@ -1,7 +1,1 @@
-(function($){
-  $(function(){
-
-    $('.sidenav').sidenav();
-
-  }); // end of document ready
-})(jQuery); // end of jQuery name space
+!function(n){n(function(){n(".sidenav").sidenav()})}(jQuery);
