@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="stylesheet" type="text/css" href="css/formulario.css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet"/>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <meta name="theme-color" content="#8e3dbc" />
+    <title>Reportar problemas</title>
+  </head>
+  <body>
+    <div class="navbar-fixed">
+      <nav>
+        <div class="nav-wrapper">
+          <a class="brand-logo center">ToiletFY</a>
+          <ul class="right hide-on-med-and-down">
+            <li>
+              <a href="index.html"><i class="material-icons">home</i></a>
+            </li>
+            <li>
+              <a href="adicionar.html"
+                ><i class="material-icons">add_location</i></a
+              >
+            </li>
+            <li>
+              <a href="sobre.html"><i class="material-icons">info</i></a>
+            </li>
+          </ul>
+
+          <ul id="nav-mobile" class="sidenav">
+            <li>
+              <a href="index.html"
+                ><i class="material-icons">home</i>Página inicial</a
+              >
+            </li>
+            <hr />
+            <li>
+              <a href="adicionar.html"
+                ><i class="material-icons">add_location</i>Adicionar banheiro</a
+              >
+            </li>
+            <hr />
+            <li>
+              <a href="sobre.html"><i class="material-icons">info</i>Sobre</a>
+            </li>
+            <hr />
+            <br /><br /><br /><br /><br /><br /><br />
+            <li>
+              <a href="privacidade.html"
+                ><i class="material-icons warning">lock</i></a
+              >
+            </li>
+          </ul>
+          <a href="#" data-target="nav-mobile" class="sidenav-trigger"
+            ><i class="material-icons">menu</i></a
+          >
+        </div>
+      </nav>
+    </div>
+    <div class="containers">
+      <form
+        id="contacts"
+        autocomplete="off"
+        autocorrect="off"
+        action="https://docs.google.com/forms/d/e/1FAIpQLScJtKcFFTnBAfEk0bCkgH4dQt1pUBmXn3IYuncPaNite7ivNw/formResponse"
+        target="_self"
+        method="POST"
+        id="mG61Hd"
+      >
+        <h3>Reportar problemas</h3>
+        <br />
+        <fieldset class="fs">
+          <input
+            id="nome"
+            name="entry.550324690"
+            placeholder="Seu nome"
+            type="text"
+            tabindex="1"
+            required
+            autofocus
+            autocomplete="off"
+          />
+        </fieldset>
+        <fieldset class="fs">
+          <input
+            class="input-field"
+            name="entry.880980039"
+            placeholder="Nome do local"
+            type="text"
+            tabindex="2"
+            required
+            autocomplete="off"
+          />
+        </fieldset>
+        <fieldset class="fs">
+          <input
+            class="input-field localizacao"
+            id="endereco"
+            type="text"
+            name="entry.1428081863"
+            placeholder="Endereço"
+            tabindex="3"
+            required
+            autocomplete="off"
+          /><br />
+          <button
+            type="button"
+            id="showMe"
+            class="waves-effect waves-light btn center-align localizacao"
+          >
+            <i class="material-icons left">
+              my_location
+            </i>
+            Usar minha localização
+          </button>
+          <div id="mapa" style="width:10%; height:10%"></div>
+        </fieldset>
+        <fieldset class="fs">
+          <textarea
+            class="input-field"
+            name="entry.665565208"
+            placeholder="Descrição do problema"
+            id="descricao"
+            tabindex="4"
+            required
+          ></textarea>
+        </fieldset>
+        <fieldset class="fs">
+          <button
+            id="submit"
+            name="submit"
+            class=" waves-effect waves-light btn center-align"
+            type="submit"
+            id="contact-submit"
+            data-submit="Enviando..."
+          >
+            <i class="material-icons left"> cloud_upload</i>ENVIAR
+          </button>
+        </fieldset>
+      </form>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
+    ></script>
+    <script src="js/marcador.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+    <script
+      id="base-js"
+      src="https://www.gstatic.com/_/freebird/_/js/k=freebird.v.pt_BR.BRuqPXBT82Y.O/d=1/rs=AMjVe6i0CftiZtE_TW5fsIHLoGuxPYbbTQ/m=viewer_base"
+      nonce=""
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script>
+      $("input[id=valor]").change(function(e) {
+        $("#valorinput").val(e.target.value);
+      });
+
+      $("input[id=pcd]").change(function(e) {
+        $("#valorinput2").val(e.target.value);
+      });
+    </script>
+  </body>
+</html>
