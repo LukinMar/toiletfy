@@ -132,7 +132,7 @@
         <fieldset class="fs">
             <input id="valorinput" type="text" name="entry.758726952" value="Não">  
             <input id="valorinput2" type="text" name="entry.690648933" value="Não" >
-            <input id="valorinput3" type="text" name="entry.812291586" value="Sem avaliação">
+            <input id="inputavaliacao" type="text" name="entry.812291586" value="Sem avaliação">
             <input id="valorlat" type="text" name="entry.283967867" value="">
             <input id="valorlong" type="text" name="entry.895813622" value="">
             <input id="valorfraldario" type="text" name="entry.1233615498" value="Não">
@@ -163,19 +163,19 @@ $('input[id=valor]').change(function (e) {
   })
 
 $('input[id=star1]').change(function(e) {
-  $('#valorinput3').val(e.target.value)
+  $('#inputavaliacao').val(e.target.value)
 });
 $('input[id=star2]').change(function(e) {
-  $('#valorinput3').val(e.target.value)
+  $('#inputavaliacao').val(e.target.value)
 });
 $('input[id=star3]').change(function(e) {
-  $('#valorinput3').val(e.target.value)
+  $('#inputavaliacao').val(e.target.value)
 });
 $('input[id=star4]').change(function(e) {
-  $('#valorinput3').val(e.target.value)
+  $('#inputavaliacao').val(e.target.value)
 });
 $('input[id=star5]').change(function(e) {
-  $('#valorinput3').val(e.target.value)
+  $('#inputavaliacao').val(e.target.value)
 });
 
 $('input[id=fraldario]').change(function (e) {
