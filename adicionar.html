@@ -1,130 +1,186 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="theme-color" content="#8e3dbc">
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
-    <title>Adicionar</title>
-</head>
-<body>
-  <div class="containers">  
-    <form id="contacts" autocorrect="off" autocomplete="off" >
-      <h3 align="center">Adicionar</h3>
-      <br>
-            <fieldset class="fs">
-            <input  class="input-field" id=latitude placeholder="Latitude" type="text"  tabindex="2" required>
-          </fieldset>
-          <fieldset class="fs"> 
-            <input  class="input-field " id="longitude"  type="text"  placeholder="Longitude" tabindex="3" required>
-          </fieldset>
-          <fieldset class="fs"> 
-            <input  class="input-field " id="nome"  type="text"  placeholder="Nome do local" tabindex="4" required>
-          </fieldset>
-          <fieldset class="fs"> 
-            <input  class="input-field " id="endereco"  type="text"  placeholder="Endereço" tabindex="5" required>
-          </fieldset>
-          <fieldset class="fs"> 
-            <input  class="input-field" id="link"  type="text"  placeholder="Link" tabindex="6" required>
-          </fieldset>
-          <fieldset class="fs" id="legend">
-            <legend>Informações</legend>
-            <p>
-            <label>
-              <input name="informacoes" type="radio" id="pagamento" value="<img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>">
-              <span>Necessita pagamento para usar &#x1F4B0;</span>
-            </label>
-            </p>
-            <p>
-            <label>
-              <input name="informacoes" type="radio" id="pcd" value="<img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>">
-              <span>Possui banheiro adaptado para PcD &#x267f;</span>
-            </label>
-            </p>
-            <p>
-            <label>
-              <input name="informacoes" type="radio" id="fraldario" value="<img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>">
-              <span>Possui fraldário 🚼</span>
-            </label>
-            </p>
-            <p>
-            <label>
-              <input name="informacoes" type="radio" id="pag/pcd" value="<img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>">
-              <span> Pagamento / Adaptado &#x267f;  &#x1f4b0;</span>
-            </label>
-            </p>
-            <p>
-            <label>
-              <input name="informacoes" type="radio" id="pcd/frald" value="<img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>">
-              <span>Adaptado / Fraldário  &#x267f; 🚼 </span>
-            </label>
-            </p>
-            <p>
-	          <label>
-              <input name="informacoes" type="radio" id="pag/pcd/frald" value="<img src='img/moneypcdfrald.png' width='120px' title='Necessita pagamento, possui banheiro adaptado e possui fraldário' alt='Necessita pagamento, possui banheiro adaptado e possui fraldário'>">
-              <span>Pagamento / Adaptado / Fraldário &#x1F4B0; &#x267f; 🚼 </span>
-            </label>
-            </p>
-            <p>
-	          <label>
-              <input name="informacoes" type="radio" id="seminfo" value="<img src='img/seminfo.png' width='120px' title=' ' alt=' '>">
-              <span>Sem informação</span>
-            </label>
-            </p>
-            </fieldset>
-            <fieldset class="fs star" id="legend">
-            <legend>Avaliação</legend>
-            <div class="rating">
-              <br><br>
-              <input type="radio" name="star" id="star5" value="<br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>"><label for="star5"></label>
-              <input type="radio" name="star" id="star4" value="<br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"><label for="star4"></label>
-              <input type="radio" name="star" id="star3" value="<br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"><label for="star3"></label>
-              <input type="radio" name="star" id="star2" value="<br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'>"><label for="star2"></label>
-              <input type="radio" name="star" id="star1" value="<br><br> <img src='img/1estrelas.png'  width='170px' title='1 estrela'  alt='1 estrela'>"><label for="star1"></label>
-            </div>
-            </fieldset>
-            <small>Copiar e colar</small><a href=""onclick="copy()"><i class="material-icons copy">content_copy</i></a><br>
-        <textarea class="input-field" placeholder="" class="textarea1"  id="textarea1"></textarea>
-        <input id="inputinfo" type="text"  value="">  
-        <input id="inputavaliacao" type="text" value="" >
-    </form>
-    <link rel="stylesheet" type="text/css" href="css/formulario.css" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/formulario.css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet"/>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <title>Adicionar banheiro</title>
+  </head>
+  <body>
+    <div class="navbar-fixed">
+    <nav>
+      <div class="nav-wrapper">
+        <a class="brand-logo center">ToiletFY</a>
+        <ul class="right hide-on-med-and-down">
+          <li>
+            <a href="index.html"><i class="material-icons">home</i></a>
+          </li>
+          <li>
+            <a href="reportar.html"><i class="material-icons">report_problem</i></a>
+          </li>
+          <li>
+            <a href="sobre.html"><i class="material-icons">info</i></a>
+          </li>
+        </ul>
+
+        <ul id="nav-mobile" class="sidenav">
+          <li>
+            <a href="index.html"
+              ><i class="material-icons">home</i>Página inicial</a
+            >
+          </li>
+          <hr />
+          <li>
+                <a href="reportar.html"><i class="material-icons">report_problem</i>Reportar problemas</a>
+              </li>
+              <hr />
+          <li>
+            <a href="sobre.html"><i class="material-icons">info</i>Sobre</a>
+          </li>
+          <hr />
+          <br><br><br><br><br><br><br>
+          <li><a href="privacidade.html"><i class="material-icons warning">lock</i></a></li>
+        </ul>
+        <a href="#" data-target="nav-mobile" class="sidenav-trigger"
+          ><i class="material-icons">menu</i></a
+        >
+      </div>
+    </nav>
+  </div>
+    <div class="containers">  
+      <form id="contacts" autocorrect="off" autocomplete="off" action="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/formResponse" method="post" target="_self" id="mG61Hd">
+        <h3>Adicionar banheiro</h3>
+        <br>
+        <fieldset class="fs">
+        <input id="nome" name="entry.1361815311" placeholder="Seu nome" type="text" tabindex="1" required autofocus>
+      </fieldset>
+      <fieldset class="fs">
+        <input  class="input-field" name="entry.2039486100" placeholder="Nome do local" type="text"  tabindex="2" required>
+      </fieldset>
+      <fieldset class="fs"> 
+        <input  class="input-field localizacao" id="endereco"  type="text" name="entry.1169249885"  placeholder="Endereço" tabindex="3" required>
+        <button type="button" id="showMe" class="waves-effect waves-light btn center-align">
+            <i class="material-icons left">
+                my_location
+            </i>
+            Usar minha localização
+          </button>
+          <div id="mapa" style="width:10%; height:10%"></div>
+      </fieldset>
+        <fieldset class="fs" id="legend">
+          <legend>Necessita pagamento para usar? &#x1F4B0; </legend>
+          <p></p>
+           <label>
+              <input name="group1" type="radio" id="valor" value="Sim" >
+              <span>Sim</span>
+            </label>
+          </p>
+          <p>
+            <label>
+              <input name="group1" type="radio" id="valor" value="Não" checked >
+              <span>Não</span>
+            </label>
+          </p>
+        </fieldset>
+        <fieldset class="fs" id="legend">
+          <legend>Banheiro adaptado para PcD? &#x267f;</legend>
+          <p></p>
+           <label>
+              <input name="group2" type="radio" id="pcd" value="Sim">
+              <span>Sim</span>
+            </label>
+          </p>
+          <p>
+            <label>
+              <input name="group2" type="radio" id="pcd" value="Não" checked >
+              <span>Não</span>
+            </label>
+          </p>
+        </fieldset>
+        <fieldset class="fs" id="legend">
+          <legend>Possui fraldário? 🚼</legend>
+          <p></p>
+           <label>
+              <input name="group4" type="radio" id="fraldario" value="Sim">
+              <span>Sim</span>
+            </label>
+          </p>
+          <p>
+            <label>
+              <input name="group4" type="radio" id="fraldario" value="Não" checked >
+              <span>Não</span>
+            </label>
+          </p>
+        </fieldset>
+        <fieldset class="fs star" id="legend">
+        <legend>Avaliação</legend>
+        <div class="rating">
+          <br><br>
+          <input type="radio" name="star" id="star5" value="5"><label for="star5"></label>
+          <input type="radio" name="star" id="star4" value="4"><label for="star4"></label>
+          <input type="radio" name="star" id="star3" value="3"><label for="star3"></label>
+          <input type="radio" name="star" id="star2" value="2"><label for="star2"></label>
+          <input type="radio" name="star" id="star1" value="1"><label for="star1"></label>
+        </div>
+        </fieldset>
+        <fieldset class="fs">
+            <input id="valorinput" type="text" name="entry.758726952" value="Não">  
+            <input id="valorinput2" type="text" name="entry.690648933" value="Não" >
+            <input id="inputavaliacao" type="text" name="entry.812291586" value="Sem avaliação">
+            <input id="valorlat" type="text" name="entry.283967867" value="">
+            <input id="valorlong" type="text" name="entry.895813622" value="">
+            <input id="valorfraldario" type="text" name="entry.1233615498" value="Não">
+          <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
+            cloud_upload</i>ENVIAR</button>
+        </fieldset>
+      </form>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script
+    type="text/javascript"
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
+  ></script>
+    <script src="js/marcador.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+    <script id="base-js" src="https://www.gstatic.com/_/freebird/_/js/k=freebird.v.pt_BR.BRuqPXBT82Y.O/d=1/rs=AMjVe6i0CftiZtE_TW5fsIHLoGuxPYbbTQ/m=viewer_base" nonce=""></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/jquery.min.js"></script>
-</body>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
 <script>
-
-$('input[name=informacoes]').change(function (e) {
-  $('#inputinfo').val(e.target.value)
+$('input[id=valor]').change(function (e) {
+  $('#valorinput').val(e.target.value)
 })
 
-$('input[name=star]').change(function (e) {
+  $('input[id=pcd]').change(function (e) {
+    $('#valorinput2').val(e.target.value)
+  })
+
+$('input[id=star1]').change(function(e) {
   $('#inputavaliacao').val(e.target.value)
-}) 
-    $( function() {
-    function updateTextarea() {
-      $( '#textarea1' ).val( '{' + '\n' + '"Id":,' + '\n' 
-                                 + '"Latitude":' + $( '#latitude' ).val() + ',' + '\n' 
-                                 + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
-                                 + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
-                                 + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
-                                 + $('#inputavaliacao').val() + $('#inputinfo').val()
-                                 + '"'
-                                 + '\n' + '},');
-      }
-    $( '#latitude, #longitude, #nome, #endereco, #link, #inputavaliacao, #inputinfo').keydown(updateTextarea);
+});
+$('input[id=star2]').change(function(e) {
+  $('#inputavaliacao').val(e.target.value)
+});
+$('input[id=star3]').change(function(e) {
+  $('#inputavaliacao').val(e.target.value)
+});
+$('input[id=star4]').change(function(e) {
+  $('#inputavaliacao').val(e.target.value)
+});
+$('input[id=star5]').change(function(e) {
+  $('#inputavaliacao').val(e.target.value)
 });
 
-function copy() {
-  var copyText = document.getElementById("textarea1");
-  copyText.select();
-  copyText.setSelectionRange(0, 99999);
-  document.execCommand("copy");
-  alert("Conteúdo copiado");
-}
-
+$('input[id=fraldario]').change(function (e) {
+    $('#valorfraldario').val(e.target.value)
+  })
 </script>
+  </body>
 </html>
