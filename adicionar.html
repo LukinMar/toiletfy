@@ -28,95 +28,50 @@
           <fieldset class="fs"> 
             <input  class="input-field" id="link"  type="text"  placeholder="Link" tabindex="6" required>
           </fieldset>
-            <fieldset class="fs" id="legend">
-              <legend>Necessita pagamento para usar? &#x1F4B0; </legend>
-              <p></p>
-               <label>
-                  <input name="group1" type="radio" id="valor" value=" <img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>" >
-                  <span>Sim</span>
-                </label>
-              </p>
-              <p>
-                <label>
-                  <input name="group1" type="radio" id="valor" value="" checked >
-                  <span>Não</span>
-                </label>
-              </p>
-            </fieldset>
-            <fieldset class="fs" id="legend">
-              <legend>Possui banheiro adaptado para PcD? &#x267f;</legend>
-              <p></p>
-               <label>
-                  <input name="group2" type="radio" id="pcd" value=" <img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>">
-                  <span>Sim</span>
-                </label>
-              </p>
-              <p>
-                <label>
-                  <input name="group2" type="radio" id="pcd" value="" checked >
-                  <span>Não</span>
-                </label>
-              </p>
-            </fieldset>
-            <fieldset class="fs" id="legend">
-              <legend>Possui fraldário? 🚼</legend>
-              <p></p>
-               <label>
-                  <input name="group3" type="radio" id="fraldario" value="<img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>">
-                  <span>Sim</span>
-                </label>
-              </p>
-              <p>
-                <label>
-                  <input name="group3" type="radio" id="fraldario" value="Não" checked >
-                  <span>Não</span>
-                </label>
-              </p>
-            </fieldset>
-            <fieldset class="fs" id="legend">
-              <legend> Caso seja pago e seja adaptado &#x267f;  &#x1f4b0;</legend>
-              <p></p>
-               <label>
-                  <input name="group4" type="radio" id="pagamentopcd" value="<img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>">
-                  <span>Sim</span>
-                </label>
-              </p>
-              <p>
-                <label>
-                  <input name="group4" type="radio" id="pagamentopcd" value="" checked >
-                  <span>Não</span>
-                </label>
-              </p>
-            </fieldset>
-            <fieldset class="fs" id="legend">
-              <legend> Caso seja pago, seja adaptado e possua fraldário &#x267f;  &#x1f4b0; 🚼 </legend>
-              <p></p>
-               <label>
-                  <input name="group5" type="radio" id="pagamentopcdfrald" value="<img src='img/moneypcdfrald.png' width='120px' title='Necessita pagamento, possui banheiro adaptado e possui fraldário' alt='Necessita pagamento, possui banheiro adaptado e possui fraldário'>">
-                  <span>Sim</span>
-                </label>
-              </p>
-              <p>
-                <label>
-                  <input name="group5" type="radio" id="pagamentopcdfrald" value="" checked >
-                  <span>Não</span>
-                </label>
-              </p>
-            </fieldset>
-            <fieldset class="fs" id="legend">
-              <legend> Caso  seja adaptado e possua fraldário  &#x267f; 🚼 </legend>
-              <p></p>
-               <label>
-                  <input name="group6" type="radio" id="pcdfrald" value=" <img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>">
-                  <span>Sim</span>
-                </label>
-              </p>
-              <p>
-                <label>
-                  <input name="group6" type="radio" id="pcdfrald" value="" checked >
-                  <span>Não</span>
-                </label>
-              </p>
+          <fieldset class="fs" id="legend">
+            <legend>Informações</legend>
+            <p>
+            <label>
+              <input name="informacoes" type="radio" id="pagamento" value="<img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>">
+              <span>Necessita pagamento para usar &#x1F4B0;</span>
+            </label>
+            </p>
+            <p>
+            <label>
+              <input name="informacoes" type="radio" id="pcd" value="<img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>">
+              <span>Possui banheiro adaptado para PcD &#x267f;</span>
+            </label>
+            </p>
+            <p>
+            <label>
+              <input name="informacoes" type="radio" id="fraldario" value="<img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>">
+              <span>Possui fraldário 🚼</span>
+            </label>
+            </p>
+            <p>
+            <label>
+              <input name="informacoes" type="radio" id="pag/pcd" value="<img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>">
+              <span> Pagamento / Adaptado &#x267f;  &#x1f4b0;</span>
+            </label>
+            </p>
+            <p>
+            <label>
+              <input name="informacoes" type="radio" id="pcd/frald" value="<img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>">
+              <span>Adaptado / Fraldário  &#x267f; 🚼 </span>
+            </label>
+            </p>
+            <p>
+	          <label>
+              <input name="informacoes" type="radio" id="pag/pcd/frald" value="<img src='img/moneypcdfrald.png' width='120px' title='Necessita pagamento, possui banheiro adaptado e possui fraldário' alt='Necessita pagamento, possui banheiro adaptado e possui fraldário'>">
+              <span>Pagamento / Adaptado / Fraldário &#x1F4B0; &#x267f; 🚼 </span>
+            </label>
+            </p>
+            <p>
+	          <label>
+              <input name="informacoes" type="radio" id="seminfo" value="<img src='img/seminfo.png' width='120px' title=' ' alt=' '>">
+              <span>Sem informação</span>
+            </label>
+            </p>
             </fieldset>
             <fieldset class="fs star" id="legend">
             <legend>Avaliação</legend>
@@ -129,17 +84,10 @@
               <input type="radio" name="star" id="star1" value="<br><br> <img src='img/1estrelas.png'  width='170px' title='1 estrela'  alt='1 estrela'>"><label for="star1"></label>
             </div>
             </fieldset>
-            <br><br>
-            <small>Copiar e colar</small><br>
-        <textarea class="input-field"   placeholder="" class="textarea1"  id="textarea1"></textarea>
-        <input id="valorinput" type="text"  value="">  
-        <input id="valorinput2" type="text" value="" >
-        <input id="valorinput3" type="text" value="" >
-        <input id="valorinput4" type="text" value="" >
-        <input id="valorfraldario" type="text" value="">
-        <input id="valorinput5" type="text" value="">
-        <input id="valorinput6" type="text" value="">
-
+            <small>Copiar e colar</small><a href=""onclick="copy()"><i class="material-icons copy">content_copy</i></a><br>
+        <textarea class="input-field" placeholder="" class="textarea1"  id="textarea1"></textarea>
+        <input id="inputinfo" type="text"  value="">  
+        <input id="inputavaliacao" type="text" value="" >
     </form>
     <link rel="stylesheet" type="text/css" href="css/formulario.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
@@ -149,37 +97,13 @@
 </body>
 <script>
 
-$('input[id=valor]').change(function (e) {
-  $('#valorinput').val(e.target.value)
+$('input[name=informacoes]').change(function (e) {
+  $('#inputinfo').val(e.target.value)
 })
-
-$('input[id=pcd]').change(function (e) {
-  $('#valorinput2').val(e.target.value)
-}) 
 
 $('input[name=star]').change(function (e) {
-  $('#valorinput3').val(e.target.value)
+  $('#inputavaliacao').val(e.target.value)
 }) 
-
-$('input[id=fraldario]').change(function (e) {
-  $('#valorfraldario').val(e.target.value)
-}) 
-
-$('input[id=pagamentopcd]').change(function (e) {
-  $('#valorinput4').val(e.target.value)
-})
-
-$('input[id=pagamentopcdfrald]').change(function (e) {
-  $('#valorinput5').val(e.target.value)
-}) 
-
-$('input[id=pcdfrald]').change(function (e) {
-  $('#valorinput6').val(e.target.value)
-}) 
-
-
-
-
     $( function() {
     function updateTextarea() {
       $( '#textarea1' ).val( '{' + '\n' + '"Id":,' + '\n' 
@@ -187,15 +111,20 @@ $('input[id=pcdfrald]').change(function (e) {
                                  + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
                                  + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
-                                 + $('#valorinput3').val() + $('#valorinput').val()
-                                 + $('#valorinput2').val()  + $('#valorinput4').val() + $('#valorfraldario').val() +  $('#valorinput5').val() +  $('#valorinput6').val() + '"'
+                                 + $('#inputavaliacao').val() + $('#inputinfo').val()
+                                 + '"'
                                  + '\n' + '},');
       }
-    $( '#latitude, #longitude, #nome, #endereco, #link, #valorinput3, #valorinput, #valorinput2, #valorinput4, #valorfraldario, #valorinput5, #valorinput6' ).keydown(updateTextarea);
+    $( '#latitude, #longitude, #nome, #endereco, #link, #inputavaliacao, #inputinfo').keydown(updateTextarea);
 });
 
-
-
+function copy() {
+  var copyText = document.getElementById("textarea1");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999);
+  document.execCommand("copy");
+  alert("Conteúdo copiado");
+}
 
 </script>
 </html>
