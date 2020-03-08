@@ -21,8 +21,8 @@
         <a class="brand-logo center">ToiletFY</a>
         <ul class="right hide-on-med-and-down">
           <li>
+            <a><i class="material-icons pesquisar" >search</i></a>
             <div class="container">
-            <div class="header"><a><i class="material-icons" >search</i></a></div>
             <div class="content">
               <input id="pac-input" class="controls" type="text" placeholder="Pesquise no ToiletFY">
             </div>
@@ -64,9 +64,9 @@
         </ul>
         <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
         <a href="javascript:location.reload()"><i class="material-icons recarregar">refresh</i></a>
+        <a><i class="material-icons pesquisar-mobile">search</i></a>
         <div class="container">
-          <div class="header"><a><i class="material-icons pesquisar-mobile">search</i></a></div>
-          <div class="content">
+          <div class="content-mobile">
             <input id="pac-input-mobile" class="controls" type="text" placeholder="Pesquise no ToiletFY">
           </div>
       </div>
@@ -88,10 +88,12 @@
         });
       });
 
-      $(".header").click(function () {
-        $header = $(this);
-        $content = $header.next();
-        $content.slideToggle("slow");
+      $(".pesquisar-mobile").click(function () {
+        $(".content-mobile").slideToggle("slow");
+        });
+
+        $(".pesquisar").click(function () {
+        $(".content").slideToggle("slow");
         });
     </script>
   </body>
