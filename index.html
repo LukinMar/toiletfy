@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/inicial.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <title>ToiletFY</title>
+
   </head>
   <body>
     <div class="preloader">
@@ -21,22 +22,23 @@
         <a class="brand-logo center">ToiletFY</a>
         <ul class="right hide-on-med-and-down">
           <li>
-            <a href="adicionar.html"
-              ><i class="material-icons">add_location</i></a
-            >
+            <div class="container">
+            <div class="header"><a><i class="material-icons" >search</i></a></div>
+            <div class="content">
+              <input id="pac-input" class="controls" type="text" placeholder="Pesquise no ToiletFY">
+            </div>
           </li>
           <li>
-            <a href="reportar.html"
-              ><i class="material-icons">report_problem</i></a
-            >
+            <a href="adicionar.html"><i class="material-icons">add_location</i></a>
+          </li>
+          <li>
+            <a href="reportar.html"><i class="material-icons">report_problem</i></a>
           </li>
           <li>
             <a href="sobre.html"><i class="material-icons">info</i></a>
           </li>
           <li>
-            <a href="javascript:location.reload()"
-              ><i class="material-icons">refresh</i></a
-            >
+            <a href="javascript:location.reload()"><i class="material-icons">refresh</i></a>
           </li>
         </ul>
 
@@ -48,9 +50,7 @@
           </li>
           <hr />
           <li>
-            <a href="reportar.html"
-              ><i class="material-icons">report_problem</i>Reportar problemas</a
-            >
+            <a href="reportar.html"><i class="material-icons">report_problem</i>Reportar problemas</a>
           </li>
           <hr />
           <li></li>
@@ -60,26 +60,22 @@
           <hr />
           <br /><br /><br /><br /><br /><br /><br />
           <li>
-            <a href="privacidade.html"
-              ><i class="material-icons warning">lock</i></a
-            >
+            <a href="privacidade.html"><i class="material-icons warning">lock</i></a>
           </li>
         </ul>
-        <a href="#" data-target="nav-mobile" class="sidenav-trigger"
-          ><i class="material-icons">menu</i></a
-        >
-        <a href="javascript:location.reload()"
-          ><i class="material-icons recarregar">refresh</i></a
-        >
+        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <a href="javascript:location.reload()"><i class="material-icons recarregar">refresh</i></a>
+        <div class="container">
+          <div class="header"><a><i class="material-icons recarregar" >search</i></a></div>
+          <div class="content">
+            <input id="pac-input-mobile" class="controls" type="text" placeholder="Pesquise no ToiletFY">
+          </div>
       </div>
     </nav>
     <div id="mapa" style="width:100%; height:100%"></div>
     <script src="js/jquery.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
-    ></script>
-    <script src="js/materialize.js"></script>
+    <script type="text/javascript"src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU&libraries=places"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>           
     <script src="js/init.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script src="js/infobox.js"></script>
@@ -92,6 +88,18 @@
           }, 1300);
         });
       });
+
+      $(".header").click(function () {
+
+$header = $(this);
+//getting the next element
+$content = $header.next();
+//open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+$content.slideToggle(500, function () {
+
+});
+
+});
     </script>
   </body>
 </html>
