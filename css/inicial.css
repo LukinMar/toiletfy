@@ -89,6 +89,9 @@ body {
   background: #decdee;
 }
 .pin {
+  position: absolute;
+  display: flex;
+  justify-content: center;
   width: 60px;
   height: 60px;
   border-radius: 50% 50% 50% 0;
@@ -103,7 +106,8 @@ body {
   content: "";
   width: 34px;
   height: 34px;
-  margin: 13px 0 0 13px;
+  top: 20%;
+  margin-top:1.4px;
   background-image: url(../img/pin.png);
   background-size: 34px;
   transform: rotate(45deg);
@@ -128,6 +132,7 @@ body {
   margin: 45px -14px -15px -6px;
   transform: rotateX(55deg);
   z-index: -2;
+
 }
 .pulse:after {
   background-color: #1a1221;
