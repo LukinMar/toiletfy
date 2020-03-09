@@ -58,7 +58,7 @@
     </nav>
   </div>
     <div class="containers">  
-      <form id="contacts" autocorrect="off" autocomplete="off" action="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/formResponse" method="post" target="_self" id="mG61Hd">
+      <form id="contacts" autocorrect="off" name="adicionar" autocomplete="off" action="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/formResponse" method="post" target="_self" id="mG61Hd">
         <h3>Adicionar banheiro</h3>
         <br>
         <fieldset class="fs">
@@ -70,58 +70,30 @@
       <fieldset class="fs"> 
         <input  class="input-field localizacao" id="endereco"  type="text" name="entry.1169249885"  placeholder="Endereço" tabindex="3" required>
         <button type="button" id="showMe" class="waves-effect waves-light btn center-align">
-            <i class="material-icons left">
-                my_location
-            </i>
-            Usar minha localização
-          </button>
+            <i class="material-icons left">my_location</i>Usar minha localização</button>
           <div id="mapa" style="width:10%; height:10%"></div>
       </fieldset>
         <fieldset class="fs" id="legend">
-          <legend>Necessita pagamento para usar? <i class="fas fa-money-bill-alt green"></i></legend>
-          <p></p>
-           <label>
-              <input name="group1" type="radio" id="valor" value="Sim" >
-              <span>Sim</span>
-            </label>
-          </p>
+          <legend>Informações</legend>
           <p>
-            <label>
-              <input name="group1" type="radio" id="valor" value="Não" checked >
-              <span>Não</span>
-            </label>
-          </p>
-        </fieldset>
-        <fieldset class="fs" id="legend">
-          <legend>Banheiro adaptado para PcD?  <i class="fab fa-accessible-icon blue"></i></legend>
-          <p></p>
-           <label>
-              <input name="group2" type="radio" id="pcd" value="Sim">
-              <span>Sim</span>
-            </label>
-          </p>
-          <p>
-            <label>
-              <input name="group2" type="radio" id="pcd" value="Não" checked >
-              <span>Não</span>
-            </label>
-          </p>
-        </fieldset>
-        <fieldset class="fs" id="legend">
-          <legend>Possui fraldário? <i class="fas fa-baby pink"></i></legend>
-          <p></p>
-           <label>
-              <input name="group4" type="radio" id="fraldario" value="Sim">
-              <span>Sim</span>
-            </label>
-          </p>
-          <p>
-            <label>
-              <input name="group4" type="radio" id="fraldario" value="Não" checked >
-              <span>Não</span>
-            </label>
-          </p>
-        </fieldset>
+          <label>
+            <input type="checkbox" class="filled-in checkbox1" name="informacoes" value="Necessita pagamento para usar" id="pagamento" onClick="addToList(this, 'textarea1'); verificar()"> 
+            <span>Necessita pagamento para usar <i class="fas fa-money-bill-alt green"></i></span>
+          </label>
+        </p>
+        <p>
+          <label>
+            <input type="checkbox" class="filled-in checkbox1"  name="informacoes" value="Banheiro adaptado para PcD" id="adaptado" onClick="addToList(this, 'textarea1'); verificar()"> 
+            <span>Banheiro adaptado para PcD  <i class="fab fa-accessible-icon blue"></i></span>
+          </label>
+        </p>
+        <p>
+          <label>
+            <input type="checkbox" class="filled-in checkbox1"  name="informacoes" value="Possui fraldário" id="fraldario" onClick="addToList(this, 'textarea1'); verificar()"> 
+            <span>Possui fraldário <i class="fas fa-baby pink"></i></span>
+          </label>
+        </p>
+
         <fieldset class="fs star" id="legend">
         <legend>Avaliação</legend>
         <div class="rating">
@@ -134,12 +106,10 @@
         </div>
         </fieldset>
         <fieldset class="fs">
-            <input id="valorinput" type="text" name="entry.758726952" value="Não">  
-            <input id="valorinput2" type="text" name="entry.690648933" value="Não" >
+            <textarea class="input-field" class="textarea1" name="entry.1233615498" id="textarea1">Sem informação</textarea>
             <input id="inputavaliacao" type="text" name="entry.812291586" value="Sem avaliação">
             <input id="valorlat" type="text" name="entry.283967867" value="">
             <input id="valorlong" type="text" name="entry.895813622" value="">
-            <input id="valorfraldario" type="text" name="entry.1233615498" value="Não">
           <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
             cloud_upload</i>ENVIAR</button>
         </fieldset>
@@ -158,13 +128,6 @@
     <script src="js/jquery.min.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
 <script>
-$('input[id=valor]').change(function (e) {
-  $('#valorinput').val(e.target.value)
-})
-
-  $('input[id=pcd]').change(function (e) {
-    $('#valorinput2').val(e.target.value)
-  })
 
 $('input[id=star1]').change(function(e) {
   $('#inputavaliacao').val(e.target.value)
@@ -182,9 +145,44 @@ $('input[id=star5]').change(function(e) {
   $('#inputavaliacao').val(e.target.value)
 });
 
-$('input[id=fraldario]').change(function (e) {
-    $('#valorfraldario').val(e.target.value)
-  })
+  var listCheckedOptions= [];
+  
+  function addToList(checkObj, outputObjID)
+                {
+                  if (listCheckedOptions.indexOf(checkObj.value) >= 0) {
+                    listCheckedOptions.splice(listCheckedOptions.indexOf(checkObj.value), 1);
+                  } else { 
+                    listCheckedOptions.push(checkObj.value);                    
+                  }
+
+                  document.getElementById(outputObjID).value = "";
+                  document.getElementById(outputObjID).value = listCheckedOptions.join(';\r\n');
+
+                  return;
+                }
+
+                function verificar() {
+                  var Marcados = 1;
+                  var objCheck = document.forms['adicionar'].elements['informacoes'];
+
+                  for (var iLoop = 0; iLoop<objCheck.length; iLoop++) {
+                          if (Marcados <= 5) {
+                                  if (objCheck[iLoop].checked) {
+                                          Marcados++;
+                                  }
+                                          for (var i=0; i<objCheck.length; i++) {
+                                                  objCheck[i].disabled = false;
+                                          }       
+                          } else {
+                                  for (var i=0; i<objCheck.length; i++) {
+                                          if(objCheck[i].checked == false) {
+                                                  objCheck[i].disabled = true;
+                                          }       
+                                  }
+                          }
+                  }
+                  }
 </script>
-  </body>
+</script>
+</body>
 </html>
