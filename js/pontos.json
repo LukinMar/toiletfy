@@ -2800,5 +2800,35 @@
     "Latitude": -22.848226,
     "Longitude": -47.063193,
     "Descricao": "Shopping Parque Dom Pedro, Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas - SP, 13080-000<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Parque+Dom+Pedro/@-22.8482407,-47.0653812,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c683e592fc29:0x503fbf7eb72ec1c1!8m2!3d-22.8482457!4d-47.0631925 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
-  }
+  },
+  {
+    "Id": 468,
+    "Latitude": -22.804693,
+    "Longitude": -47.269081,
+    "Descricao": "Supermercados Paraná, R. Jatobá, 595 - Jardim das Orquideas, Sumaré - SP, 13174-390<br><br> <a href=https://www.google.com.br/maps/place/Supermercados+Paran%C3%A1/@-22.804708,-47.2712807,17z/data=!3m1!4b1!4m5!3m4!1s0x94c897df3da24c31:0x50b5b584235cc26f!8m2!3d-22.804713!4d-47.269092 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 469,
+    "Latitude": -25.435551,
+    "Longitude": -49.303388,
+    "Descricao": "Hiper Condor Champagnat, Rua Martim Afonso, 2800 - Champagnat, Curitiba - PR, 80730-030<br><br> <a href=https://www.google.com.br/maps/place/Hiper+Condor+Champagnat/@-25.4354465,-49.3049565,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3e9916b6f17:0x119865b35ef70e8b!8m2!3d-25.4354514!4d-49.3027678 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 470,
+    "Latitude": -27.597305,
+    "Longitude": -48.552785,
+    "Descricao": "Mercado Público de Florianópolis, R. Jerônimo Coelho, 60 - Centro, Florianópolis - SC, 88010-030<br><br> <a href=https://www.google.com.br/maps/place/Mercado+P%C3%BAblico+de+Florian%C3%B3polis/@-27.5973071,-48.5549714,17z/data=!3m1!4b1!4m5!3m4!1s0x9527382413d70529:0x5ed250f064e1c9a!8m2!3d-27.5973119!4d-48.5527827 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 471,
+    "Latitude": -27.586336,
+    "Longitude": -48.581761,
+    "Descricao": "Mini Kalzone, R. Profa. Antonieta de Barros, 192 - Canto, Florianópolis - SC, 88070-700<br><br> <a href=https://www.google.com.br/maps/place/Mini+Kalzone/@-27.5863472,-48.5839287,17z/data=!3m1!4b1!4m5!3m4!1s0x952737def301b9bd:0x851b4a1257c60365!8m2!3d-27.586352!4d-48.58174 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id":,
+    "Latitude":-25.434955,
+    "Longitude": -49.304755,
+    "Descricao": "Condomínio Edifício Parc Champagnat, R. Padre Anchieta, 2670 - Mercês, Curitiba - PR, 80730-020, Brasil<br><br> <a href=https://www.google.com.br/maps/place/Condom%C3%ADnio+Edif%C3%ADcio+Parc+Champagnat+-+R.+Padre+Anchieta,+2670+-+Bigorrilho,+Curitiba+-+PR,+80730-020/@-25.4349544,-49.3052199,19.25z/data=!4m5!3m4!1s0x94dce3c279d126e5:0x1786be58d543f971!8m2!3d-25.4349554!4d-49.3047602 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    },
 ]
