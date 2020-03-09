@@ -85,7 +85,7 @@
             </div>
             </fieldset>
             <small>Copiar e colar</small><a href=""onclick="copy()"><i class="material-icons copy">content_copy</i></a><br>
-        <textarea class="input-field" placeholder="" class="textarea1"  id="textarea1"></textarea>
+        <textarea class="input-field" placeholder="" class="TEXTAREA2"  id="TEXTAREA2"></textarea>
         <input id="inputinfo" type="text"  value="">  
         <input id="inputavaliacao" type="text" value="" >
     </form>
@@ -107,7 +107,7 @@ $('input[name=star]').change(function (e) {
 }) 
     $( function() {
     function updateTextarea() {
-      $( '#textarea1' ).val( '{' + '\n' + '"Id":,' + '\n' 
+      $( '#TEXTAREA2' ).val( '{' + '\n' + '"Id":,' + '\n' 
                                  + '"Latitude":' + $( '#latitude' ).val() + ',' + '\n' 
                                  + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
@@ -120,7 +120,7 @@ $('input[name=star]').change(function (e) {
 });
 
 function copy() {
-  var copyText = document.getElementById("textarea1");
+  var copyText = document.getElementById("TEXTAREA2");
   copyText.select();
   copyText.setSelectionRange(0, 99999);
   document.execCommand("copy");
