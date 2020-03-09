@@ -200,11 +200,6 @@ body {
   margin: 0 !important;
   color: rgba(0, 0, 0, 0.54) !important;
 }
-html {
-  line-height: 1.15;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
 body {
   margin: 0;
 }
@@ -215,6 +210,7 @@ hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
+  opacity:0.5;
   overflow: visible;
 }
 a {
@@ -684,12 +680,6 @@ body {
 }
 nav {
   display: block;
-}
-hr {
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
 }
 a {
   background-color: transparent;
@@ -1515,22 +1505,6 @@ html {
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-}
-body {
-  margin: 0;
-}
-nav {
-  display: block;
-}
-hr {
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
-}
-a {
-  background-color: transparent;
-  -webkit-text-decoration-skip: objects;
 }
 img {
   border-style: none;
