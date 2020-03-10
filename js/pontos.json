@@ -81,19 +81,19 @@
     "Id": 14,
     "Latitude": -27.553984,
     "Longitude": -48.497966,
-    "Descricao": "Floripa Shopping, SC-401, 3116 - Saco Grande, Florianópolis - SC, 88032-005 <br><br> <a href='https://www.google.com.br/maps/place/Floripa+Shopping/@-27.554041,-48.5004977,17z/data=!3m1!4b1!4m5!3m4!1s0x952741509d234715:0x40f14d9338d01acc!8m2!3d-27.554041!4d-48.498309' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Floripa Shopping, SC-401, 3116 - Saco Grande, Florianópolis - SC, 88032-005 <br><br> <a href='https://www.google.com.br/maps/place/Floripa+Shopping/@-27.554041,-48.5004977,17z/data=!3m1!4b1!4m5!3m4!1s0x952741509d234715:0x40f14d9338d01acc!8m2!3d-27.554041!4d-48.498309' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>  <img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 15,
     "Latitude": -27.584635,
     "Longitude": -48.545237,
-    "Descricao": "Beiramar Park Shopping, R. Bocaiúva, 2468 - Centro, Florianópolis - SC, 88015-530 <br><br> <a href='https://www.google.com.br/maps/place/Beiramar+Park+Shopping+Beiramar/@-27.5848349,-48.5457106,18z/data=!3m1!4b1!4m5!3m4!1s0x95273816b896e129:0x148f885deb80d3d5!8m2!3d-27.5848349!4d-48.5449368' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Beiramar Park Shopping, R. Bocaiúva, 2468 - Centro, Florianópolis - SC, 88015-530 <br><br> <a href='https://www.google.com.br/maps/place/Beiramar+Park+Shopping+Beiramar/@-27.5848349,-48.5457106,18z/data=!3m1!4b1!4m5!3m4!1s0x95273816b896e129:0x148f885deb80d3d5!8m2!3d-27.5848349!4d-48.5449368' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>  <img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 16,
     "Latitude": -27.58996,
     "Longitude": -48.515235,
-    "Descricao": "Shopping Iguatemi, Av. Me. Benvenuta, 687 - Santa Monica, Florianópolis - SC, 88035-000 <br><br> <a href='https://www.google.com.br/maps/place/Iguatemi/@-27.5900264,-48.5171878,17z/data=!3m1!4b1!4m5!3m4!1s0x952738f9a43df7b3:0x7de9ac6b3cdfced0!8m2!3d-27.5900264!4d-48.5149991' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Shopping Iguatemi, Av. Me. Benvenuta, 687 - Santa Monica, Florianópolis - SC, 88035-000 <br><br> <a href='https://www.google.com.br/maps/place/Iguatemi/@-27.5900264,-48.5171878,17z/data=!3m1!4b1!4m5!3m4!1s0x952738f9a43df7b3:0x7de9ac6b3cdfced0!8m2!3d-27.5900264!4d-48.5149991' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>  <img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 17,
@@ -2836,5 +2836,101 @@
     "Latitude": -18.972694,
     "Longitude": -49.461821,
     "Descricao": "Shopping Pátio Cidade, R. Vinte e Quatro, n 878 - Centro, Ituiutaba - MG, 38300-078<br><br> <a href=https://www.google.com.br/maps/place/P%C3%A1tio+Cidade/@-18.9727983,-49.4625725,18.75z/data=!4m5!3m4!1s0x94a231e41d0a527d:0x70a689f97520c275!8m2!3d-18.9726899!4d-49.4618232 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
-  }
+  },
+  {
+    "Id": 474,
+    "Latitude": -22.955608,
+    "Longitude": -43.375292,
+    "Descricao": "Atacadão, Estr. dos Bandeirantes, 3285 - Jacarepaguá, Rio de Janeiro - RJ, 22775-111<br><br> <a href=https://www.google.com.br/maps/place/Atacad%C3%A3o+-+Jacarepagu%C3%A1/@-22.9554948,-43.3770518,17z/data=!4m5!3m4!1s0x9bd90c61d68495:0x2e29da55d7008950!8m2!3d-22.9555327!4d-43.3749743 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 475,
+    "Latitude": -22.973722,
+    "Longitude": -43.386571,
+    "Descricao": "Posto Ipiranga, Av. Embaixador Abelardo Bueno - Barra da Tijuca, Rio de Janeiro - RJ, 22775-040<br><br> <a href=https://www.google.com.br/maps/place/Posto+Ipiranga/@-22.9730877,-43.3862592,18z/data=!4m5!3m4!1s0x9bdbde0942e25b:0x2746459ad34ba3b4!8m2!3d-22.9737907!4d-43.3865138 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 476,
+    "Latitude": -22.935458,
+    "Longitude": -43.372771,
+    "Descricao": "Mercadão de Jacarepaguá, Estr. dos Bandeirantes, 1430 - Taquara, Rio de Janeiro - RJ, 22710-310<br><br> <a href=https://www.google.com.br/maps/place/Mercad%C3%A3o+de+Jacarepagu%C3%A1/@-22.937834,-43.3726959,17z/data=!4m5!3m4!1s0x9bd906aaf22869:0x7e167c238a010b91!8m2!3d-22.9355049!4d-43.3729868 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 477,
+    "Latitude": -22.928174,
+    "Longitude": -43.373763,
+    "Descricao": "Habib's, Estr. dos Bandeirantes, 570 - Taquara, Rio de Janeiro - RJ, 22710-122<br><br> <a href=https://www.google.com.br/maps/place/Habib's/@-22.9274225,-43.3760885,17z/data=!4m5!3m4!1s0x9bd8fa2d2b7547:0xc9ff63737f0c3136!8m2!3d-22.9282164!4d-43.3738833 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 478,
+    "Latitude": -22.924777,
+    "Longitude": -43.373549,
+    "Descricao": "Dom Atacadista , Estr. dos Bandeirantes, 175 - Taquara, Rio de Janeiro - RJ, 22710-570<br><br> <a href=https://www.google.com.br/maps/place/Dom+Atacadista+Taquara/@-22.9247107,-43.3743751,18z/data=!4m5!3m4!1s0x9bd9d61989d8e1:0x23656f8d79481eaf!8m2!3d-22.9247972!4d-43.373431 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 480,
+    "Latitude": -22.921612,
+    "Longitude": -43.370472,
+    "Descricao": "Bob's, Av. Nelson Cardoso, 1069 - Taquara, Rio de Janeiro - RJ, 22730-001<br><br> <a href=https://www.google.com.br/maps/place/Bob's/@-22.9216182,-43.3705246,19.75z/data=!4m5!3m4!1s0x9bd9edca1adf8f:0x1d3b9f95b1986b32!8m2!3d-22.9216749!4d-43.3704427 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 481,
+    "Latitude": -22.898762,
+    "Longitude": -43.353246,
+    "Descricao": "Supermarket, R. Cândido Benício, 2034 - Praça Seca, Rio de Janeiro - RJ, 21321-803<br><br> <a href=https://www.google.com.br/maps/place/Supermarket+Pra%C3%A7a+Seca/@-22.8984509,-43.3552197,17z/data=!4m13!1m7!3m6!1s0x99629942a749ed:0x18a1a93c49f33db2!2sR.+C%C3%A2ndido+Ben%C3%ADcio,+1980+-+Pra%C3%A7a+Seca,+Rio+de+Janeiro+-+RJ,+21321-803!3b1!8m2!3d-22.8984559!4d-43.353031!3m4!1s0x9962995a15e511:0x83feea803c0c1299!8m2!3d-22.8987772!4d-43.3533362 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 481,
+    "Latitude": -22.969553,
+    "Longitude": -43.184972,
+    "Descricao": "Centro Comercial Copacabana, Av. Nossa Sra. de Copacabana, 581 - Copacabana, Rio de Janeiro - RJ, 22050-002<br><br> <a href=https://www.google.com.br/maps/place/Centro+Comercial+Copacabana/@-22.9695938,-43.1871214,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd550760312c1:0xb0f665756acf106e!8m2!3d-22.9695988!4d-43.1849327 target=_blank> Visualize no Google Maps </a>"
+  },
+  {
+    "Id": 482,
+    "Latitude": -22.731075,
+    "Longitude": -43.449747,
+    "Descricao": "Nelana Restaurante, R. João Venâncio de Figueiredo, 1220 - Dois Irmãos, Nova Iguaçu - RJ, 26020-001<br><br> <a href=https://www.google.com.br/maps/place/Nelana/@-22.7309434,-43.4498214,20.75z/data=!4m5!3m4!1s0x9967f5e6f4f371:0x6930b0e2b5b7cf5c!8m2!3d-22.731092!4d-43.4497442 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 483,
+    "Latitude": -26.892832,
+    "Longitude": -53.170848,
+    "Descricao": "Praça da Bandeira, R. Euclides da Cunha, 2-112, Cunha Porã - SC, 89890-000<br><br> <a href=https://www.google.com.br/maps/place/Pra%C3%A7a+da+Bandeira/@-26.892799,-53.1730363,17z/data=!3m1!4b1!4m5!3m4!1s0x94fb1d8122433ecb:0x626e408a65deba3!8m2!3d-26.8928038!4d-53.1708476 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 484,
+    "Latitude": -22.559589,
+    "Longitude": -47.403227,
+    "Descricao": "Mercado Modelo, R. Sete de Setembro, 390 - Centro, Limeira - SP, 13480-150<br><br> <a href=https://www.google.com.br/maps/place/Mercado+Modelo/@-22.559563,-47.4054567,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8808c5bd3da2f:0xea0c8e0271bacbdb!8m2!3d-22.559568!4d-47.403268 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/moneypcdfrald.png' width='120px' title='Necessita pagamento, possui banheiro adaptado e possui fraldário' alt='Necessita pagamento, possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 485,
+    "Latitude": -23.967238,
+    "Longitude": -46.383563,
+    "Descricao": "Shopping Brisamar, R. Frei Gaspar, 365 - Centro, São Vicente - SP, 11310-060<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Brisamar/@-23.9674126,-46.3859088,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce1c96e253174f:0x58311f2e929d86eb!8m2!3d-23.9674175!4d-46.3837201 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 486,
+    "Latitude": -23.366182,
+    "Longitude": -46.75153,
+    "Descricao": "Melhoramentos, Caieiras - SP, 07700-000, Melhoramentos, Caieiras - SP, 07700-000<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Caieiras/@-23.3625264,-46.75159,15.96z/data=!4m5!3m4!1s0x94cee37b777e034d:0x14a079f3e9286492!8m2!3d-23.3662254!4d-46.7515281 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 487,
+    "Latitude": -22.765812,
+    "Longitude": -43.400217,
+    "Descricao": "Nova Belford, Av. Benjamin Pinto Dias, 1130 - Centro, Belford Roxo - RJ, 26130-000<br><br> <a href=https://www.google.com.br/maps/place/Nova+Belford/@-22.7651457,-43.399656,18.5z/data=!4m5!3m4!1s0x9965d08d2e84b7:0xace7eab3b3c0de8d!8m2!3d-22.765793!4d-43.4001649 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 488,
+    "Latitude": -5.203878,
+    "Longitude": -37.323846,
+    "Descricao": "Biblioteca Orlando Teixeira – UFERSA, Av. Francisco Mota, 572 - Costa e Silva, Mossoró - RN, 59625-900<br><br> <a href=https://www.google.com.br/maps/place/Biblioteca+Orlando+Teixeira+%E2%80%93+UFERSA/@-5.2036418,-37.3262069,17z/data=!4m12!1m6!3m5!1s0x7ba076c53ab52bd:0x4f68d935476eb06e!2sUFERSA!8m2!3d-5.2036578!4d-37.3251447!3m4!1s0x7ba070a29bbae23:0xeda2a449ebddc403!8m2!3d-5.203902!4d-37.3238229 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>"
+  },
+  {
+    "Id":489,
+    "Latitude":-1.748075,
+    "Longitude":-47.050155,
+    "Descricao": "Santuário Chico Pinto, R. Eduardo Gomes, 117-259, Cap. Poço - PA, 68650-000, Brasil<br><br> <a href=https://www.google.com.br/maps/place/Santuario+Chico+Pinto/@-1.7502082,-47.0532208,16z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMcKwNDUnMDIuMyJTIDQ3wrAwMycyMi45Ilc!3b1!8m2!3d-1.7506394!4d-47.0563729!3m4!1s0x92afd9b366c7f0c1:0x44df7191bb48e86a!8m2!3d-1.7481615!4d-47.0497039 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    },
 ]
