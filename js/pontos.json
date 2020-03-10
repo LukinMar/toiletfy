@@ -2932,5 +2932,23 @@
     "Latitude": -1.748075,
     "Longitude": -47.050155,
     "Descricao": "Santuário Chico Pinto, R. Eduardo Gomes, 117-259, Cap. Poço - PA, 68650-000, Brasil<br><br> <a href=https://www.google.com.br/maps/place/Santuario+Chico+Pinto/@-1.7502082,-47.0532208,16z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMcKwNDUnMDIuMyJTIDQ3wrAwMycyMi45Ilc!3b1!8m2!3d-1.7506394!4d-47.0563729!3m4!1s0x92afd9b366c7f0c1:0x44df7191bb48e86a!8m2!3d-1.7481615!4d-47.0497039 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 490,
+    "Latitude": -22.950434,
+    "Longitude": -43.178198,
+    "Descricao": "Policlinica, Av. Pasteur, 2538 - Botafogo, Rio de Janeiro - RJ, 22290-240<br><br> <a href=https://www.google.com.br/maps/place/Policlinica/@-22.9504615,-43.1803853,17z/data=!3m1!4b1!4m5!3m4!1s0x99801dbd0b1bf5:0xec83d8aee0c64649!8m2!3d-22.9504665!4d-43.1781966 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'>"
+  },
+  {
+    "Id": 491,
+    "Latitude": -23.777675,
+    "Longitude": -45.358761,
+    "Descricao": "FUNDACI - Fundação Arte e Cultura de Ilhabela, R. Dr. Carvalho, 80 - Centro, Ilhabela - SP, 11630-000<br><br> <a href=https://www.google.com.br/maps/place/FUNDACI+-+Funda%C3%A7%C3%A3o+Arte+e+Cultura+de+Ilhabela/@-23.7778699,-45.3579887,19z/data=!4m5!3m4!1s0x94d2999e2a5eaaab:0x48fa447f96e07d14!8m2!3d-23.7776915!4d-45.3587586 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'>"
+  },
+  {
+    "Id": 492,
+    "Latitude": -23.422598,
+    "Longitude": -51.906606,
+    "Descricao": "Shopping Cidade Maringá, Av. Tuiuti, 710 - Vila Nova, Maringá - PR, 87043-720<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Cidade+Maring%C3%A1/@-23.4225148,-51.908784,17z/data=!3m1!4b1!4m5!3m4!1s0x94ecd0eddf8378d5:0x1b4a0409dfe5a956!8m2!3d-23.4225197!4d-51.9065953 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   }
 ]
