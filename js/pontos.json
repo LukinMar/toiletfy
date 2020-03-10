@@ -2928,9 +2928,9 @@
     "Descricao": "Biblioteca Orlando Teixeira – UFERSA, Av. Francisco Mota, 572 - Costa e Silva, Mossoró - RN, 59625-900<br><br> <a href=https://www.google.com.br/maps/place/Biblioteca+Orlando+Teixeira+%E2%80%93+UFERSA/@-5.2036418,-37.3262069,17z/data=!4m12!1m6!3m5!1s0x7ba076c53ab52bd:0x4f68d935476eb06e!2sUFERSA!8m2!3d-5.2036578!4d-37.3251447!3m4!1s0x7ba070a29bbae23:0xeda2a449ebddc403!8m2!3d-5.203902!4d-37.3238229 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/moneypcd.png' width='120px' title='Necessita pagamento e possui banheiro adaptado' alt='Necessita pagamento e possui banheiro adaptado'>"
   },
   {
-    "Id":489,
-    "Latitude":-1.748075,
-    "Longitude":-47.050155,
+    "Id": 489,
+    "Latitude": -1.748075,
+    "Longitude": -47.050155,
     "Descricao": "Santuário Chico Pinto, R. Eduardo Gomes, 117-259, Cap. Poço - PA, 68650-000, Brasil<br><br> <a href=https://www.google.com.br/maps/place/Santuario+Chico+Pinto/@-1.7502082,-47.0532208,16z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMcKwNDUnMDIuMyJTIDQ3wrAwMycyMi45Ilc!3b1!8m2!3d-1.7506394!4d-47.0563729!3m4!1s0x92afd9b366c7f0c1:0x44df7191bb48e86a!8m2!3d-1.7481615!4d-47.0497039 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
-    },
+  }
 ]
