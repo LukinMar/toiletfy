@@ -2980,5 +2980,17 @@
     "Latitude": -20.502486,
     "Longitude": -54.613483,
     "Descricao": "FACOM - Faculdade de Computação - UFMS, R. Ufms - Vila Olinda, Campo Grande - MS<br><br> <a href=https://www.google.com.br/maps/place/FACOM+-+Faculdade+de+Computa%C3%A7%C3%A3o+-+UFMS/@-20.5030465,-54.6129362,18z/data=!4m5!3m4!1s0x9486e5f501501899:0xa3a12020e73b352b!8m2!3d-20.5025213!4d-54.6134555 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 498,
+    "Latitude": -22.462019,
+    "Longitude": -44.4025529,
+    "Descricao": "Banheiro das Casinhas, Av. Sao Joao Del Rey, 270 - Fazenda da Barra 2, Resende - RJ, 27540-200, Brasil<br><br> <a href=https://www.google.com.br/maps/place/22%C2%B027'43.3%22S+44%C2%B024'09.2%22W/@-22.4617684,-44.4035042,18.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-22.462019!4d-44.4025529 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>"
+  },
+  {
+    "Id": 499,
+    "Latitude": -29.295578,
+    "Longitude": -51.500791,
+    "Descricao": "Supermercado Santa Clara, R. Júlio de Castilhos, 01 - Centro, Carlos Barbosa - RS, 95185-000<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Santa+Clara/@-29.2953636,-51.5009548,19z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMjnCsDE3JzQyLjMiUyA1McKwMzAnMDAuOCJX!3b1!8m2!3d-29.2950772!4d-51.5002093!3m4!1s0x951c19eeb91340b1:0x66bf5bb2582ca8c1!8m2!3d-29.2955502!4d-51.5007949 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   }
 ]
