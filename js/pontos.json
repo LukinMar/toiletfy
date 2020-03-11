@@ -2992,5 +2992,17 @@
     "Latitude": -29.295578,
     "Longitude": -51.500791,
     "Descricao": "Supermercado Santa Clara, R. Júlio de Castilhos, 01 - Centro, Carlos Barbosa - RS, 95185-000<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+Santa+Clara/@-29.2953636,-51.5009548,19z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMjnCsDE3JzQyLjMiUyA1McKwMzAnMDAuOCJX!3b1!8m2!3d-29.2950772!4d-51.5002093!3m4!1s0x951c19eeb91340b1:0x66bf5bb2582ca8c1!8m2!3d-29.2955502!4d-51.5007949 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 500,
+    "Latitude": -14.058282,
+    "Longitude": -52.160198,
+    "Descricao": "Fina Estampa Modas, Avenida Júlio José Campos, 406 - Centro, Água Boa - MT, 78635-000<br><br> <a href=https://www.google.com.br/maps/place/Fina+Estampa+Modas/@-14.0582123,-52.1602924,20.5z/data=!4m5!3m4!1s0x936db724d30f534b:0x6e3731bd43d26621!8m2!3d-14.0582766!4d-52.1601992 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 501,
+    "Latitude": -23.024679,
+    "Longitude": -45.577455,
+    "Descricao": "Carrefour Hipermercado, Av. Charles Schnneider, 1201 - Barranco, Taubaté - SP, 12040-000<br><br> <a href=https://www.google.com.br/maps/place/Carrefour+Hipermercado+Taubat%C3%A9/@-23.0247406,-45.5796063,17z/data=!3m1!4b1!4m5!3m4!1s0x94ccf86754595aed:0x2ab326525dab5af6!8m2!3d-23.0247456!4d-45.5774176 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   }
 ]
