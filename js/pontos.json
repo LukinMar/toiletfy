@@ -2956,5 +2956,29 @@
     "Latitude": -26.253411,
     "Longitude": -48.852845,
     "Descricao": "Garten Shopping, Av. Rolf Wiest, 333 - Bom Retiro, Joinville - SC, 89223-005<br><br> <a href=https://www.google.com.br/maps/place/Garten+Shopping/@-26.2534535,-48.85528,17z/data=!3m1!4b1!4m5!3m4!1s0x94deafa4c5bcc777:0x38e98c600be478f4!8m2!3d-26.2534583!4d-48.8530913 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 494,
+    "Latitude": -24.788379,
+    "Longitude": -49.992486,
+    "Descricao": "Supermercado São José, R. Francisco de Assis Andrade, 782 - Vila Rio Branco, Castro - PR, 84172-400<br><br> <a href=https://www.google.com.br/maps/place/Supermercado+S%C3%A3o+Jos%C3%A9/@-24.788537,-49.9946721,17z/data=!4m5!3m4!1s0x94c29d36c9eab4c3:0x3de797b1bcfa15cf!8m2!3d-24.7884385!4d-49.9925023 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 495,
+    "Latitude": -20.310818,
+    "Longitude": -40.300781,
+    "Descricao": "SEDU - Secretaria de Estado da Educação, Av. Cezar Hilal, 1111 - Santa Lucia, Vitória - ES, 29056-085<br><br> <a href=https://www.google.com.br/maps/place/SEDU+-+Secretaria+de+Estado+da+Educa%C3%A7%C3%A3o/@-20.3106725,-40.3017247,18.75z/data=!4m5!3m4!1s0xb817d0795b05f5:0xff19d4e876403652!8m2!3d-20.3108213!4d-40.3007785 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 496,
+    "Latitude": -20.503155,
+    "Longitude": -54.613414,
+    "Descricao": "Complexo Multiuso - UFMS, R. Ufms, 715 - Vila Olinda, Campo Grande - MS, 79070-900<br><br> <a href=https://www.google.com.br/maps/place/Complexo+Multiuso+-+UFMS/@-20.5030465,-54.6129362,18z/data=!4m8!1m2!2m1!1sBloco+Multiuso+r+807+-+R.+Ufms,+287+-+Vila+Olinda,+Campo+Grande+-+MS,+79070,+Brasil!3m4!1s0x0:0x5464e8e9362a84a1!8m2!3d-20.5031198!4d-54.6133942 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 497,
+    "Latitude": -20.502486,
+    "Longitude": -54.613483,
+    "Descricao": "FACOM - Faculdade de Computação - UFMS, R. Ufms - Vila Olinda, Campo Grande - MS<br><br> <a href=https://www.google.com.br/maps/place/FACOM+-+Faculdade+de+Computa%C3%A7%C3%A3o+-+UFMS/@-20.5030465,-54.6129362,18z/data=!4m5!3m4!1s0x9486e5f501501899:0xa3a12020e73b352b!8m2!3d-20.5025213!4d-54.6134555 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   }
 ]
