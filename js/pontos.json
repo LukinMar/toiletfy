@@ -3022,5 +3022,23 @@
     "Latitude": -20.342006,
     "Longitude": -40.288886,
     "Descricao": "Shopping Praia da Costa, Av. Dr. Olivio Lira, 353 - Praia da Costa, Vila Velha - ES, 29101-950<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Praia+da+Costa/@-20.3419773,-40.2910499,17z/data=!3m1!4b1!4m5!3m4!1s0xb8164f15555555:0x4bd5a90f62e52909!8m2!3d-20.3419823!4d-40.2888612 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 505,
+    "Latitude": -5.189207,
+    "Longitude": -37.343151,
+    "Descricao": "Estação Shopping, 2211, Av. Alberto Maranhão, 2189, Mossoró - RN<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Shopping/@-5.1891972,-37.3453592,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06e142adf94b:0x14c6bb4c06ada52a!8m2!3d-5.1892025!4d-37.3431705 target=_blank> Visualize no Google Maps </a>"
+  },
+  {
+    "Id": 506,
+    "Latitude": -24.950861,
+    "Longitude": -53.477009,
+    "Descricao": "Cascavel JL Shopping, Av. Toledo, 432 - Centro, Cascavel - PR, 85810-230<br><br> <a href=https://www.google.com.br/maps/place/Cascavel+JL+Shopping/@-24.9506678,-53.4778033,18z/data=!4m5!3m4!1s0x94f3d6aa81b410bb:0xb8108885b00348ee!8m2!3d-24.9508628!4d-53.477131 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 507,
+    "Latitude": -5.171895,
+    "Longitude": -37.376358,
+    "Descricao": "Partage Shopping Mossoró, Partage Shopping, Av. João da Escóssia, 1515 - Nova Betânia, Mossoró - RN, 59607-330<br><br> <a href=https://www.google.com.br/maps/place/Partage+Shopping+Mossor%C3%B3/@-5.1718686,-37.3786543,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06b8e9b5b56d:0xf4c6bae42ae65be!8m2!3d-5.1718739!4d-37.3764656 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
   }
 ]
