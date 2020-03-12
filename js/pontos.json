@@ -3004,5 +3004,23 @@
     "Latitude": -23.024679,
     "Longitude": -45.577455,
     "Descricao": "Carrefour Hipermercado, Av. Charles Schnneider, 1201 - Barranco, Taubaté - SP, 12040-000<br><br> <a href=https://www.google.com.br/maps/place/Carrefour+Hipermercado+Taubat%C3%A9/@-23.0247406,-45.5796063,17z/data=!3m1!4b1!4m5!3m4!1s0x94ccf86754595aed:0x2ab326525dab5af6!8m2!3d-23.0247456!4d-45.5774176 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 502,
+    "Latitude": -21.362419,
+    "Longitude": -48.232453,
+    "Descricao": "Centro Social Comunitário Cristo Rei, R. João Ângelis Jr, 84 - Vila Mangolini, Guariba - SP, 14840-000<br><br> <a href=https://www.google.com.br/maps/place/Centro+Social+Comunit%C3%A1rio+Cristo+Rei/@-21.3625711,-48.2328008,19.25z/data=!4m5!3m4!1s0x94b90e241f1a558b:0x19fe4e2f9bd0eced!8m2!3d-21.3624379!4d-48.2324035 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 503,
+    "Latitude": -25.506375,
+    "Longitude": -49.315519,
+    "Descricao": "Banheiro , R. Oribes Correa, 200 - Cidade Industrial De Curitiba, Curitiba - PR, 81450-181, Brasil<br><br> <a href=https://www.google.com.br/maps/place/25%C2%B030'23.8%22S+49%C2%B018'57.0%22W/@-25.5065564,-49.3166241,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-25.5066112!4d-49.31584 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 504,
+    "Latitude": -20.342006,
+    "Longitude": -40.288886,
+    "Descricao": "Shopping Praia da Costa, Av. Dr. Olivio Lira, 353 - Praia da Costa, Vila Velha - ES, 29101-950<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Praia+da+Costa/@-20.3419773,-40.2910499,17z/data=!3m1!4b1!4m5!3m4!1s0xb8164f15555555:0x4bd5a90f62e52909!8m2!3d-20.3419823!4d-40.2888612 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   }
 ]
