@@ -3040,5 +3040,11 @@
     "Latitude": -5.171895,
     "Longitude": -37.376358,
     "Descricao": "Partage Shopping Mossoró, Partage Shopping, Av. João da Escóssia, 1515 - Nova Betânia, Mossoró - RN, 59607-330<br><br> <a href=https://www.google.com.br/maps/place/Partage+Shopping+Mossor%C3%B3/@-5.1718686,-37.3786543,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06b8e9b5b56d:0xf4c6bae42ae65be!8m2!3d-5.1718739!4d-37.3764656 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
-  }
+  },
+  {
+    "Id":508,
+    "Latitude":38.767854,
+    "Longitude": -9.099344,
+    "Descricao": "Estação do Oriente, Av. Dom João II, 1900-233 Lisboa, Portugal<br><br> <a href=https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+do+Oriente/@38.7678423,-9.0993449,15z/data=!4m5!3m4!1s0x0:0xbe2b7b794170743e!8m2!3d38.7678423!4d-9.0993449 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    }
 ]
