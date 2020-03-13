@@ -3042,9 +3042,33 @@
     "Descricao": "Partage Shopping Mossoró, Partage Shopping, Av. João da Escóssia, 1515 - Nova Betânia, Mossoró - RN, 59607-330<br><br> <a href=https://www.google.com.br/maps/place/Partage+Shopping+Mossor%C3%B3/@-5.1718686,-37.3786543,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06b8e9b5b56d:0xf4c6bae42ae65be!8m2!3d-5.1718739!4d-37.3764656 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
   },
   {
-    "Id":508,
-    "Latitude":38.767854,
+    "Id": 508,
+    "Latitude": 38.767854,
     "Longitude": -9.099344,
     "Descricao": "Estação do Oriente, Av. Dom João II, 1900-233 Lisboa, Portugal<br><br> <a href=https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+do+Oriente/@38.7678423,-9.0993449,15z/data=!4m5!3m4!1s0x0:0xbe2b7b794170743e!8m2!3d38.7678423!4d-9.0993449 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
-    }
+  },
+  {
+    "Id": 509,
+    "Latitude": -19.844388,
+    "Longitude": -43.928247,
+    "Descricao": "Bar do Inaldo, Av. Waldomiro Lobo, 1010 - Guarani, Belo Horizonte - MG, 31814-620<br><br> <a href=https://www.google.com.br/maps/place/Av.+Waldomiro+Lobo,+1010+-+Heli%C3%B3polis,+Belo+Horizonte+-+MG,+31741-440/@-19.8443149,-43.9282885,21z/data=!4m5!3m4!1s0xa69ab6bff28047:0xf8a79baace35ef49!8m2!3d-19.8443857!4d-43.9282441 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/1estrelas.png'  width='170px' title='1 estrela'  alt='1 estrela'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 510,
+    "Latitude": -19.920724,
+    "Longitude": -43.920183,
+    "Descricao": "Boulevard Shopping, Av. dos Andradas, 3000 - Santa Efigênia, Belo Horizonte - MG, 30260-070<br><br> <a href=https://www.google.com.br/maps/place/Boulevard+Shopping/@-19.920573,-43.92046,19.5z/data=!3m1!5s0xa6998bf8f50887:0xad0170a7b50ebf8b!4m5!3m4!1s0xa69983f4a0d60f:0x9d2ceaa9db57f6ea!8m2!3d-19.9206719!4d-43.9201487 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 511,
+    "Latitude": -22.839425,
+    "Longitude": -43.310753,
+    "Descricao": "McDonald's, Tv. da Brandura, 506 - Vila da Penha, Rio de Janeiro - RJ, 21250-010<br><br> <a href=https://www.google.com.br/maps/place/McDonald's/@-22.8393893,-43.3129915,17z/data=!3m1!4b1!4m5!3m4!1s0x997b5e31990005:0xb9da2b6776238829!8m2!3d-22.8393943!4d-43.3108028 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 512,
+    "Latitude": -22.993126,
+    "Longitude": -43.370547,
+    "Descricao": "Hospital Vitória, Av. Jorge Curi, 550 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-001<br><br> <a href=https://www.google.com.br/maps/place/Hospital+Vit%C3%B3ria+Unidade+Barra+Da+Tijuca/@-22.9927055,-43.3710354,19z/data=!4m5!3m4!1s0x9bdbca640d6775:0xfabbb0e3c12f390!8m2!3d-22.9930826!4d-43.3705285 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  }
 ]
