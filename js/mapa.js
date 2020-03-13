@@ -41,10 +41,11 @@ function addYourLocationButton(a, r) {
             $("#you_location_img").css("background-position", e + "px 0px");
         }, 500);
       navigator.geolocation
-        ? navigator.geolocation.getCurrentPosition(function(e) {
+        ? navigator.geolocation.watchPosition(function(position) {
+          console.log(position)
             var o = new google.maps.LatLng(
-              e.coords.latitude,
-              e.coords.longitude
+              position.coords.latitude,
+              position.coords.longitude
             );
             r.setPosition(o),
               a.setCenter(o),
@@ -60,21 +61,23 @@ function addYourLocationButton(a, r) {
 }
 function initialize() {
   navigator.geolocation &&
-    navigator.geolocation.getCurrentPosition(
-      function(e) {
-        (me = new google.maps.LatLng(e.coords.latitude, e.coords.longitude)),
+    navigator.geolocation.watchPosition(
+      function(position) {
+        (me = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)),
+        console.log(position),
           marker.setPosition(me),
           map.setCenter(me),
           map.setZoom(17);
       },
-      function(e) {}
     );
   var e = {
-    enableHighAccuracy: !0,
+    enableHighAccuracy: true,
+    timeout: 30000,
+    maximumAge:30000,
     center: new google.maps.LatLng(-22.9334923, -43.4167982),
     zoom: 10,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
-    disableDefaultUI: !1,
+    disableDefaultUI: false,
     gestureHandling: "greedy",
     styles: [
       { elementType: "geometry", stylers: [{ color: "#212121" }] },
@@ -198,7 +201,7 @@ function initialize() {
     (marker = new google.maps.Marker({
       animation: google.maps.Animation.DROP,
       map: map,
-      icon: "img/marker.png"
+      icon: "img/marker2.png"
     })).addListener("click", toggleBounce),
     addYourLocationButton(map, marker);
 }
