@@ -97,8 +97,8 @@ function initialize() {
     enableHighAccuracy: true,
     maximumAge: 1000,
     timeout: 5000,
-    center: new google.maps.LatLng(-22.9334923, -43.4167982),
-    zoom: 10,
+    center: new google.maps.LatLng(-14.8124484,-57.8447042),
+    zoom:4,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: false,
     rotateControl: true,
@@ -245,9 +245,9 @@ function initialize() {
 }
 
 function toggleBounce() {
-  null !== marker.getAnimation()
-    ? marker.setAnimation(null)
-    : marker.setAnimation(google.maps.Animation.BOUNCE);
+  null !== marker2.getAnimation()
+    ? marker2.setAnimation(null)
+    : marker2.setAnimation(google.maps.Animation.BOUNCE);
 }
 function abrirInfoBox(e, o) {
   "number" == typeof idInfoBoxAberto &&
