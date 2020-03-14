@@ -47,13 +47,13 @@ function addYourLocationButton(a, r) {
               position.coords.latitude,
               position.coords.longitude
             );
-            navigator.geolocation.clearWatch(watcher);
+            console.log(position)
             r.setPosition(o),
               a.setCenter(o),
               a.setZoom(17),
               clearInterval(t),
               $("#you_location_img").css("background-position", "-144px 0px");
-              navigator.geolocation.clearWatch(watcher);
+              
           })
         : (clearInterval(t),
           $("#you_location_img").css("background-position", "0px 0px"));
@@ -67,13 +67,15 @@ function initialize() {
         position.coords.latitude,
         position.coords.longitude
       )),
+      console.log(position),
         marker.setPosition(me),
         map.setCenter(me),
         map.setZoom(17);
-        navigator.geolocation.clearWatch(watcher);
     });
   var e = {
     enableHighAccuracy: true,
+    maximumAge: 30000,
+    timeout:30000,
     center: new google.maps.LatLng(-22.9334923, -43.4167982),
     zoom: 10,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -200,6 +202,7 @@ function initialize() {
           console.log(place.geometry.location);
           bounds.extend(place.geometry.location);
           marker2.setPosition(place.geometry.location);
+          navigator.geolocation.clearWatch(watcher);
         }
         map.fitBounds(bounds);
         map.setZoom(17);
