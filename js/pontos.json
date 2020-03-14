@@ -3112,5 +3112,17 @@
     "Latitude": -23.541708,
     "Longitude": -46.576669,
     "Descricao": "Shopping Metrô Tatuapé, Rua Domingos Agostim, 91 - Cidade Mãe do Céu, São Paulo - SP, 03306-010<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Metr%C3%B4+Tatuap%C3%A9/@-23.5417073,-46.5788592,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5ec220e5e68b:0x795101cf0926d612!8m2!3d-23.5417122!4d-46.5766705 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
+  },
+  {
+    "Id": 520,
+    "Latitude": -29.685755,
+    "Longitude": -51.134181,
+    "Descricao": "Bourbon Shopping Novo Hamburgo, Av. Nações Unidas, 2001 - Rio Branco, Novo Hamburgo - RS, 93320-021<br><br> <a href=https://www.google.com.br/maps/place/Bourbon+Shopping+Novo+Hamburgo/@-29.6857226,-51.1363755,17z/data=!3m1!4b1!4m5!3m4!1s0x951943531973e3fd:0x874c38c10b9acffb!8m2!3d-29.6857273!4d-51.1341868 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 521,
+    "Latitude": -29.693758,
+    "Longitude": -51.131576,
+    "Descricao": "Bourbon Hipermercado Novo Hamburgo, R. Primeiro de Março, 1111 - Pátria Nova, Novo Hamburgo - RS, 93320-010<br><br> <a href=https://www.google.com.br/maps/place/Bourbon+Hipermercado+Novo+Hamburgo/@-29.6937158,-51.1337321,17z/data=!3m1!4b1!4m5!3m4!1s0x951942532306a95b:0x96841c38f9eea1d5!8m2!3d-29.6937205!4d-51.1315434 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   }
 ]
