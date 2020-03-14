@@ -72,7 +72,6 @@ function initialize() {
     );
   var e = {
     enableHighAccuracy: true,
-    timeout: Infinity,
     maximumAge:0,
     center: new google.maps.LatLng(-22.9334923, -43.4167982),
     zoom: 10,
