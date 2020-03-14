@@ -10,7 +10,7 @@ watcher = null;
 
 var marcador = {
   url: "img/marker.png",
-  scaledSize: new google.maps.Size(50, 50)
+  scaledSize: new google.maps.Size(38, 38)
 };
 
 var marcadorPesquisa = {
@@ -90,12 +90,12 @@ function initialize() {
       )),
         marker.setPosition(me),
         map.setCenter(me),
-        map.setZoom(17);
+        map.setZoom(15.8);
     });
   }
   var e = {
     enableHighAccuracy: true,
-    maximumAge: 10000,
+    maximumAge: 1000,
     timeout: 5000,
     center: new google.maps.LatLng(-22.9334923, -43.4167982),
     zoom: 10,
