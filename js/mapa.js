@@ -43,7 +43,7 @@ function addYourLocationButton(a, r) {
         }, 500);
       navigator.geolocation
         ? navigator.geolocation.watchPosition(function(position) {
-          console.log(position)
+            console.log(position);
             var o = new google.maps.LatLng(
               position.coords.latitude,
               position.coords.longitude
@@ -62,18 +62,18 @@ function addYourLocationButton(a, r) {
 }
 function initialize() {
   navigator.geolocation &&
-    navigator.geolocation.watchPosition(
-      function(position) {
-        (me = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)),
+    navigator.geolocation.watchPosition(function(position) {
+      (me = new google.maps.LatLng(
+        position.coords.latitude,
+        position.coords.longitude
+      )),
         console.log(position),
-          marker.setPosition(me),
-          map.setCenter(me),
-          map.setZoom(17);
-      },
-    );
+        marker.setPosition(me),
+        map.setCenter(me),
+        map.setZoom(17);
+    });
   var e = {
     enableHighAccuracy: true,
-    maximumAge:0,
     center: new google.maps.LatLng(-22.9334923, -43.4167982),
     zoom: 10,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -169,40 +169,48 @@ function initialize() {
     ]
   };
   (map = new google.maps.Map(document.getElementById("mapa"), e)),
-  (searchBox = new google.maps.places.SearchBox(document.getElementById('pac-input'))),
-  (searchBoxMobile = new google.maps.places.SearchBox(document.getElementById('pac-input-mobile'))),
-  (google.maps.event.addListener(searchBox, 'places_changed', function(){
-    var places = searchBox.getPlaces();
-    var bounds = new google.maps.LatLngBounds();
-    var i, place;
+    (searchBox = new google.maps.places.SearchBox(
+      document.getElementById("pac-input")
+    )),
+    (searchBoxMobile = new google.maps.places.SearchBox(
+      document.getElementById("pac-input-mobile")
+    )),
+    google.maps.event.addListener(searchBox, "places_changed", function() {
+      var places = searchBox.getPlaces();
+      var bounds = new google.maps.LatLngBounds();
+      var i, place;
 
-    for (i=0; place=places[i]; i++){
+      for (i = 0; (place = places[i]); i++) {
         console.log(place.geometry.location);
         bounds.extend(place.geometry.location);
         marker2.setPosition(place.geometry.location);
-    }
-    map.fitBounds(bounds);
-    map.setZoom(17);
-  })),
-  (google.maps.event.addListener(searchBoxMobile, 'places_changed', function(){
-    var places = searchBoxMobile.getPlaces();
-    var bounds = new google.maps.LatLngBounds();
-    var i, place;
+      }
+      map.fitBounds(bounds);
+      map.setZoom(17);
+    }),
+    google.maps.event.addListener(
+      searchBoxMobile,
+      "places_changed",
+      function() {
+        var places = searchBoxMobile.getPlaces();
+        var bounds = new google.maps.LatLngBounds();
+        var i, place;
 
-    for (i=0; place=places[i]; i++){
-        console.log(place.geometry.location);
-        bounds.extend(place.geometry.location);
-        marker2.setPosition(place.geometry.location);
-    }
-    map.fitBounds(bounds);
-    map.setZoom(17);
-  })),
+        for (i = 0; (place = places[i]); i++) {
+          console.log(place.geometry.location);
+          bounds.extend(place.geometry.location);
+          marker2.setPosition(place.geometry.location);
+        }
+        map.fitBounds(bounds);
+        map.setZoom(17);
+      }
+    ),
     (geocoder = new google.maps.Geocoder()),
-    (marker = new google.maps.Marker({
+    marker = new google.maps.Marker({
       animation: google.maps.Animation.DROP,
       map: map,
       icon: "img/marker2.png"
-    })).addListener("click", toggleBounce),
+    }),
     (marker2 = new google.maps.Marker({
       animation: google.maps.Animation.DROP,
       map: map,
