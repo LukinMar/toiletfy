@@ -6,6 +6,7 @@ var map,
   me,
   infoBox = [],
   markers = [];
+  watcher = null;
   function addYourLocationButton(map, marker) 
   {
       var controlDiv = document.createElement('div'); 
@@ -36,6 +37,7 @@ var map,
   
       google.maps.event.addListener(map, 'dragend', function() {
           $('#you_location_img').css('background-position', '0px 0px');
+          navigator.geolocation.clearWatch(watcher);
       });
   
       firstChild.addEventListener('click', function() {
@@ -48,6 +50,7 @@ var map,
           if(navigator.geolocation) {
                 watcher = navigator.geolocation.watchPosition(function(position) {
                   var latlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                  console.log(position)
                   marker.setPosition(latlng);
                   map.setCenter(latlng);
                   clearInterval(animationInterval);
@@ -65,16 +68,17 @@ var map,
   }
   
 function initialize() {
-      watcher = navigator.geolocation.watchPosition(function(position) {
+  if(navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(function(position) {
       (me = new google.maps.LatLng(
         position.coords.latitude,
         position.coords.longitude
       )),
-      console.log(position),
         marker.setPosition(me),
         map.setCenter(me),
         map.setZoom(17);
     });
+  };
   var e = {
     enableHighAccuracy: true,
     maximumAge:10000, 
