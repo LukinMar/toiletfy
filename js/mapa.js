@@ -43,7 +43,6 @@ function addYourLocationButton(a, r) {
         }, 500);
       navigator.geolocation
         ? navigator.geolocation.watchPosition(function(position) {
-            console.log(position);
             var o = new google.maps.LatLng(
               position.coords.latitude,
               position.coords.longitude
@@ -67,7 +66,6 @@ function initialize() {
         position.coords.latitude,
         position.coords.longitude
       )),
-        console.log(position),
         marker.setPosition(me),
         map.setCenter(me),
         map.setZoom(17);
