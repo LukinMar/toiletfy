@@ -42,16 +42,18 @@ function addYourLocationButton(a, r) {
             $("#you_location_img").css("background-position", e + "px 0px");
         }, 500);
       navigator.geolocation
-        ? navigator.geolocation.watchPosition(function(position) {
+        ? watcher = navigator.geolocation.watchPosition(function(position) {
             var o = new google.maps.LatLng(
               position.coords.latitude,
               position.coords.longitude
             );
+            navigator.geolocation.clearWatch(id);
             r.setPosition(o),
               a.setCenter(o),
               a.setZoom(17),
               clearInterval(t),
               $("#you_location_img").css("background-position", "-144px 0px");
+              navigator.geolocation.clearWatch(watcher);
           })
         : (clearInterval(t),
           $("#you_location_img").css("background-position", "0px 0px"));
@@ -60,8 +62,7 @@ function addYourLocationButton(a, r) {
     a.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(e);
 }
 function initialize() {
-  navigator.geolocation &&
-    navigator.geolocation.watchPosition(function(position) {
+      watcher = navigator.geolocation.watchPosition(function(position) {
       (me = new google.maps.LatLng(
         position.coords.latitude,
         position.coords.longitude
@@ -69,6 +70,7 @@ function initialize() {
         marker.setPosition(me),
         map.setCenter(me),
         map.setZoom(17);
+        navigator.geolocation.clearWatch(watcher);
     });
   var e = {
     enableHighAccuracy: true,
