@@ -219,11 +219,11 @@ function initialize() {
     ),
     (geocoder = new google.maps.Geocoder()),
     marker = new google.maps.Marker({
-      animation: google.maps.Animation.DROP,
       map: map,
       icon: "img/marker2.png"
     }),
     (marker2 = new google.maps.Marker({
+      animation: google.maps.Animation.DROP,
       map: map,
       icon: "img/marker.png"
     })).addListener("click", toggleBounce),
