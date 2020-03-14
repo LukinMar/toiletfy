@@ -89,7 +89,6 @@ function initialize() {
         position.coords.longitude
       )),
         marker.setPosition(me),
-        map.setCenter(me),
         map.setZoom(17);
     });
   }
