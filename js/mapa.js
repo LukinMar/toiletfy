@@ -1,6 +1,7 @@
 var map,
   idInfoBoxAberto,
   marker,
+  marker2,
   geocoder,
   me,
   infoBox = [],
@@ -178,7 +179,7 @@ function initialize() {
     for (i=0; place=places[i]; i++){
         console.log(place.geometry.location);
         bounds.extend(place.geometry.location);
-        marker.setPosition(place.geometry.location);
+        marker2.setPosition(place.geometry.location);
     }
     map.fitBounds(bounds);
     map.setZoom(17);
@@ -191,7 +192,7 @@ function initialize() {
     for (i=0; place=places[i]; i++){
         console.log(place.geometry.location);
         bounds.extend(place.geometry.location);
-        marker.setPosition(place.geometry.location);
+        marker2.setPosition(place.geometry.location);
     }
     map.fitBounds(bounds);
     map.setZoom(17);
@@ -202,7 +203,12 @@ function initialize() {
       map: map,
       icon: "img/marker2.png"
     })).addListener("click", toggleBounce),
-    addYourLocationButton(map, marker);
+    (marker2 = new google.maps.Marker({
+      animation: google.maps.Animation.DROP,
+      map: map,
+      icon: "img/marker.png"
+    })).addListener("click", toggleBounce),
+    addYourLocationButton(map, marker, marker2);
 }
 
 function toggleBounce() {
