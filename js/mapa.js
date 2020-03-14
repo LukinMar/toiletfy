@@ -83,12 +83,13 @@ function addYourLocationButton(map, marker) {
 
 function initialize() {
   if (navigator.geolocation) {
-    watcher =  navigator.geolocation.watchPosition(function(position) {
+    navigator.geolocation.getCurrentPosition(function(position) {
       (me = new google.maps.LatLng(
         position.coords.latitude,
         position.coords.longitude
       )),
         marker.setPosition(me),
+        map.setCenter(me),
         map.setZoom(17);
     });
   }
