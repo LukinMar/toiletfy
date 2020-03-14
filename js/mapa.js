@@ -6,11 +6,11 @@ var map,
   me,
   infoBox = [],
   markers = [];
-  watcher = null;
+watcher = null;
 
-  var marcador = {
-    url: "img/marker.png", 
-    scaledSize: new google.maps.Size(50, 50)
+var marcador = {
+  url: "img/marker.png",
+  scaledSize: new google.maps.Size(50, 50)
 };
 
 var marcadorPesquisa = {
@@ -18,70 +18,72 @@ var marcadorPesquisa = {
   scaledSize: new google.maps.Size(33, 42)
 };
 
+function addYourLocationButton(map, marker) {
+  var controlDiv = document.createElement("div");
+  var firstChild = document.createElement("button");
+  firstChild.style.backgroundColor = "#fff";
+  firstChild.style.border = "none";
+  firstChild.style.outline = "none";
+  firstChild.style.width = "40px";
+  firstChild.style.height = "40px";
+  firstChild.style.borderRadius = "2px";
+  firstChild.style.boxShadow = "0 1px 4px rgba(0,0,0,0.3)";
+  firstChild.style.cursor = "pointer";
+  firstChild.style.marginRight = "10px";
+  firstChild.style.padding = "0px";
+  firstChild.title = "Sua Localização";
+  controlDiv.appendChild(firstChild);
 
-  function addYourLocationButton(map, marker) 
-  {
-      var controlDiv = document.createElement('div'); 
-      var firstChild = document.createElement('button');
-      firstChild.style.backgroundColor = '#fff';
-      firstChild.style.border = 'none';
-      firstChild.style.outline = 'none';
-      firstChild.style.width = '40px';
-      firstChild.style.height = '40px';
-      firstChild.style.borderRadius = '2px';
-      firstChild.style.boxShadow = '0 1px 4px rgba(0,0,0,0.3)';
-      firstChild.style.cursor = 'pointer';
-      firstChild.style.marginRight = '10px';
-      firstChild.style.padding = '0px';
-      firstChild.title = 'Sua Localização';
-      controlDiv.appendChild(firstChild);
-  
-      var secondChild = document.createElement('div');
-      secondChild.style.margin = '0 auto';
-      secondChild.style.width = '18px';
-      secondChild.style.height = '18px';
-      secondChild.style.backgroundImage = 'url(https://maps.gstatic.com/tactile/mylocation/mylocation-sprite-1x.png)';
-      secondChild.style.backgroundSize = '180px 18px';
-      secondChild.style.backgroundPosition = '0px 0px';
-      secondChild.style.backgroundRepeat = 'no-repeat';
-      secondChild.id = 'you_location_img';
-      firstChild.appendChild(secondChild);
-  
-      google.maps.event.addListener(map, 'dragend', function() {
-          $('#you_location_img').css('background-position', '0px 0px');
-          navigator.geolocation.clearWatch(watcher);
+  var secondChild = document.createElement("div");
+  secondChild.style.margin = "0 auto";
+  secondChild.style.width = "18px";
+  secondChild.style.height = "18px";
+  secondChild.style.backgroundImage =
+    "url(https://maps.gstatic.com/tactile/mylocation/mylocation-sprite-1x.png)";
+  secondChild.style.backgroundSize = "180px 18px";
+  secondChild.style.backgroundPosition = "0px 0px";
+  secondChild.style.backgroundRepeat = "no-repeat";
+  secondChild.id = "you_location_img";
+  firstChild.appendChild(secondChild);
+
+  google.maps.event.addListener(map, "dragend", function() {
+    $("#you_location_img").css("background-position", "0px 0px");
+    navigator.geolocation.clearWatch(watcher);
+  });
+
+  firstChild.addEventListener("click", function() {
+    var imgX = "0";
+    var animationInterval = setInterval(function() {
+      if (imgX == "-18") imgX = "0";
+      else imgX = "-18";
+      $("#you_location_img").css("background-position", imgX + "px 0px");
+    }, 500);
+    if (navigator.geolocation) {
+      watcher = navigator.geolocation.watchPosition(function(position) {
+        var latlng = new google.maps.LatLng(
+          position.coords.latitude,
+          position.coords.longitude
+        );
+        console.log(position);
+        marker.setPosition(latlng);
+        map.setCenter(latlng);
+        map.setZoom(17);
+        clearInterval(animationInterval);
+        $("#you_location_img").css("background-position", "-144px 0px");
       });
-  
-      firstChild.addEventListener('click', function() {
-          var imgX = '0';
-          var animationInterval = setInterval(function(){
-              if(imgX == '-18') imgX = '0';
-              else imgX = '-18';
-              $('#you_location_img').css('background-position', imgX+'px 0px');
-          }, 500);
-          if(navigator.geolocation) {
-                watcher = navigator.geolocation.watchPosition(function(position) {
-                  var latlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                  console.log(position)
-                  marker.setPosition(latlng);
-                  map.setCenter(latlng);
-                  clearInterval(animationInterval);
-                  $('#you_location_img').css('background-position', '-144px 0px');
-              });
-          }
-          else{
-              clearInterval(animationInterval);
-              $('#you_location_img').css('background-position', '0px 0px');
-          }
-      });
-  
-      controlDiv.index = 1;
-      map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(controlDiv);
-  }
-  
+    } else {
+      clearInterval(animationInterval);
+      $("#you_location_img").css("background-position", "0px 0px");
+    }
+  });
+
+  controlDiv.index = 1;
+  map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(controlDiv);
+}
+
 function initialize() {
-  if(navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(function(position) {
+  if (navigator.geolocation) {
+    watcher =  navigator.geolocation.watchPosition(function(position) {
       (me = new google.maps.LatLng(
         position.coords.latitude,
         position.coords.longitude
@@ -90,11 +92,11 @@ function initialize() {
         map.setCenter(me),
         map.setZoom(17);
     });
-  };
+  }
   var e = {
     enableHighAccuracy: true,
-    maximumAge:10000, 
-    timeout:5000,
+    maximumAge: 10000,
+    timeout: 5000,
     center: new google.maps.LatLng(-22.9334923, -43.4167982),
     zoom: 10,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -230,10 +232,10 @@ function initialize() {
       }
     ),
     (geocoder = new google.maps.Geocoder()),
-    marker = new google.maps.Marker({
+    (marker = new google.maps.Marker({
       map: map,
       icon: marcador
-    }),
+    })),
     (marker2 = new google.maps.Marker({
       animation: google.maps.Animation.DROP,
       map: map,
