@@ -6,61 +6,64 @@ var map,
   me,
   infoBox = [],
   markers = [];
-function addYourLocationButton(a, r) {
-  var e = document.createElement("div"),
-    o = document.createElement("button");
-  (o.style.backgroundColor = "#fff"),
-    (o.style.border = "none"),
-    (o.style.outline = "none"),
-    (o.style.width = "40px"),
-    (o.style.height = "40px"),
-    (o.style.borderRadius = "2px"),
-    (o.style.boxShadow = "0 1px 4px rgba(0,0,0,0.3)"),
-    (o.style.cursor = "pointer"),
-    (o.style.marginRight = "10px"),
-    (o.style.padding = "0px"),
-    (o.title = "Sua localização"),
-    e.appendChild(o);
-  var t = document.createElement("div");
-  (t.style.margin = "0 auto"),
-    (t.style.width = "18px"),
-    (t.style.height = "18px"),
-    (t.style.backgroundImage =
-      "url(https://maps.gstatic.com/tactile/mylocation/mylocation-sprite-1x.png)"),
-    (t.style.backgroundSize = "180px 18px"),
-    (t.style.backgroundPosition = "0px 0px"),
-    (t.style.backgroundRepeat = "no-repeat"),
-    (t.id = "you_location_img"),
-    o.appendChild(t),
-    google.maps.event.addListener(a, "dragend", function() {
-      $("#you_location_img").css("background-position", "0px 0px");
-    }),
-    o.addEventListener("click", function() {
-      var e = "0",
-        t = setInterval(function() {
-          (e = "-18" == e ? "0" : "-18"),
-            $("#you_location_img").css("background-position", e + "px 0px");
-        }, 500);
-      navigator.geolocation
-        ? watcher = navigator.geolocation.watchPosition(function(position) {
-            var o = new google.maps.LatLng(
-              position.coords.latitude,
-              position.coords.longitude
-            );
-            console.log(position)
-            r.setPosition(o),
-              a.setCenter(o),
-              a.setZoom(17),
-              clearInterval(t),
-              $("#you_location_img").css("background-position", "-144px 0px");
-              
-          })
-        : (clearInterval(t),
-          $("#you_location_img").css("background-position", "0px 0px"));
-    }),
-    (e.index = 1),
-    a.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(e);
-}
+  function addYourLocationButton(map, marker) 
+  {
+      var controlDiv = document.createElement('div'); 
+      var firstChild = document.createElement('button');
+      firstChild.style.backgroundColor = '#fff';
+      firstChild.style.border = 'none';
+      firstChild.style.outline = 'none';
+      firstChild.style.width = '40px';
+      firstChild.style.height = '40px';
+      firstChild.style.borderRadius = '2px';
+      firstChild.style.boxShadow = '0 1px 4px rgba(0,0,0,0.3)';
+      firstChild.style.cursor = 'pointer';
+      firstChild.style.marginRight = '10px';
+      firstChild.style.padding = '0px';
+      firstChild.title = 'Sua Localização';
+      controlDiv.appendChild(firstChild);
+  
+      var secondChild = document.createElement('div');
+      secondChild.style.margin = '0 auto';
+      secondChild.style.width = '18px';
+      secondChild.style.height = '18px';
+      secondChild.style.backgroundImage = 'url(https://maps.gstatic.com/tactile/mylocation/mylocation-sprite-1x.png)';
+      secondChild.style.backgroundSize = '180px 18px';
+      secondChild.style.backgroundPosition = '0px 0px';
+      secondChild.style.backgroundRepeat = 'no-repeat';
+      secondChild.id = 'you_location_img';
+      firstChild.appendChild(secondChild);
+  
+      google.maps.event.addListener(map, 'dragend', function() {
+          $('#you_location_img').css('background-position', '0px 0px');
+      });
+  
+      firstChild.addEventListener('click', function() {
+          var imgX = '0';
+          var animationInterval = setInterval(function(){
+              if(imgX == '-18') imgX = '0';
+              else imgX = '-18';
+              $('#you_location_img').css('background-position', imgX+'px 0px');
+          }, 500);
+          if(navigator.geolocation) {
+                watcher = navigator.geolocation.watchPosition(function(position) {
+                  var latlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                  marker.setPosition(latlng);
+                  map.setCenter(latlng);
+                  clearInterval(animationInterval);
+                  $('#you_location_img').css('background-position', '-144px 0px');
+              });
+          }
+          else{
+              clearInterval(animationInterval);
+              $('#you_location_img').css('background-position', '0px 0px');
+          }
+      });
+  
+      controlDiv.index = 1;
+      map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(controlDiv);
+  }
+  
 function initialize() {
       watcher = navigator.geolocation.watchPosition(function(position) {
       (me = new google.maps.LatLng(
@@ -80,6 +83,7 @@ function initialize() {
     zoom: 10,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: false,
+    rotateControl: true,
     gestureHandling: "greedy",
     styles: [
       { elementType: "geometry", stylers: [{ color: "#212121" }] },
@@ -186,6 +190,7 @@ function initialize() {
         console.log(place.geometry.location);
         bounds.extend(place.geometry.location);
         marker2.setPosition(place.geometry.location);
+        navigator.geolocation.clearWatch(watcher);
       }
       map.fitBounds(bounds);
       map.setZoom(17);
@@ -215,11 +220,10 @@ function initialize() {
       icon: "img/marker2.png"
     }),
     (marker2 = new google.maps.Marker({
-      animation: google.maps.Animation.DROP,
       map: map,
       icon: "img/marker.png"
     })).addListener("click", toggleBounce),
-    addYourLocationButton(map, marker, marker2);
+    addYourLocationButton(map, marker);
 }
 
 function toggleBounce() {
@@ -265,4 +269,5 @@ function carregarPontos() {
     });
   });
 }
+
 initialize(), carregarPontos();
