@@ -7,6 +7,18 @@ var map,
   infoBox = [],
   markers = [];
   watcher = null;
+
+  var marcador = {
+    url: "img/marker.png", 
+    scaledSize: new google.maps.Size(50, 50)
+};
+
+var marcadorPesquisa = {
+  url: "img/markerPesquisa.png",
+  scaledSize: new google.maps.Size(33, 42)
+};
+
+
   function addYourLocationButton(map, marker) 
   {
       var controlDiv = document.createElement('div'); 
@@ -220,12 +232,12 @@ function initialize() {
     (geocoder = new google.maps.Geocoder()),
     marker = new google.maps.Marker({
       map: map,
-      icon: "img/marker2.png"
+      icon: marcador
     }),
     (marker2 = new google.maps.Marker({
       animation: google.maps.Animation.DROP,
       map: map,
-      icon: "img/marker.png"
+      icon: marcadorPesquisa
     })).addListener("click", toggleBounce),
     addYourLocationButton(map, marker);
 }
