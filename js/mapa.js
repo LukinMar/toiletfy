@@ -47,7 +47,7 @@ function addYourLocationButton(a, r) {
               position.coords.latitude,
               position.coords.longitude
             );
-            navigator.geolocation.clearWatch(id);
+            navigator.geolocation.clearWatch(watcher);
             r.setPosition(o),
               a.setCenter(o),
               a.setZoom(17),
