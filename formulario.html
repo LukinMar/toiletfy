@@ -122,8 +122,9 @@ $('input[name=star]').change(function (e) {
                                  + '"Latitude":' + $( '#latitude' ).val() + ',' + '\n' 
                                  + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
-                                 + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
-                                 + ' <br><br> Observação: ' +  $('#observacao').val() + $('#inputavaliacao').val() 
+                                 + ' <br><br> Observação: ' +  $('#observacao').val() 
+                                 + ' <br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
+                                 + $('#inputavaliacao').val() 
                                  + $('#inputinfo').val()  + '"' + '\n' + '},');
       }
     $( '#latitude, #longitude, #nome, #endereco, #link, #observacao, #inputavaliacao, #inputinfo').keydown(updateTextarea);
