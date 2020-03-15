@@ -3238,5 +3238,41 @@
     "Latitude": -23.529236,
     "Longitude": -46.778014,
     "Descricao": "Osasco Plaza Shopping, R. Ten. Avelar Píres de Azevedo, 81 - Centro, Osasco - SP, 06016-060<br><br> <a href=https://www.google.com.br/maps/place/Osasco+Plaza+Shopping/@-23.5291618,-46.7799665,17z/data=!3m1!4b1!4m5!3m4!1s0x94ceffa9141246c3:0x84c4da9054e5a9fe!8m2!3d-23.5291667!4d-46.7777778 target=_blank> Visualize no Google Maps </a> <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 541,
+    "Latitude": -21.164596,
+    "Longitude": -47.812001,
+    "Descricao": "Savegnago Supermercados, R. Silveira Martins, 44 - Campos Elísios, Ribeirão Preto - SP, 14080-625 <br><br> <a href=https://www.google.com.br/maps/place/Savegnago+Supermercados+-+Loja+10/@-21.1646318,-47.812108,20.75z/data=!4m5!3m4!1s0x94b9be4db60ec3c3:0x77b32a61f01c14a7!8m2!3d-21.1645966!4d-47.8119922 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 542,
+    "Latitude": -21.212413,
+    "Longitude": -47.816141,
+    "Descricao": "RibeirãoShopping, Av. Cel. Fernando Ferreira Leite, 1540 - Jardim California, Ribeirão Preto - SP, 14026-900 <br><br> <a href=https://www.google.com.br/maps/place/Ribeir%C3%A3oShopping/@-21.2126773,-47.8173788,17.75z/data=!4m5!3m4!1s0x94b9b932e3cd5ce3:0x39f470dbf352ad65!8m2!3d-21.2127492!4d-47.8159431 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 543,
+    "Latitude": -20.762789,
+    "Longitude": -51.705821,
+    "Descricao": "Instituto Federal de Mato Grosso do Sul (IFMS), R. Angelo Melão, 790 - Jardim Das Paineiras, Três Lagoas - MS, 79641-162 <br><br> <a href=https://www.google.com.br/maps/place/Instituto+Federal+de+Mato+Grosso+do+Sul+(IFMS)+-+Campus+Tr%C3%AAs+Lagoas/@-20.76211,-51.7067236,17.04z/data=!4m5!3m4!1s0x9490986742d159b1:0xbcaf71f3adf22558!8m2!3d-20.7627663!4d-51.7058082 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 544,
+    "Latitude": -23.586865,
+    "Longitude": -46.724528,
+    "Descricao": "Habib's, Av. Prof. Francisco Morato, 2689 - Butantã, São Paulo - SP, 05513-400 <br><br> <a href=https://www.google.com.br/maps/place/Habib's/@-23.5867782,-46.7246067,20.04z/data=!4m13!1m7!3m6!1s0x94ce56f231025ff1:0x6175a0beaf30d27e!2sAv.+Prof.+Francisco+Morato,+2689+-+Butant%C3%A3,+S%C3%A3o+Paulo+-+SP,+05513-400!3b1!8m2!3d-23.5868853!4d-46.7244589!3m4!1s0x94ce56f2367826b7:0x937b7f7aef701810!8m2!3d-23.5868576!4d-46.724531 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 545,
+    "Latitude": -22.905333,
+    "Longitude": -43.174955,
+    "Descricao": "Curto Café, Av. Erasmo Braga, 278 - Centro, Rio de Janeiro - RJ, 20020-010 <br><br> <a href= target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 546,
+    "Latitude": -23.265685,
+    "Longitude": -47.308845,
+    "Descricao": "Igreja Adventista do Sétimo Dia - Central, R. João Januário Pamplona, 415 - Jardim Santa Tereza, Itu - SP <br><br> <a href=https://www.google.com.br/maps/place/Igreja+Adventista+do+S%C3%A9timo+Dia+-+Central/@-23.2657207,-47.3089779,21z/data=!4m5!3m4!1s0x94cf5014777102f3:0xb9500698b814f7c0!8m2!3d-23.265714!4d-47.3088407 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   }
 ]
