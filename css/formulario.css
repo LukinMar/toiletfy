@@ -448,6 +448,14 @@ button[type="button"]:active {
   margin: 0 auto;
   height: 100%;
 }
+
+#map{ 
+  width:350px; 
+  height: 300px; 
+  margin-left: -3%;
+
+}
+
 html {
   height: 100%;
 }
@@ -2675,4 +2683,31 @@ textarea {
   border: 2px solid #8e3dbc;
   background-color: #8e3dbc;
   z-index: 0;
+}
+
+.pesquisarmapa .content{
+  display: none;
+  padding: 10px;
+  padding-right: 5px;
+}
+
+.location{
+  position: relative;
+}
+
+.location input{
+  text-indent: 32px;
+}
+
+.location:after{
+  position: absolute;
+  top: -55px;
+  left: 95%;
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-size:20px;
+  color: rgba(0, 0, 0, 0.54);
+  content:"my_location";
+  cursor:pointer;
+  z-index:9;
 }
