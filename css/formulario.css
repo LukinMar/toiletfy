@@ -472,10 +472,9 @@ body {
     opacity: 0.95;
     height: 100%;
   }
-#menu {
-  position: fixed;
-  z-index: 1;
-}
+  #menu {
+    position: absolute;
+  }
 .sidenav-overlay {
   z-index: 0 !important;
 }
@@ -2683,7 +2682,17 @@ textarea {
   background-color: #8e3dbc;
   z-index: 0;
 }
-
+.sidenav-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  height: 120vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 997;
+  display: none;
+}
 .pesquisarmapa .content{
   display: none;
   padding: 10px;
