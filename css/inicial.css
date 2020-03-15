@@ -62,8 +62,19 @@ float:left;
   height: 100%;
 }
 #menu {
-  position: fixed;
+  position: absolute;
   z-index: 1;
+}
+.sidenav-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  height: 120vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 997;
+  display: none;
 }
 .sidenav-overlay {
   z-index: 0 !important;
@@ -2184,3 +2195,4 @@ textarea {
     transform: scale(1.5);
   }
 }
+
