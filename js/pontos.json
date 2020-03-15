@@ -3172,5 +3172,35 @@
     "Latitude": -23.577675,
     "Longitude": -46.482506,
     "Descricao": "Restaurante Reis, R. Baltazar Vidal, 192 - Jardim Nossa Sra. do Carmo, São Paulo - SP, 08275-370<br><br> <a href=https://www.google.com.br/maps/place/Restaurante+Reis/@-23.5777675,-46.4825224,20z/data=!4m5!3m4!1s0x94ce67ac1ff5060b:0xa818bbe27a3c0ae0!8m2!3d-23.5776726!4d-46.4825065 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 530,
+    "Latitude": -23.438698,
+    "Longitude": -46.506802,
+    "Descricao": "Atacadão - Guarulhos, Av. Otávio Braga de Mesquita, 3116 - Jardim Sao Geraldo, Guarulhos - SP, 07140-230<br><br> <a href=https://www.google.com.br/maps/place/Atacad%C3%A3o+-+Guarulhos/@-23.4380194,-46.5076044,18z/data=!4m5!3m4!1s0x94ce8acffc3d22ff:0x2d98dbdad2ecd9ce!8m2!3d-23.438577!4d-46.5067128 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 531,
+    "Latitude": 41.557735,
+    "Longitude": -8.406519,
+    "Descricao": "Braga Parque, R. dos Congregados 1, 4710-427 Braga, Portugal<br><br> <a href=https://www.google.com.br/maps/place/Braga+Parque/@41.5577709,-8.408249,17z/data=!3m2!4b1!5s0xd24fe9a274510d3:0x7edf0a3a933a33dc!4m5!3m4!1s0xd24fe9a1f9f463f:0x5d96d27c7a177625!8m2!3d41.5577669!4d-8.4060603 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+  },
+  {
+    "Id": 532,
+    "Latitude": -25.430323,
+    "Longitude": -49.266318,
+    "Descricao": "Shopping Itália, R. Mal. Deodoro, 630 - Centro, Curitiba - PR, 80010-010<br><br> <a href=https://www.google.com.br/maps/place/Shopping+It%C3%A1lia/@-25.4302708,-49.2663146,20.29z/data=!4m5!3m4!1s0x94dce46ae05ead41:0x37d27536bb82ebcd!8m2!3d-25.4303225!4d-49.266262 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/moneyfrald.png' width='120px' title='Necessita pagamento e possui fraldário' alt='Necessita pagamento e possui fraldário'>"
+  },
+  {
+    "Id": 533,
+    "Latitude": -8.058261,
+    "Longitude": -34.872024,
+    "Descricao": "CESAR - Centro de Estudos e Sistemas Avançados do Recife, Rua Bione, Cais do Apolo, 220, Recife - PE, 50030-390<br><br> <a href=https://www.google.com.br/maps/place/CESAR+-+Centro+de+Estudos+e+Sistemas+Avan%C3%A7ados+do+Recife/@-8.0581189,-34.8721432,19.25z/data=!4m5!3m4!1s0x7ab18a2985f5823:0x9d226b47935cba!8m2!3d-8.058257!4d-34.8719942 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 534,
+    "Latitude": -27.597168,
+    "Longitude": -48.558005,
+    "Descricao": "Terminal Rodoviário Rita Maria, Av. Paulo Fontes, 1101 - Centro, Florianópolis - SC, 88085-000<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Rodovi%C3%A1rio+Rita+Maria/@-27.5970979,-48.5601942,17z/data=!3m1!4b1!4m5!3m4!1s0x9527378a81d98aef:0x29d68f312cce6b41!8m2!3d-27.5971027!4d-48.5580055 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
   }
 ]
