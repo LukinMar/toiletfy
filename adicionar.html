@@ -69,8 +69,13 @@
       </fieldset>
       <fieldset class="fs"> 
         <input  class="input-field localizacao" id="endereco"  type="text" name="entry.1169249885"  placeholder="Endereço" tabindex="3" required>
-        <button type="button" id="showMe" class="waves-effect waves-light btn center-align">
-            <i class="material-icons left">my_location</i>Usar minha localização</button>
+        <div class="location" id="showMe"></div>
+        <button type="button" class="waves-effect waves-light btn center-align procurar"><i class="material-icons left">search</i>Procurar no mapa</button>
+          <div class="pesquisarmapa">
+          <div class="content">
+          <div id="map"></div>
+          </div>
+          </div>
           <div id="mapa" style="width:10%; height:10%"></div>
       </fieldset>
         <fieldset class="fs" id="legend">
@@ -121,6 +126,7 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
   ></script>
     <script src="js/marcador.js"></script>
+    <script src="js/map.js"></script>
     <script src="js/materialize.js"></script>
     <script src="js/init.js"></script>
     <script id="base-js" src="https://www.gstatic.com/_/freebird/_/js/k=freebird.v.pt_BR.BRuqPXBT82Y.O/d=1/rs=AMjVe6i0CftiZtE_TW5fsIHLoGuxPYbbTQ/m=viewer_base" nonce=""></script>
@@ -143,6 +149,10 @@ $('input[id=star4]').change(function(e) {
 });
 $('input[id=star5]').change(function(e) {
   $('#inputavaliacao').val(e.target.value)
+});
+
+$(".procurar").click(function(){
+  $(".content").slideToggle("fast");
 });
 
   var listCheckedOptions= [];
