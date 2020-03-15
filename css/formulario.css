@@ -2713,3 +2713,11 @@ textarea {
   cursor:pointer;
   z-index:9;
 }
+
+#observacao-input{
+  display:none;
+}
+
+#observacao{
+  display:none;
+}
