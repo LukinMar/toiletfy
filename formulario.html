@@ -92,12 +92,19 @@
             </fieldset>
             <fieldset class="fs">
               <legend>Observação</legend>
-              <textarea class="input-field" id="observacao" class="textarea" tabindex="7"></textarea>
+              <p>
+                <label>
+                  <input type="checkbox" class="filled-in checkbox1" id="check" onclick="habilitar();">
+                  <span>Habilitar / Desabilitar</span>
+                </label>
+              </p>      
+              <textarea class="input-field" id="observacao" class="textarea" disabled="disabled" tabindex="7"></textarea>
             </fieldset>
             <small>Copiar e colar</small><a href=""onclick="copy()"><i class="material-icons copy">content_copy</i></a><br>
         <textarea class="input-field" placeholder="" class="TEXTAREA2"  id="TEXTAREA2"></textarea>
         <input id="inputinfo" type="text"  value="">  
         <input id="inputavaliacao" type="text" value="" >
+        <input id="observacao-input" type="text" value="" disabled="disabled" >
     </form>
     </div>
     <link rel="stylesheet" type="text/css" href="css/formulario.css" />
@@ -122,12 +129,12 @@ $('input[name=star]').change(function (e) {
                                  + '"Latitude":' + $( '#latitude' ).val() + ',' + '\n' 
                                  + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
-                                 + ' <br><br> Observação: ' +  $('#observacao').val() 
+                                 + $('#observacao-input').val() +  $('#observacao').val() 
                                  + ' <br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
                                  + $('#inputavaliacao').val() 
                                  + $('#inputinfo').val()  + '"' + '\n' + '},');
       }
-    $( '#latitude, #longitude, #nome, #endereco, #link, #observacao, #inputavaliacao, #inputinfo').keydown(updateTextarea);
+    $( '#latitude, #longitude, #nome, #endereco, #link, #observacao-input, #observacao, #inputavaliacao, #inputinfo').keydown(updateTextarea);
 });
 
 function copy() {
@@ -137,5 +144,23 @@ function copy() {
   document.execCommand("copy");
   alert("Conteúdo copiado");
 }
+
+function habilitar(){
+  var input = document.getElementById('observacao-input');
+  var textarea = document.getElementById('observacao');
+	if(document.getElementById('check').checked){
+		document.getElementById('observacao').disabled = false;
+    document.getElementById('observacao-input').disabled = false;
+    input.value = " <br><br> Observação: ";
+    textarea.style.display = "block"
+	} else {
+		document.getElementById('observacao').disabled = true;
+    document.getElementById('observacao-input').disabled = true;
+    input.value = "";
+    textarea.value = "";
+    textarea.style.display = "none"
+	}
+}
+
 </script>
 </html>
