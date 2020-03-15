@@ -3132,15 +3132,45 @@
     "Descricao": "Bourbon Shopping São Leopoldo, R. Primeiro de Março, 821 - Centro, São Leopoldo - RS, 93010-210<br><br> <a href=https://www.google.com.br/maps/place/Bourbon+Shopping+S%C3%A3o+Leopoldo/@-29.7694463,-51.1481362,17.25z/data=!4m5!3m4!1s0x9519685044eaec89:0xbb521d81226fc2b1!8m2!3d-29.7693471!4d-51.1459487 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
-"Id":523,
-"Latitude":-22.891294,
-"Longitude":-43.124801,
-"Descricao": "Terminal Rodoviário Presidente João Goulart, Av. Visconde do Rio Branco, s/n - Centro, Niterói - RJ, 24020-007<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Rodovi%C3%A1rio+Presidente+Jo%C3%A3o+Goulart/@-22.8913736,-43.1261499,17z/data=!4m5!3m4!1s0x9983b8cf30a885:0x6357f3b62e4118aa!8m2!3d-22.8912916!4d-43.1247879 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>"
-},
-{
-  "Id":524,
-  "Latitude":-21.254964,
-  "Longitude":-48.323237,
-  "Descricao": "Jaboticabal Shopping, Praça Dom José Marcondes Homem de Mello, 146 - Centro, Jaboticabal - SP, 14870-520<br><br> <a href=https://www.google.com.br/maps/place/Jaboticabal+Shopping/@-21.2549994,-48.3235909,19.75z/data=!4m5!3m4!1s0x94b96b7c41abe05f:0xe26b2cfb6cf51ba6!8m2!3d-21.2549767!4d-48.323155 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Id": 523,
+    "Latitude": -22.891294,
+    "Longitude": -43.124801,
+    "Descricao": "Terminal Rodoviário Presidente João Goulart, Av. Visconde do Rio Branco, s/n - Centro, Niterói - RJ, 24020-007<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Rodovi%C3%A1rio+Presidente+Jo%C3%A3o+Goulart/@-22.8913736,-43.1261499,17z/data=!4m5!3m4!1s0x9983b8cf30a885:0x6357f3b62e4118aa!8m2!3d-22.8912916!4d-43.1247879 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>"
+  },
+  {
+    "Id": 524,
+    "Latitude": -21.254964,
+    "Longitude": -48.323237,
+    "Descricao": "Jaboticabal Shopping, Praça Dom José Marcondes Homem de Mello, 146 - Centro, Jaboticabal - SP, 14870-520<br><br> <a href=https://www.google.com.br/maps/place/Jaboticabal+Shopping/@-21.2549994,-48.3235909,19.75z/data=!4m5!3m4!1s0x94b96b7c41abe05f:0xe26b2cfb6cf51ba6!8m2!3d-21.2549767!4d-48.323155 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 525,
+    "Latitude": -29.783745,
+    "Longitude": -55.790599,
+    "Descricao": "Praça Getulio Vargas - Centro, Praça Getulio Vargas - Centro, Alegrete - RS<br><br> <a href=https://www.google.com.br/maps/place/Pra%C3%A7a+Getulio+Vargas+-+Centro,+Alegrete+-+RS/@-29.7844714,-55.7920757,17z/data=!3m1!4b1!4m5!3m4!1s0x95aab9d815733dc9:0x16d750657a861010!8m2!3d-29.7844741!4d-55.7908113 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 526,
+    "Latitude": -12.924303,
+    "Longitude": -38.467546,
+    "Descricao": "Estação Pirajá, s/n Granjas Rurais Presidentes Vargas, R. da Indonésia - Granjas Rurais Pres. Vargas, Salvador - BA<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Piraj%C3%A1/@-12.9242251,-38.4697221,17z/data=!3m1!4b1!4m5!3m4!1s0x716100c42ffe44f:0xc1ffd829108a6a0c!8m2!3d-12.9242303!4d-38.4675334 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>"
+  },
+  {
+    "Id": 527,
+    "Latitude": -5.843418,
+    "Longitude": -35.199396,
+    "Descricao": "ECT/UFRN - Escola de Ciências​ e Tecnologia, Anel Viário Contorno do Campus s/n - Capim Macio, Natal - RN, 59078-970<br><br> <a href=https://www.google.com.br/maps/place/ECT%2FUFRN+-+Escola+de+Ci%C3%AAncias%E2%80%8B+e+Tecnologia/@-5.8434044,-35.201584,17z/data=!3m1!4b1!4m5!3m4!1s0x7b2ff82aa3e3b4d:0x20c4bb30f68e7bc3!8m2!3d-5.8434097!4d-35.1993953 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 528,
+    "Latitude": -23.555987,
+    "Longitude": -46.635723,
+    "Descricao": "Sogo - Plaza Shopping, R. Galvão Bueno, 40 - Liberdade, São Paulo - SP, 01506-000<br><br> <a href=https://www.google.com.br/maps/place/Sogo+-+Plaza+Shopping/@-23.5559803,-46.6379098,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59a8d88350bd:0xa74c867e64167b09!8m2!3d-23.5559852!4d-46.6357211 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+  },
+  {
+    "Id": 529,
+    "Latitude": -23.577675,
+    "Longitude": -46.482506,
+    "Descricao": "Restaurante Reis, R. Baltazar Vidal, 192 - Jardim Nossa Sra. do Carmo, São Paulo - SP, 08275-370<br><br> <a href=https://www.google.com.br/maps/place/Restaurante+Reis/@-23.5777675,-46.4825224,20z/data=!4m5!3m4!1s0x94ce67ac1ff5060b:0xa818bbe27a3c0ae0!8m2!3d-23.5776726!4d-46.4825065 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   }
 ]
