@@ -123,11 +123,10 @@ $('input[name=star]').change(function (e) {
                                  + '"Longitude":' + $( '#longitude' ).val() + ',' + '\n' 
                                  + '"Descricao": "'  + $( '#nome' ).val() + ', ' + $( '#endereco' ).val() 
                                  + '<br><br> <a href=' + $('#link' ).val() + ' target=_blank> Visualize no Google Maps </a>' 
-                                 + $('#inputavaliacao').val() + $('#inputinfo').val() + 'Observação: ' + $('#observacao').val()
-                                 + '"'
-                                 + '\n' + '},');
+                                 + ' <br><br> Observação: ' +  $('#observacao').val() + $('#inputavaliacao').val() 
+                                 + $('#inputinfo').val()  + '"' + '\n' + '},');
       }
-    $( '#latitude, #longitude, #nome, #endereco, #link, #inputavaliacao, #inputinfo, #observacao').keydown(updateTextarea);
+    $( '#latitude, #longitude, #nome, #endereco, #link, #observacao, #inputavaliacao, #inputinfo').keydown(updateTextarea);
 });
 
 function copy() {
