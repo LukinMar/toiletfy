@@ -3213,12 +3213,18 @@
     "Id": 536,
     "Latitude": -21.174015,
     "Longitude": -47.814719,
-    "Descricao": "Rodoviária de Ribeirão Preto, Av. Jerônimo Gonçalves, 640 - Centro, Ribeirão Preto - SP, 14010-040<br><br> <a href=https://www.google.com.br/maps/place/Rodovi%C3%A1ria+de+Ribeir%C3%A3o+Preto/@-21.173905,-47.8166687,17z/data=!3m1!4b1!4m5!3m4!1s0x94b9bef8bce05cbd:0xc49843c6ef6238fa!8m2!3d-21.17391!4d-47.81448 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '> <br><br> Observação: Necessita do cartão de ônibus municipal para ter acesso"
+    "Descricao": "Rodoviária de Ribeirão Preto, Av. Jerônimo Gonçalves, 640 - Centro, Ribeirão Preto - SP, 14010-040<br><br> <a href=https://www.google.com.br/maps/place/Rodovi%C3%A1ria+de+Ribeir%C3%A3o+Preto/@-21.173905,-47.8166687,17z/data=!3m1!4b1!4m5!3m4!1s0x94b9bef8bce05cbd:0xc49843c6ef6238fa!8m2!3d-21.17391!4d-47.81448 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   },
   {
     "Id": 537,
     "Latitude": -21.175659,
     "Longitude": -47.815191,
-    "Descricao": "Terminal Urbano, Alameda Botafogo, 120 - Centro, Ribeirão Preto - SP, 14050-292<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Urbano/@-21.1757682,-47.8156031,20z/data=!4m5!3m4!1s0x0:0x75756745e43cd819!8m2!3d-21.175599!4d-47.8150465 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>Observação: "
+    "Descricao": "Terminal Urbano, Alameda Botafogo, 120 - Centro, Ribeirão Preto - SP, 14050-292<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Urbano/@-21.1757682,-47.8156031,20z/data=!4m5!3m4!1s0x0:0x75756745e43cd819!8m2!3d-21.175599!4d-47.8150465 target=_blank> Visualize no Google Maps </a><br><br> Observação: Necessita do cartão de ônibus municipal para ter acesso <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>"
+  },
+  {
+    "Id": 538,
+    "Latitude": -22.727218,
+    "Longitude": -52.621539,
+    "Descricao": "Shamballa Hotel, R. Amapá, 1380 - Centro, Terra Rica - PR, 87890-000<br><br> <a href=https://www.google.com.br/maps/place/Shamballa+Hotel/@-22.727255,-52.6217666,20z/data=!4m8!3m7!1s0x9492797cbfde9813:0x3f4187022f180c49!5m2!4m1!1i2!8m2!3d-22.727229!4d-52.6215677 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   }
 ]
