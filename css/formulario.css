@@ -210,7 +210,6 @@ body {
   user-select: none;
   -webkit-tap-highlight-color: transparent;
   vertical-align: middle;
-  z-index: 1;
   -webkit-transition: 0.3s ease-out;
   transition: 0.3s ease-out;
 }
@@ -476,7 +475,7 @@ body {
     position: absolute;
   }
 .sidenav-overlay {
-  z-index: 0 !important;
+  z-index:9 !important;
 }
 .preloader {
   position: fixed;
@@ -585,7 +584,6 @@ body {
 .recarregar {
   float: right !important;
   position: relative !important;
-  z-index: 1 !important;
   height: 56px !important;
   margin: 0 18px !important;
 }
@@ -600,7 +598,6 @@ body {
   position: fixed !important;
   text-align: right !important;
   float: right !important;
-  z-index: 1 !important;
   height: 56px !important;
   margin: 0 !important;
   color: rgba(0, 0, 0, 0.54) !important;
@@ -725,7 +722,6 @@ nav .nav-wrapper {
 nav .sidenav-trigger {
   float: left;
   position: relative;
-  z-index: 1;
   height: 56px;
   margin: 0 18px;
 }
@@ -1245,7 +1241,6 @@ nav .nav-wrapper {
 nav .sidenav-trigger {
   float: left;
   position: relative;
-  z-index: 1;
   height: 56px;
   margin: 0 18px;
 }
@@ -1358,7 +1353,6 @@ nav .input-field label i {
 .navbar-fixed {
   position: relative;
   height: 56px;
-  z-index: 997;
 }
 .navbar-fixed nav {
   position: fixed;
