@@ -11,8 +11,10 @@ function initMap() {
          map.setZoom(15);
         });
 
-    map = new google.maps.Map(document.getElementById('map'));
- 
+    map = new google.maps.Map(document.getElementById('map'), {
+    gestureHandling: "greedy",
+    enableHighAccuracy: true,
+    });
 
     google.maps.event.addListener(map, 'click', function(event) {                
         var clickedLocation = event.latLng;
