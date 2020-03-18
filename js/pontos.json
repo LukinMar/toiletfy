@@ -3300,15 +3300,21 @@
     "Descricao": "Taguatinga Shopping, QS 1 - Taguatinga, Brasília - DF, 70297-400 <br><br> <a href=https://www.google.com.br/maps/place/Taguatinga+Shopping/@-15.841913,-48.0460688,17z/data=!4m5!3m4!1s0x935a328bd8bc60c1:0xd082313d70393121!8m2!3d-15.8419182!4d-48.0438801 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
   },
   {
-    "Id":551,
-    "Latitude":-23.592748,
-    "Longitude":-46.589458,
+    "Id": 551,
+    "Latitude": -23.592748,
+    "Longitude": -46.589458,
     "Descricao": "Estação Tamanduateí, Av. Presidente Wilson, 4801 - Vila Independencia, São Paulo - SP, 03153-001 <br><br> <a href=https://www.google.com.br/maps/place/Tamanduate%C3%AD/@-23.5927343,-46.5916443,17z/data=!4m5!3m4!1s0x94ce5c7469a57061:0x9a851b476126240b!8m2!3d-23.592757!4d-46.5894502 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
-    },
-    {
-      "Id":552,
-      "Latitude":-23.610235,
-      "Longitude":-46.570195,
-      "Descricao": "Estação São Caetano do Sul - Prefeito Walter Braido, R. Serafim Constantino, 51 - Centro, São Caetano do Sul - SP, 09510-220 <br><br> <a href=https://www.google.com.br/maps/place/S%C3%A3o+Caetano+do+Sul+-+Prefeito+Walter+Braido/@-23.6101948,-46.5724182,17z/data=!4m5!3m4!1s0x94ce5cf23f22d471:0x2db15d5b83f94edb!8m2!3d-23.6102274!4d-46.5702047 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
-      }
+  },
+  {
+    "Id": 552,
+    "Latitude": -23.610235,
+    "Longitude": -46.570195,
+    "Descricao": "Estação São Caetano do Sul - Prefeito Walter Braido, R. Serafim Constantino, 51 - Centro, São Caetano do Sul - SP, 09510-220 <br><br> <a href=https://www.google.com.br/maps/place/S%C3%A3o+Caetano+do+Sul+-+Prefeito+Walter+Braido/@-23.6101948,-46.5724182,17z/data=!4m5!3m4!1s0x94ce5cf23f22d471:0x2db15d5b83f94edb!8m2!3d-23.6102274!4d-46.5702047 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/2estrelas.png'  width='170px' title='2 estrelas' alt='2 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 553,
+    "Latitude": -10.922851,
+    "Longitude": -37.103515,
+    "Descricao": "Centro de Vivência - UFS, Av. Marechal Rondon, 1861 - Jardim Rosa Elze, São Cristóvão - SE, 49100-000 <br><br> <a href=https://www.google.com.br/maps/place/Centro+de+Viv%C3%AAncia,+Universidade+Federal+de+Sergipe,+Campus+Jos%C3%A9+Alo%C3%ADsio+de+Campos/@-10.9228968,-37.103998,19.04z/data=!4m5!3m4!1s0x71ab242bbb3e185:0xf7d711cc21606663!8m2!3d-10.9228532!4d-37.1035156 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  }
 ]
