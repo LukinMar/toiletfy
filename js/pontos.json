@@ -3322,5 +3322,11 @@
     "Latitude": -16.443837,
     "Longitude": -39.062521,
     "Descricao": "Shopping Blue 22, Av. 22 de Abril, 339, Porto Seguro - BA, 45810-000 <br><br> <a href=https://www.google.com.br/maps/place/Shopping+Blue+22/@-16.4438275,-39.0627966,19.96z/data=!4m13!1m7!3m6!1s0x73696af6e70122b:0x9b75aac326d4da1a!2sAv.+22+de+Abril,+Porto+Seguro+-+BA,+45810-000!3b1!8m2!3d-16.4437113!4d-39.0622421!3m4!1s0x73696a8c5a7c601:0xe746f3d8bb758a51!8m2!3d-16.4438382!4d-39.0625414 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+  },
+  {
+    "Id": 555,
+    "Latitude": -9.361348,
+    "Longitude": -40.503526,
+    "Descricao": "Distribuidora de Bebidas Peixoto, R. do Marceneiro, 350 - Antonio Cassimiro, Petrolina - PE, 56321-170 <br><br> <a href=https://www.google.com.br/maps/place/Distribuidora+de+Bebidas+Peixoto/@-9.361361,-40.5057016,17z/data=!3m1!4b1!4m5!3m4!1s0x7737a8d415dd5cd:0x50a9974ba36ccf70!8m2!3d-9.3613663!4d-40.5035129 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   }
 ]
