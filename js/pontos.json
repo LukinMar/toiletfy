@@ -2868,6 +2868,12 @@
     "Descricao": "Dom Atacadista , Estr. dos Bandeirantes, 175 - Taquara, Rio de Janeiro - RJ, 22710-570<br><br> <a href=https://www.google.com.br/maps/place/Dom+Atacadista+Taquara/@-22.9247107,-43.3743751,18z/data=!4m5!3m4!1s0x9bd9d61989d8e1:0x23656f8d79481eaf!8m2!3d-22.9247972!4d-43.373431 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
+    "Id":479,
+    "Latitude":-22.957478,
+    "Longitude":-43.189194,
+    "Descricao": "Cemitério São João Baptista, R. Gen. Polidoro, S/N - Botafogo, Rio de Janeiro - RJ, 22281-033 <br><br> <a href=https://www.google.com/maps/place/Cemit%C3%A9rio+S%C3%A3o+Jo%C3%A3o+Baptista/@-22.9575522,-43.1891487,15z/data=!4m2!3m1!1s0x0:0xc1d417767b3616ca?sa=X&ved=2ahUKEwjU3sWG4bjoAhXQGLkGHdIhAnoQ_BIwG3oECCMQCA target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    },
+  {
     "Id": 480,
     "Latitude": -22.921612,
     "Longitude": -43.370472,
