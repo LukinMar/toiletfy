@@ -27,7 +27,7 @@
     "Id": 5,
     "Latitude": -22.878174,
     "Longitude": -43.34207,
-    "Descricao": "Praça do Patriarca, Rua Agostinho Barbalho - Madureira, Rio de Janeiro - RJ, 21310-130  <br><br> <a href='https://www.google.com.br/maps/place/Pra%C3%A7a+do+Patriarca+-+Madureira,+Rio+de+Janeiro+-+RJ/@-22.8780489,-43.3423854,19z/data=!3m1!4b1!4m5!3m4!1s0x9962db108f845b:0x2c9c60adec3e0bd9!8m2!3d-22.8780927!4d-43.3416866' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Praça do Patriarca, Rua Agostinho Barbalho,  - Madureira, Rio de Janeiro - RJ, 21310-130  <br><br> <a href='https://www.google.com.br/maps/place/Pra%C3%A7a+do+Patriarca+-+Madureira,+Rio+de+Janeiro+-+RJ/@-22.8780489,-43.3423854,19z/data=!3m1!4b1!4m5!3m4!1s0x9962db108f845b:0x2c9c60adec3e0bd9!8m2!3d-22.8780927!4d-43.3416866' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   },
   {
     "Id": 6,
@@ -243,31 +243,31 @@
     "Id": 41,
     "Latitude": -23.193567,
     "Longitude": -45.878209,
-    "Descricao": "Terminal Rodoviário Frederico Ozanam, R. Itororó, 221 - Vila Piratininga, São José dos Campos - SP, 12216-440 <a href='https://www.google.com.br/maps/place/Terminal+Rodovi%C3%A1rio+Frederico+Ozanam/@-23.193572,-45.8803331,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a46e3477e5d:0x74844b1bbc1e5cdb!8m2!3d-23.193572!4d-45.8781444' target='_blank'>Visualize no Google Maps</a>   <br><br> <img src='img/money.png' width='120px'  title='Necessita pagamento' alt='Necessita pagamento'> "
+    "Descricao": "Terminal Rodoviário Frederico Ozanam, R. Itororó, 221 - Vila Piratininga, São José dos Campos - SP, 12216-440 <a href='https://www.google.com.br/maps/place/Terminal+Rodovi%C3%A1rio+Frederico+Ozanam/@-23.193572,-45.8803331,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a46e3477e5d:0x74844b1bbc1e5cdb!8m2!3d-23.193572!4d-45.8781444' target='_blank'>Visualize no Google Maps</a> <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/money.png' width='120px'  title='Necessita pagamento' alt='Necessita pagamento'> "
   },
   {
     "Id": 42,
     "Latitude": -3.094399,
     "Longitude": -60.023329,
-    "Descricao": "Amazonas Shopping, AV. Djalma Batista, 482 - 317 - Parque Dez de Novembro, Manaus - AM, 69050-010 <br><br> <a href='https://www.google.com.br/maps/place/Amazonas+Shopping/@-3.0944183,-60.0253575,17z/data=!3m1!4b1!4m5!3m4!1s0x926c1a9d0a85c941:0x1b2f0d7a0b492315!8m2!3d-3.0944183!4d-60.0231688' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Amazonas Shopping, AV. Djalma Batista, 482 - 317 - Parque Dez de Novembro, Manaus - AM, 69050-010 <br><br> <a href='https://www.google.com.br/maps/place/Amazonas+Shopping/@-3.0944183,-60.0253575,17z/data=!3m1!4b1!4m5!3m4!1s0x926c1a9d0a85c941:0x1b2f0d7a0b492315!8m2!3d-3.0944183!4d-60.0231688' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 43,
     "Latitude": -3.104212,
     "Longitude": -60.012162,
-    "Descricao": "Manauara Shopping, Av. Mário Ypiranga, 1300 - Adrianópolis, Manaus - AM, 69057-002 <br><br> <a href='https://www.google.com.br/maps/place/Manauara+Shopping/@-3.1042329,-60.0142718,17z/data=!3m1!4b1!4m5!3m4!1s0x926c05c904631e07:0x42a7e7746e002754!8m2!3d-3.1042329!4d-60.0120831' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Manauara Shopping, Av. Mário Ypiranga, 1300 - Adrianópolis, Manaus - AM, 69057-002 <br><br> <a href='https://www.google.com.br/maps/place/Manauara+Shopping/@-3.1042329,-60.0142718,17z/data=!3m1!4b1!4m5!3m4!1s0x926c05c904631e07:0x42a7e7746e002754!8m2!3d-3.1042329!4d-60.0120831' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 44,
     "Latitude": -3.10131,
     "Longitude": -60.02531,
-    "Descricao": "Millennium Shopping, Av. Djalma Batista, 1661 - Loja 288 - Chapada, Manaus - AM, 69050-010 <br><br> <a href='https://www.google.com.br/maps/place/Millennium+Shopping/@-3.1014139,-60.0273361,17z/data=!3m1!4b1!4m5!3m4!1s0x926c1aa0c246af8d:0x2bc930e0c897c131!8m2!3d-3.1014139!4d-60.0251474' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Millennium Shopping, Av. Djalma Batista, 1661 - Loja 288 - Chapada, Manaus - AM, 69050-010 <br><br> <a href='https://www.google.com.br/maps/place/Millennium+Shopping/@-3.1014139,-60.0273361,17z/data=!3m1!4b1!4m5!3m4!1s0x926c1aa0c246af8d:0x2bc930e0c897c131!8m2!3d-3.1014139!4d-60.0251474' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 45,
     "Latitude": -3.084791,
     "Longitude": -60.072449,
-    "Descricao": "Shopping Ponta Negra, Av. Coronel Teixeira, 5705 - Ponta Negra, Manaus - AM, 69037-000 <br><br> <a href='https://www.google.com.br/maps/place/Shopping+Ponta+Negra/@-3.0847158,-60.0745733,17z/data=!3m1!4b1!4m5!3m4!1s0x926c11b4d40a6f03:0x333f25f54b616baf!8m2!3d-3.0847158!4d-60.0723846' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Shopping Ponta Negra, Av. Coronel Teixeira, 5705 - Ponta Negra, Manaus - AM, 69037-000 <br><br> <a href='https://www.google.com.br/maps/place/Shopping+Ponta+Negra/@-3.0847158,-60.0745733,17z/data=!3m1!4b1!4m5!3m4!1s0x926c11b4d40a6f03:0x333f25f54b616baf!8m2!3d-3.0847158!4d-60.0723846' target='_blank'>Visualize no Google Maps</a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 46,
@@ -297,7 +297,7 @@
     "Id": 50,
     "Latitude": -22.903283,
     "Longitude": -43.178096,
-    "Descricao": "Work Café Santander, Av. Rio Branco, 115 - Centro, Rio de Janeiro - RJ, 20040-031 <br><br> <a href='https://www.google.com.br/maps/place/Work+Caf%C3%A9+Santander/@-22.9032944,-43.1802765,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8ef24cedb1:0xd3c70c16f5719fed!8m2!3d-22.9032944!4d-43.1780878' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Av. Rio Branco, 115 - Centro, Rio de Janeiro - RJ, 20040-031 <br><br> <a href='https://www.google.com.br/maps/place/Work+Caf%C3%A9+Santander/@-22.9032944,-43.1802765,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8ef24cedb1:0xd3c70c16f5719fed!8m2!3d-22.9032944!4d-43.1780878' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 51,
@@ -309,7 +309,7 @@
     "Id": 52,
     "Latitude": -22.904547,
     "Longitude": -43.175544,
-    "Descricao": "Starbucks, R. do Carmo, 11 - Centro, Rio de Janeiro - RJ, 20011-020 <br><br> <a href='https://www.google.com.br/maps/place/Starbucks+Assembleia+x+Carmo/@-22.9045374,-43.1777313,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5f9d7b7a3b:0x81bf8ab587e1da39!8m2!3d-22.9045374!4d-43.1755426' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Starbucks, R. do Carmo, 11 - Centro, Rio de Janeiro - RJ, 20011-020 <br><br> <a href='https://www.google.com.br/maps/place/Starbucks+Assembleia+x+Carmo/@-22.9045374,-43.1777313,17z/data=!3m1!4b1!4m5!3m4!1s0x997f5f9d7b7a3b:0x81bf8ab587e1da39!8m2!3d-22.9045374!4d-43.1755426' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 53,
@@ -321,31 +321,31 @@
     "Id": 54,
     "Latitude": -22.901319,
     "Longitude": -43.192085,
-    "Descricao": "Banheiros Express, R. Barão de São Félix, 148 - Centro, Rio de Janeiro - RJ, 20221-424 <br><br>  <a href='https://www.google.com.br/maps/place/Banheiros+Express/@-22.9013244,-43.1926363,19z/data=!3m1!4b1!4m5!3m4!1s0x997fd5cdf0ea4d:0x91ceb08ad850bf0b!8m2!3d-22.9013244!4d-43.1920891'target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Banheiros Express, R. Barão de São Félix, 148 - Centro, Rio de Janeiro - RJ, 20221-424 <br><br>  <a href='https://www.google.com.br/maps/place/Banheiros+Express/@-22.9013244,-43.1926363,19z/data=!3m1!4b1!4m5!3m4!1s0x997fd5cdf0ea4d:0x91ceb08ad850bf0b!8m2!3d-22.9013244!4d-43.1920891'target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 55,
     "Latitude": -22.837044,
     "Longitude": -43.317562,
-    "Descricao": "Posto Shell, Av. Braz de Pina, 1823 - Brás de Pina, Rio de Janeiro - RJ, 21235-602 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell/@-22.8370453,-43.3197443,17z/data=!3m1!4b1!4m5!3m4!1s0x997b59994e4e77:0xf7f2a5aeeaaf0d0d!8m2!3d-22.8370453!4d-43.3175556' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Posto Shell, Av. Braz de Pina, 1823 - Brás de Pina, Rio de Janeiro - RJ, 21235-602 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell/@-22.8370453,-43.3197443,17z/data=!3m1!4b1!4m5!3m4!1s0x997b59994e4e77:0xf7f2a5aeeaaf0d0d!8m2!3d-22.8370453!4d-43.3175556' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 56,
     "Latitude": -22.935731,
     "Longitude": -43.183881,
-    "Descricao": "Posto Shell, R. Pinheiro Machado, 83 - Laranjeiras, Rio de Janeiro - RJ, 22231-090 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell+-+Posto+Palacio+Guanabara+Ltda/@-22.9357402,-43.1860702,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8e2fec1c29:0xbaf6de38088ad751!8m2!3d-22.9357402!4d-43.1838815' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Posto Shell, R. Pinheiro Machado, 83 - Laranjeiras, Rio de Janeiro - RJ, 22231-090 <br><br> <a href='https://www.google.com.br/maps/place/Posto+Shell+-+Posto+Palacio+Guanabara+Ltda/@-22.9357402,-43.1860702,17z/data=!3m1!4b1!4m5!3m4!1s0x997f8e2fec1c29:0xbaf6de38088ad751!8m2!3d-22.9357402!4d-43.1838815' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 57,
     "Latitude": -22.951604,
     "Longitude": -43.184757,
-    "Descricao": "Livraria da Travessa, R. Voluntários da Pátria, 97 - Botafogo, Rio de Janeiro - RJ, 22270-000 <br><br> <a href='https://www.google.com.br/maps/place/Livraria+da+Travessa+-+Botafogo/@-22.9516074,-43.1869378,17z/data=!3m1!4b1!4m5!3m4!1s0x997feff8a11ff3:0xfd082e5ba84ccf79!8m2!3d-22.9516074!4d-43.1847491' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Livraria da Travessa, R. Voluntários da Pátria, 97 - Botafogo, Rio de Janeiro - RJ, 22270-000 <br><br> <a href='https://www.google.com.br/maps/place/Livraria+da+Travessa+-+Botafogo/@-22.9516074,-43.1869378,17z/data=!3m1!4b1!4m5!3m4!1s0x997feff8a11ff3:0xfd082e5ba84ccf79!8m2!3d-22.9516074!4d-43.1847491' target='_blank'>Visualize no Google Maps</a>  <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'> <img src='img/PCD.png' width='120px'  title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 58,
     "Latitude": -22.998768,
     "Longitude": -43.35127,
-    "Descricao": "VillageMall, Av. das Américas, 3900 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-102 <br><br> <a href='https://www.google.com.br/maps/place/VillageMall/@-22.9987586,-43.3533898,17z/data=!3m1!4b1!4m5!3m4!1s0x9bda3f82d2ace7:0x72bf7426a75e96f4!8m2!3d-22.9987586!4d-43.3512011' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+    "Descricao": "VillageMall, Av. das Américas, 3900 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-102 <br><br> <a href='https://www.google.com.br/maps/place/VillageMall/@-22.9987586,-43.3533898,17z/data=!3m1!4b1!4m5!3m4!1s0x9bda3f82d2ace7:0x72bf7426a75e96f4!8m2!3d-22.9987586!4d-43.3512011' target='_blank'>Visualize no Google Maps</a><br><br><img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 59,
@@ -2829,7 +2829,7 @@
     "Id": 472,
     "Latitude": -25.434955,
     "Longitude": -49.304755,
-    "Descricao": "Condomínio Edifício Parc Champagnat, R. Padre Anchieta, 2670 - Mercês, Curitiba - PR, 80730-020, Brasil<br><br> <a href=https://www.google.com.br/maps/place/Condom%C3%ADnio+Edif%C3%ADcio+Parc+Champagnat+-+R.+Padre+Anchieta,+2670+-+Bigorrilho,+Curitiba+-+PR,+80730-020/@-25.4349544,-49.3052199,19.25z/data=!4m5!3m4!1s0x94dce3c279d126e5:0x1786be58d543f971!8m2!3d-25.4349554!4d-49.3047602 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Condomínio Edifício Parc Champagnat, R. Padre Anchieta, 2670 - Mercês, Curitiba - PR, 80730-020 <br><br> <a href=https://www.google.com.br/maps/place/Condom%C3%ADnio+Edif%C3%ADcio+Parc+Champagnat+-+R.+Padre+Anchieta,+2670+-+Bigorrilho,+Curitiba+-+PR,+80730-020/@-25.4349544,-49.3052199,19.25z/data=!4m5!3m4!1s0x94dce3c279d126e5:0x1786be58d543f971!8m2!3d-25.4349554!4d-49.3047602 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 473,
@@ -2868,11 +2868,11 @@
     "Descricao": "Dom Atacadista , Estr. dos Bandeirantes, 175 - Taquara, Rio de Janeiro - RJ, 22710-570<br><br> <a href=https://www.google.com.br/maps/place/Dom+Atacadista+Taquara/@-22.9247107,-43.3743751,18z/data=!4m5!3m4!1s0x9bd9d61989d8e1:0x23656f8d79481eaf!8m2!3d-22.9247972!4d-43.373431 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
-    "Id":479,
-    "Latitude":-22.957478,
-    "Longitude":-43.189194,
+    "Id": 479,
+    "Latitude": -22.957478,
+    "Longitude": -43.189194,
     "Descricao": "Cemitério São João Baptista, R. Gen. Polidoro, S/N - Botafogo, Rio de Janeiro - RJ, 22281-033 <br><br> <a href=https://www.google.com/maps/place/Cemit%C3%A9rio+S%C3%A3o+Jo%C3%A3o+Baptista/@-22.9575522,-43.1891487,15z/data=!4m2!3m1!1s0x0:0xc1d417767b3616ca?sa=X&ved=2ahUKEwjU3sWG4bjoAhXQGLkGHdIhAnoQ_BIwG3oECCMQCA target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
-    },
+  },
   {
     "Id": 480,
     "Latitude": -22.921612,
@@ -2931,7 +2931,7 @@
     "Id": 489,
     "Latitude": -1.748075,
     "Longitude": -47.050155,
-    "Descricao": "Santuário Chico Pinto, R. Eduardo Gomes, 117-259, Cap. Poço - PA, 68650-000, Brasil<br><br> <a href=https://www.google.com.br/maps/place/Santuario+Chico+Pinto/@-1.7502082,-47.0532208,16z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMcKwNDUnMDIuMyJTIDQ3wrAwMycyMi45Ilc!3b1!8m2!3d-1.7506394!4d-47.0563729!3m4!1s0x92afd9b366c7f0c1:0x44df7191bb48e86a!8m2!3d-1.7481615!4d-47.0497039 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Santuário Chico Pinto, R. Eduardo Gomes, 117-259, Cap. Poço - PA, 68650-000 <br><br> <a href=https://www.google.com.br/maps/place/Santuario+Chico+Pinto/@-1.7502082,-47.0532208,16z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMcKwNDUnMDIuMyJTIDQ3wrAwMycyMi45Ilc!3b1!8m2!3d-1.7506394!4d-47.0563729!3m4!1s0x92afd9b366c7f0c1:0x44df7191bb48e86a!8m2!3d-1.7481615!4d-47.0497039 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   },
   {
     "Id": 490,
@@ -2985,7 +2985,7 @@
     "Id": 498,
     "Latitude": -22.462019,
     "Longitude": -44.4025529,
-    "Descricao": "Banheiro das Casinhas, Av. Sao Joao Del Rey, 270 - Fazenda da Barra 2, Resende - RJ, 27540-200, Brasil<br><br> <a href=https://www.google.com.br/maps/place/22%C2%B027'43.3%22S+44%C2%B024'09.2%22W/@-22.4617684,-44.4035042,18.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-22.462019!4d-44.4025529 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>"
+    "Descricao": "Banheiro das Casinhas, Av. Sao Joao Del Rey, 270 - Fazenda da Barra 2, Resende - RJ, 27540-200 <br><br> <a href=https://www.google.com.br/maps/place/22%C2%B027'43.3%22S+44%C2%B024'09.2%22W/@-22.4617684,-44.4035042,18.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-22.462019!4d-44.4025529 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'>"
   },
   {
     "Id": 499,
@@ -3015,7 +3015,7 @@
     "Id": 503,
     "Latitude": -25.506375,
     "Longitude": -49.315519,
-    "Descricao": "Banheiro , R. Oribes Correa, 200 - Cidade Industrial De Curitiba, Curitiba - PR, 81450-181, Brasil<br><br> <a href=https://www.google.com.br/maps/place/25%C2%B030'23.8%22S+49%C2%B018'57.0%22W/@-25.5065564,-49.3166241,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-25.5066112!4d-49.31584 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
+    "Descricao": "Banheiro , R. Oribes Correa, 200 - Cidade Industrial De Curitiba, Curitiba - PR, 81450-181 <br><br> <a href=https://www.google.com.br/maps/place/25%C2%B030'23.8%22S+49%C2%B018'57.0%22W/@-25.5065564,-49.3166241,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-25.5066112!4d-49.31584 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/seminfo.png' width='120px' title=' ' alt=' '>"
   },
   {
     "Id": 504,
@@ -3027,7 +3027,7 @@
     "Id": 505,
     "Latitude": -5.189207,
     "Longitude": -37.343151,
-    "Descricao": "Estação Shopping, 2211, Av. Alberto Maranhão, 2189, Mossoró - RN<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Shopping/@-5.1891972,-37.3453592,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06e142adf94b:0x14c6bb4c06ada52a!8m2!3d-5.1892025!4d-37.3431705 target=_blank> Visualize no Google Maps </a>"
+    "Descricao": "Estação Shopping, Av. Alberto Maranhão, 2189 - Centro, Mossoró - RN, 59600-485<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Shopping/@-5.1891972,-37.3453592,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06e142adf94b:0x14c6bb4c06ada52a!8m2!3d-5.1892025!4d-37.3431705 target=_blank> Visualize no Google Maps </a>"
   },
   {
     "Id": 506,
@@ -3039,7 +3039,7 @@
     "Id": 507,
     "Latitude": -5.171895,
     "Longitude": -37.376358,
-    "Descricao": "Partage Shopping Mossoró, Partage Shopping, Av. João da Escóssia, 1515 - Nova Betânia, Mossoró - RN, 59607-330<br><br> <a href=https://www.google.com.br/maps/place/Partage+Shopping+Mossor%C3%B3/@-5.1718686,-37.3786543,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06b8e9b5b56d:0xf4c6bae42ae65be!8m2!3d-5.1718739!4d-37.3764656 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
+    "Descricao": "Partage Shopping Mossoró, Av. João da Escóssia, 1515 - Nova Betânia, Mossoró - RN, 59607-330<br><br> <a href=https://www.google.com.br/maps/place/Partage+Shopping+Mossor%C3%B3/@-5.1718686,-37.3786543,17z/data=!3m1!4b1!4m5!3m4!1s0x7ba06b8e9b5b56d:0xf4c6bae42ae65be!8m2!3d-5.1718739!4d-37.3764656 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/fraldario.png' width='120px' title='Possui fraldário' alt='Possui fraldário'>"
   },
   {
     "Id": 508,
@@ -3081,7 +3081,7 @@
     "Id": 514,
     "Latitude": -6.7529482,
     "Longitude": -43.0152824,
-    "Descricao": "Unidade Básica de Saúde Vereda Grande, Beco Excluir, 195 - Vereda Grande, Barão de Grajaú - MA, 65660-000, Brasil<br><br> <a href=https://www.google.com.br/maps/place/6%C2%B045'10.6%22S+43%C2%B000'55.0%22W/@-6.7529429,-43.0174711,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-6.7529482!4d-43.0152824 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Unidade Básica de Saúde Vereda Grande, Beco Excluir, 195 - Vereda Grande, Barão de Grajaú - MA, 65660-000 <br><br> <a href=https://www.google.com.br/maps/place/6%C2%B045'10.6%22S+43%C2%B000'55.0%22W/@-6.7529429,-43.0174711,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-6.7529482!4d-43.0152824 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 515,
@@ -3099,7 +3099,7 @@
     "Id": 517,
     "Latitude": -22.918722,
     "Longitude": -43.250606,
-    "Descricao": "Shopping Boulevard, Shopping Boulevard<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Boulevard/@-22.9184696,-43.2498867,17z/data=!4m5!3m4!1s0x997e752d14790f:0xdb7de25e927cfc9a!8m2!3d-22.9187536!4d-43.2505687 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+    "Descricao": "Shopping Boulevard, Rua Barão de São Francisco, 236 - Shopping Boulevard - Vila Isabel, 20560-030<br><br> <a href=https://www.google.com.br/maps/place/Shopping+Boulevard/@-22.9184696,-43.2498867,17z/data=!4m5!3m4!1s0x997e752d14790f:0xdb7de25e927cfc9a!8m2!3d-22.9187536!4d-43.2505687 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 518,
@@ -3153,7 +3153,7 @@
     "Id": 526,
     "Latitude": -12.924303,
     "Longitude": -38.467546,
-    "Descricao": "Estação Pirajá, s/n Granjas Rurais Presidentes Vargas, R. da Indonésia - Granjas Rurais Pres. Vargas, Salvador - BA<br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Piraj%C3%A1/@-12.9242251,-38.4697221,17z/data=!3m1!4b1!4m5!3m4!1s0x716100c42ffe44f:0xc1ffd829108a6a0c!8m2!3d-12.9242303!4d-38.4675334 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>"
+    "Descricao": "Estação Pirajá, s/n Granjas Rurais Presidentes Vargas, R. da Indonésia - Granjas Rurais Pres. Vargas, Salvador - BA, 41301-110 <br><br> <a href=https://www.google.com.br/maps/place/Esta%C3%A7%C3%A3o+Piraj%C3%A1/@-12.9242251,-38.4697221,17z/data=!3m1!4b1!4m5!3m4!1s0x716100c42ffe44f:0xc1ffd829108a6a0c!8m2!3d-12.9242303!4d-38.4675334 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/money.png' width='120px' title='Necessita pagamento'  alt='Necessita pagamento'>"
   },
   {
     "Id": 527,
@@ -3231,7 +3231,7 @@
     "Id": 539,
     "Latitude": -1.442036,
     "Longitude": -48.495292,
-    "Descricao": "Terminal Hidroviário De Belém Luiz Rebelo Neto, Av. Mal. Hermes, 901 150 - Umarizal, Belém - PA<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Hidrovi%C3%A1rio+De+Bel%C3%A9m+%22Luiz+Rebelo+Neto%22/@-1.4420098,-48.4975066,17z/data=!3m1!4b1!4m5!3m4!1s0x92a48ebefbdc71d1:0x92150ccc2b9ca8e8!8m2!3d-1.4420152!4d-48.4953179 target=_blank> Visualize no Google Maps </a> <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Terminal Hidroviário De Belém Luiz Rebelo Neto, Av. Mal. Hermes, 901 150 - Umarizal, Belém - PA, 66053-150<br><br> <a href=https://www.google.com.br/maps/place/Terminal+Hidrovi%C3%A1rio+De+Bel%C3%A9m+%22Luiz+Rebelo+Neto%22/@-1.4420098,-48.4975066,17z/data=!3m1!4b1!4m5!3m4!1s0x92a48ebefbdc71d1:0x92150ccc2b9ca8e8!8m2!3d-1.4420152!4d-48.4953179 target=_blank> Visualize no Google Maps </a> <br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 540,
@@ -3273,13 +3273,13 @@
     "Id": 546,
     "Latitude": -23.265685,
     "Longitude": -47.308845,
-    "Descricao": "Igreja Adventista do Sétimo Dia - Central, R. João Januário Pamplona, 415 - Jardim Santa Tereza, Itu - SP <br><br> <a href=https://www.google.com.br/maps/place/Igreja+Adventista+do+S%C3%A9timo+Dia+-+Central/@-23.2657207,-47.3089779,21z/data=!4m5!3m4!1s0x94cf5014777102f3:0xb9500698b814f7c0!8m2!3d-23.265714!4d-47.3088407 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Igreja Adventista do Sétimo Dia - Central, R. João Januário Pamplona, 415 - Vila Sao Francisco, Itu - SP, 13311-050 - SP <br><br> <a href=https://www.google.com.br/maps/place/Igreja+Adventista+do+S%C3%A9timo+Dia+-+Central/@-23.2657207,-47.3089779,21z/data=!4m5!3m4!1s0x94cf5014777102f3:0xb9500698b814f7c0!8m2!3d-23.265714!4d-47.3088407 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/5estrelas.png'  width='170px' title='5 estrelas' alt='5 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 547,
     "Latitude": -15.835766,
     "Longitude": -48.056443,
-    "Descricao": "Alameda Shopping, St. B Sul CSB 2 - Taguatinga, Brasília - DF, 72015-901 <br><br> Observação:  <br><br> <a href=https://www.google.com.br/maps/place/Alameda+Shopping/@-15.8357608,-48.0587013,17z/data=!3m1!4b1!4m5!3m4!1s0x935a32eb9657e16f:0x4153e84da2a38cae!8m2!3d-15.835766!4d-48.0565073 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
+    "Descricao": "Alameda Shopping, St. B Sul CSB 2 - Taguatinga, Brasília - DF, 72015-901  <br><br> <a href=https://www.google.com.br/maps/place/Alameda+Shopping/@-15.8357608,-48.0587013,17z/data=!3m1!4b1!4m5!3m4!1s0x935a32eb9657e16f:0x4153e84da2a38cae!8m2!3d-15.835766!4d-48.0565073 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/4estrelas.png'  width='170px' title='4 estrelas' alt='4 estrelas'><img src='img/pcdfrald.png' width='120px' title='Possui banheiro adaptado e possui fraldário' alt='Possui banheiro adaptado e possui fraldário'>"
   },
   {
     "Id": 548,
@@ -3291,7 +3291,7 @@
     "Id": 549,
     "Latitude": -21.785906,
     "Longitude": -46.565203,
-    "Descricao": "Terminal De Linhas urbanas De Poços De Caldas, Rio Pardo,, Poços de Caldas - MG <br><br> <a href=https://www.google.com.br/maps/place/Terminal+De+Linhas+urbanas+De+Po%C3%A7os+De+Caldas/@-21.7860467,-46.565377,20.75z/data=!4m5!3m4!1s0x94c9dcef69ac6883:0xfce10af28a620b71!8m2!3d-21.7858955!4d-46.565185 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
+    "Descricao": "Terminal De Linhas urbanas De Poços De Caldas, Av. Francisco Salles, 279 - Centro, Poços de Caldas - MG, 37701-703 <br><br> <a href=https://www.google.com.br/maps/place/Terminal+De+Linhas+urbanas+De+Po%C3%A7os+De+Caldas/@-21.7860467,-46.565377,20.75z/data=!4m5!3m4!1s0x94c9dcef69ac6883:0xfce10af28a620b71!8m2!3d-21.7858955!4d-46.565185 target=_blank> Visualize no Google Maps </a><br><br> <img src='img/3estrelas.png'  width='170px' title='3 estrelas' alt='3 estrelas'><img src='img/PCD.png' width='120px' title='Possui banheiro adaptado' alt='Possui banheiro adaptado'>"
   },
   {
     "Id": 550,
