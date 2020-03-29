@@ -257,7 +257,7 @@ function abrirInfoBox(e, o) {
     (idInfoBoxAberto = e);
 }
 function carregarPontos() {
-  $.getJSON("http://192.241.133.153/banheiros", function(e) {
+  $.getJSON("https://cors-anywhere.herokuapp.com/http://192.241.133.153/banheiros", function(e) {
     var r = new google.maps.LatLngBounds();
     $.each(e, function(e, o) {
       var t = new google.maps.Marker({
