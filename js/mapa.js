@@ -97,8 +97,8 @@ function initialize() {
     enableHighAccuracy: true,
     maximumAge: 1000,
     timeout: 5000,
-    center: new google.maps.LatLng(-23.2971146,-59.3306172),
-    zoom:3.3,
+    center: new google.maps.LatLng(-23.2971146, -59.3306172),
+    zoom: 3.3,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     disableDefaultUI: false,
     rotateControl: true,
@@ -257,7 +257,7 @@ function abrirInfoBox(e, o) {
     (idInfoBoxAberto = e);
 }
 function carregarPontos() {
-  $.getJSON("https://toiletfy.herokuapp.com/js/pontos.json", function(e) {
+  $.getJSON("http://192.241.133.153/banheiros", function(e) {
     var r = new google.maps.LatLngBounds();
     $.each(e, function(e, o) {
       var t = new google.maps.Marker({

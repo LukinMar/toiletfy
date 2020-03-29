@@ -21,13 +21,13 @@
         <a class="brand-logo center">ToiletFY</a>
         <ul class="right hide-on-med-and-down">
           <li>
-            <a href="index.html"><i class="material-icons">home</i></a>
+            <a href="index.html" title="Página inicial"><i class="material-icons">home</i></a>
           </li>
           <li>
-            <a href="reportar.html"><i class="material-icons">report_problem</i></a>
+            <a href="reportar.html" title="Reportar erros"><i class="material-icons">report_problem</i></a>
           </li>
           <li>
-            <a href="sobre.html"><i class="material-icons">info</i></a>
+            <a href="sobre.html" title="Sobre ToiletFY"><i class="material-icons">info</i></a>
           </li>
         </ul>
 
@@ -58,19 +58,19 @@
     </nav>
   </div>
     <div class="containers">  
-      <form id="contacts" autocorrect="off" name="adicionar" autocomplete="off" action="https://docs.google.com/forms/d/e/1FAIpQLSeKnpsCWPgFcpbKwKtbuaPDzXytl_zqA5mvepC36l4RR3NMuw/formResponse" method="post" target="_self" id="mG61Hd">
+      <div id="contacts" autocorrect="off" name="adicionar" autocomplete="off" method="post">
         <h3>Adicionar banheiro</h3>
         <br>
         <fieldset class="fs">
-        <input id="nome" name="entry.1361815311" placeholder="Seu nome" type="text" tabindex="1" required autofocus>
+        <input id="nome" name="nome" placeholder="Seu nome" type="text" tabindex="1" autofocus>
       </fieldset>
       <fieldset class="fs">
-        <input  class="input-field" name="entry.2039486100" placeholder="Nome do local" type="text"  tabindex="2" required>
+        <input  class="input-field" id="nomelocal" name="nomelocal" placeholder="Nome do local" type="text"  tabindex="2" required>
       </fieldset>
       <fieldset class="fs"> 
-        <input  class="input-field localizacao" id="endereco"  type="text" name="entry.1169249885"  placeholder="Endereço" tabindex="3" required>
-        <div class="location" id="showMe"></div>
-        <button type="button" class="waves-effect waves-light btn center-align procurar"><i class="material-icons left">search</i>Procurar no mapa</button>
+        <input  class="input-field localizacao" name="endereco" id="endereco"  type="text"  placeholder="Endereço"  readonly tabindex="3" required>
+        <div class="location" id="showMe"title="Usar minha localização"></div>
+        <button type="button" class="waves-effect waves-light btn center-align procurar" title="Procurar local no mapa"><i class="material-icons left">search</i>Procurar no mapa</button>
           <div class="pesquisarmapa">
           <div class="content">
           <div id="map"></div>
@@ -82,19 +82,19 @@
           <legend>Informações</legend>
           <p>
           <label>
-            <input type="checkbox" class="filled-in checkbox1" name="informacoes" value="Necessita pagamento para usar" id="pagamento" onClick="addToList(this, 'textarea1'); verificar()"> 
+            <input type="checkbox" class="filled-in checkbox1 informacoes" name="informacoes[]" value="Necessita pagamento para usar" id="pagamento"> 
             <span>Necessita pagamento para usar <i class="fas fa-money-bill-alt green"></i></span>
           </label>
         </p>
         <p>
           <label>
-            <input type="checkbox" class="filled-in checkbox1"  name="informacoes" value="Banheiro adaptado para PcD" id="adaptado" onClick="addToList(this, 'textarea1'); verificar()"> 
+            <input type="checkbox" class="filled-in checkbox1 informacoes"  name="informacoes[]" value="Banheiro adaptado para PcD" id="adaptado"> 
             <span>Banheiro adaptado para PcD  <i class="fab fa-accessible-icon blue"></i></span>
           </label>
         </p>
         <p>
           <label>
-            <input type="checkbox" class="filled-in checkbox1"  name="informacoes" value="Possui fraldário" id="fraldario" onClick="addToList(this, 'textarea1'); verificar()"> 
+            <input type="checkbox" class="filled-in checkbox1 informacoes"  name="informacoes[]" value="Possui fraldário" id="fraldario"> 
             <span>Possui fraldário <i class="fas fa-baby pink"></i></span>
           </label>
         </p>
@@ -103,99 +103,75 @@
         <legend>Avaliação</legend>
         <div class="rating">
           <br><br>
-          <input type="radio" name="star" id="star5" value="5"><label for="star5"></label>
-          <input type="radio" name="star" id="star4" value="4"><label for="star4"></label>
-          <input type="radio" name="star" id="star3" value="3"><label for="star3"></label>
-          <input type="radio" name="star" id="star2" value="2"><label for="star2"></label>
-          <input type="radio" name="star" id="star1" required value="1"><label for="star1"></label>
+              <input type="radio" name="star" id="star5" value="<img src=''img/5estrelas.png''  width=''170px'' title=''5 estrelas'' alt=''5 estrelas''>" required><label for="star5"></label>
+              <input type="radio" name="star" id="star4" value="<img src=''img/4estrelas.png''  width=''170px'' title=''4 estrelas'' alt=''4 estrelas''>"><label for="star4"></label>
+              <input type="radio" name="star" id="star3" value="<img src=''img/3estrelas.png''  width=''170px'' title=''3 estrelas'' alt=''3 estrelas''>"><label for="star3"></label>
+              <input type="radio" name="star" id="star2" value="<img src=''img/2estrelas.png''  width=''170px'' title=''2 estrelas'' alt=''2 estrelas''>"><label for="star2"></label>
+              <input type="radio" name="star" id="star1" value="<img src=''img/1estrela.png''  width=''170px'' title=''1 estrela''  alt=''1 estrela''>"><label for="star1"></label>
         </div>
         </fieldset>
         <fieldset class="fs">
           <legend>Observação</legend>
-          <textarea class="input-field" name="entry.1638322812" placeholder ="Alguma observação sobre o uso do banheiro?" class="textarea"></textarea>
+          <textarea class="input-field" name="observacao" placeholder ="Alguma observação sobre o uso do banheiro?" id="obs" tabindex="4" class="textarea"></textarea>
         </fieldset>
         <fieldset class="fs">
-            <textarea class="input-field" class="textarea1" name="entry.1233615498" id="textarea1">Sem informação</textarea>
-            <input id="inputavaliacao" type="text" name="entry.812291586" value="Sem avaliação">
-            <input id="valorlat" type="text" name="entry.283967867" readonly value="">
-            <input id="valorlong" type="text" name="entry.895813622" readonly value="">
-          <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="submit" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
+            <textarea class="input-field" class="textarea1" name="informacao" id="textarea1"><img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''></textarea>
+            <input id="inputavaliacao" type="text" name="avaliacao" value="Sem avaliação">
+            <input id="valorlat" type="text" name="latitude" readonly value="">
+            <input id="valorlong" type="text" name="longitude" readonly value="">
+           <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="button" onclick="adicionar()" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
             cloud_upload</i>ENVIAR</button>
         </fieldset>
-      </form>
+      </div>
     </div>
     <script src="js/jquery.min.js"></script>
-    <script
-    type="text/javascript"
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"
-  ></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"></script>
     <script src="js/marcador.js"></script>
     <script src="js/map.js"></script>
     <script src="js/materialize.js"></script>
+    <script src="js/adicionar.js"></script>
     <script src="js/init.js"></script>
-    <script id="base-js" src="https://www.gstatic.com/_/freebird/_/js/k=freebird.v.pt_BR.BRuqPXBT82Y.O/d=1/rs=AMjVe6i0CftiZtE_TW5fsIHLoGuxPYbbTQ/m=viewer_base" nonce=""></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="js/jquery.min.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
-<script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
+    <script>
 
-$('input[id=star1]').change(function(e) {
-  $('#inputavaliacao').val(e.target.value)
-});
-$('input[id=star2]').change(function(e) {
-  $('#inputavaliacao').val(e.target.value)
-});
-$('input[id=star3]').change(function(e) {
-  $('#inputavaliacao').val(e.target.value)
-});
-$('input[id=star4]').change(function(e) {
-  $('#inputavaliacao').val(e.target.value)
-});
-$('input[id=star5]').change(function(e) {
-  $('#inputavaliacao').val(e.target.value)
-});
+      async function adicionar() {
+        var nome = document.getElementById("nome").value;
+        var nomelocal = document.getElementById("nomelocal").value;
+        var endereco = document.getElementById("endereco").value;
+        var observacao = document.getElementById("obs").value;
+        var avaliacao = document.getElementById("inputavaliacao").value;
+        var informacao = document.getElementById("textarea1").value;
+        var valorlat = document.getElementById("valorlat").value;
+        var valorlong = document.getElementById("valorlong").value;
+        var rating = $('input[name="star"]:checked').val();
 
-$(".procurar").click(function(){
-  $(".content").slideToggle("fast");
-});
+        if (nomelocal == "") return alert('O nome do local não pode ficar em branco')
+        if (endereco == "") return alert('O endereço não pode ficar em branco')
+        if (rating == null) return alert("Por favor, avalie o banheiro!");
 
-  var listCheckedOptions= [];
-  
-  function addToList(checkObj, outputObjID)
-                {
-                  if (listCheckedOptions.indexOf(checkObj.value) >= 0) {
-                    listCheckedOptions.splice(listCheckedOptions.indexOf(checkObj.value), 1);
-                  } else { 
-                    listCheckedOptions.push(checkObj.value);                    
-                  }
+        const response = await axios.post("http://192.241.133.153/adicionarbanheiro", {
+          nome: nome,
+          nomelocal: nomelocal,
+          endereco: endereco,
+          observacao:observacao,
+          avaliacao: avaliacao,
+          informacao: informacao,
+          latitude: valorlat,
+          longitude: valorlong
+        });
 
-                  document.getElementById(outputObjID).value = "";
-                  document.getElementById(outputObjID).value = listCheckedOptions.join(';\r\n');
+        console.log(response.data);
 
-                  return;
-                }
-
-                function verificar() {
-                  var Marcados = 1;
-                  var objCheck = document.forms['adicionar'].elements['informacoes'];
-
-                  for (var iLoop = 0; iLoop<objCheck.length; iLoop++) {
-                          if (Marcados <= 5) {
-                                  if (objCheck[iLoop].checked) {
-                                          Marcados++;
-                                  }
-                                          for (var i=0; i<objCheck.length; i++) {
-                                                  objCheck[i].disabled = false;
-                                          }       
-                          } else {
-                                  for (var i=0; i<objCheck.length; i++) {
-                                          if(objCheck[i].checked == false) {
-                                                  objCheck[i].disabled = true;
-                                          }       
-                                  }
-                          }
-                  }
-                  }
-</script>
+        if (response.data.affectedRows == "1") {
+          alert("Banheiro adicionado com sucesso!");
+          $(':input', '#contacts')
+          .not(':button, :submit, :reset, :hidden')
+          .val('')
+          .removeAttr('checked')
+          .removeAttr('selected');
+        }
+      }
+    </script>
 </body>
 </html>
