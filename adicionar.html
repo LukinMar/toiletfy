@@ -124,6 +124,7 @@
         </fieldset>
       </div>
     </div>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="js/jquery.min.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"></script>
     <script src="js/marcador.js"></script>
@@ -146,9 +147,9 @@
         var valorlong = document.getElementById("valorlong").value;
         var rating = $('input[name="star"]:checked').val();
 
-        if (nomelocal == "") return alert('O nome do local não pode ficar em branco')
-        if (endereco == "") return alert('O endereço não pode ficar em branco')
-        if (rating == null) return alert("Por favor, avalie o banheiro!");
+        if (nomelocal == "") return swal('O nome do local não pode ficar em branco')
+        if (endereco == "") return swal('O endereço não pode ficar em branco')
+        if (rating == null) return swal("Por favor, avalie o banheiro!");
 
         const response = await axios.post("http://192.241.133.153/adicionarbanheiro", {
           nome: nome,
@@ -164,7 +165,7 @@
         console.log(response.data);
 
         if (response.data.affectedRows == "1") {
-          alert("Banheiro adicionado com sucesso!");
+          swal("Obrigado","Banheiro adicionado com sucesso!", "success");
           $(':input', '#contacts')
           .not(':button, :submit, :reset, :hidden')
           .val('')
