@@ -103,11 +103,11 @@
         <legend>Avaliação</legend>
         <div class="rating">
           <br><br>
-              <input type="radio" name="star" id="star5" value="<img src=''img/5estrelas.png''  width=''170px'' title=''5 estrelas'' alt=''5 estrelas''>" required><label for="star5"></label>
-              <input type="radio" name="star" id="star4" value="<img src=''img/4estrelas.png''  width=''170px'' title=''4 estrelas'' alt=''4 estrelas''>"><label for="star4"></label>
-              <input type="radio" name="star" id="star3" value="<img src=''img/3estrelas.png''  width=''170px'' title=''3 estrelas'' alt=''3 estrelas''>"><label for="star3"></label>
-              <input type="radio" name="star" id="star2" value="<img src=''img/2estrelas.png''  width=''170px'' title=''2 estrelas'' alt=''2 estrelas''>"><label for="star2"></label>
-              <input type="radio" name="star" id="star1" value="<img src=''img/1estrela.png''  width=''170px'' title=''1 estrela''  alt=''1 estrela''>"><label for="star1"></label>
+              <input type="radio" name="star" id="star5"  required><label for="star5"></label>
+              <input type="radio" name="star" id="star4"><label for="star4"></label>
+              <input type="radio" name="star" id="star3"><label for="star3"></label>
+              <input type="radio" name="star" id="star2"><label for="star2"></label>
+              <input type="radio" name="star" id="star1"><label for="star1"></label>
         </div>
         </fieldset>
         <fieldset class="fs">
@@ -116,7 +116,7 @@
         </fieldset>
         <fieldset class="fs">
             <textarea class="input-field" class="textarea1" name="informacao" id="textarea1"><img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''></textarea>
-            <input id="inputavaliacao" type="text" name="avaliacao" value="Sem avaliação">
+            <input id="inputavaliacao" type="text" name="avaliacao" readonly value="Sem avaliação">
             <input id="valorlat" type="text" name="latitude" readonly value="">
             <input id="valorlong" type="text" name="longitude" readonly value="">
            <button id="submit" name="submit" class=" waves-effect waves-light btn center-align" type="button" onclick="adicionar()" id="contact-submit" data-submit="Enviando..."><i class="material-icons left">
@@ -136,6 +136,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
     <script>
 
+      var textarea = $("#textarea1").clone();
+
       async function adicionar() {
         var nome = document.getElementById("nome").value;
         var nomelocal = document.getElementById("nomelocal").value;
@@ -147,11 +149,11 @@
         var valorlong = document.getElementById("valorlong").value;
         var rating = $('input[name="star"]:checked').val();
 
-        if (nomelocal == "") return swal('O nome do local não pode ficar em branco')
-        if (endereco == "") return swal('O endereço não pode ficar em branco')
+        if (nomelocal == "") return swal('O nome do local não pode ficar em branco');
+        if (endereco == "") return swal('O endereço não pode ficar em branco');
         if (rating == null) return swal("Por favor, avalie o banheiro!");
 
-        const response = await axios.post("https://cors-anywhere.herokuapp.com/http://192.241.133.153/adicionarbanheiro", {
+        const response = await axios.post("http://192.241.133.153/adicionarbanheiro", {
           nome: nome,
           nomelocal: nomelocal,
           endereco: endereco,
@@ -171,6 +173,7 @@
           .val('')
           .removeAttr('checked')
           .removeAttr('selected');
+          $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>")
         }
       }
     </script>
