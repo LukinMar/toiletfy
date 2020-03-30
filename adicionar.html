@@ -153,7 +153,7 @@
         if (endereco == "") return swal('O endereço não pode ficar em branco');
         if (rating == null) return swal("Por favor, avalie o banheiro!");
 
-        const response = await axios.post("http://192.241.133.153/adicionarbanheiro", {
+        const response = await axios.post("https://cors-anywhere.herokuapp.com/http://192.241.133.153/adicionarbanheiro", {
           nome: nome,
           nomelocal: nomelocal,
           endereco: endereco,
