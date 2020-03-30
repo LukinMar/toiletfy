@@ -1,22 +1,24 @@
+$('input[type="radio"]').click(function () {
+var avaliacao = [];
+if  ($('#star1').is(':checked')){
+avaliacao = "<img src=''img/1estrela.png''  width=''170px'' title=''1 estrela''  alt=''1 estrela''>"
+}else if ($('#star2').is(':checked')){
+avaliacao = "<img src=''img/2estrelas.png''  width=''170px'' title=''2 estrelas''  alt=''2 estrelas''>"
+}else if ($('#star3').is(':checked')){
+  avaliacao = "<img src=''img/3estrelas.png''  width=''170px'' title=''3 estrelas''  alt=''3 estrelas''>"
+}else if ($('#star4').is(':checked')){
+  avaliacao = "<img src=''img/4estrelas.png''  width=''170px'' title=''4 estrelas''  alt=''4 estrelas''>"
+}else if ($('#star5').is(':checked')){
+  avaliacao = "<img src=''img/5estrelas.png''  width=''170px'' title=''5 estrelas''  alt=''5 estrelas''>"
+}else{
+  avaliacao = "Sem avaliação";
+}
 
-$('input[id=star1]').change(function(e) {
-    $('#inputavaliacao').val(e.target.value)
-  });
-  $('input[id=star2]').change(function(e) {
-    $('#inputavaliacao').val(e.target.value)
-  });
-  $('input[id=star3]').change(function(e) {
-    $('#inputavaliacao').val(e.target.value)
-  });
-  $('input[id=star4]').change(function(e) {
-    $('#inputavaliacao').val(e.target.value)
-  });
-  $('input[id=star5]').change(function(e) {
-    $('#inputavaliacao').val(e.target.value)
-  });
-  
+$('#inputavaliacao').val(avaliacao)
 
-  
+});
+
+
   $(".procurar").click(function(){
     $(".content").slideToggle("fast");
   });
