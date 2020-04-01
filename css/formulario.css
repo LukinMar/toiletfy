@@ -303,6 +303,12 @@ input[type="radio"]:checked + span:after {
 #lukinmar {
   color: #fff !important;
 }
+
+.swal-text{
+  text-align: center;
+
+}
+
 .btn,
 .btn-flat,
 .btn-large,
