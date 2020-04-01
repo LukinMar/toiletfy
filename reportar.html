@@ -103,14 +103,21 @@
           longitude: valorlong
         });
 
-        if(nomelocal == "") return swal('O nome do local não pode ficar em branco')
-        if(endereco == "") return swal('O endereço não pode ficar em branco')
-        if (descricao == "") return swal("Por favor, informe o problema!");
+        if(nomelocal == "") return swal("Atenção", "O nome do local não pode ficar em branco!", "warning");
+        if(endereco == "") return swal("Atenção","O endereço não pode ficar em branco!", "warning");
+        if (descricao == "") return swal("Atenção","Por favor, informe o problema!", "warning");
 
         console.log(response.data);
         
         if (response.data.affectedRows == "1") {
           swal("Obrigado","Dados reportados com sucesso!", "success");
+          $(':input', '#contacts')
+          .not(':button, :submit, :reset, :hidden')
+          .val('')
+          .removeAttr('checked')
+          .removeAttr('selected');
+        }else{
+          swal("Erro","Ocorreu um problema ao reportar, tente novamente!", "error");
           $(':input', '#contacts')
           .not(':button, :submit, :reset, :hidden')
           .val('')
