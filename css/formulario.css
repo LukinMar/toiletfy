@@ -2735,3 +2735,7 @@ textarea {
 .swal-button:hover{
   background-color:  #96c !important;
 }
+
+.swal-button:active {
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px inset;
+}
