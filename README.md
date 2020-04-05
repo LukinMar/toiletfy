@@ -53,5 +53,6 @@ it enables wrapping up of CSS, HTML, and JavaScript. It extends the features of 
 <a href="https://toiletfy.herokuapp.com"> <img src="https://i.imgur.com/3XmS5mN.png" width="200" target="_blank" title="ToiletFY na Internet"> </a> &nbsp
 <a href="https://play.google.com/store/apps/details?id=io.cordova.toiletfy"/> <img src="https://i.imgur.com/RxkDApU.png" width="200" target="_blank" title="ToiletFY na Google Play"> </a> 
 </p>
-<p><img src="https://i.imgur.com/sQLv1cL.png" width="150" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
+<br>
+<p align="right"><img src="https://i.imgur.com/sQLv1cL.png" width="150" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
 
