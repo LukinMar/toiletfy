@@ -32,7 +32,7 @@ With that in mind, I developed this application, as a form of study, where with 
 </p>
 
 <p>
-The application was developed with the help of the <i> Google Maps API </i>, using the <i> Places </i> library, the locations are loaded into the map from the Bathrooms API. The application was developed using HTML, CSS, JavaScript, NodeJS for the server side and MySQL as a relational database.
+The application was developed with the help of the <i> Google Maps API</i>, using the <i> Places </i> library, the locations are loaded into the map from the Bathrooms API. The application was developed using HTML, CSS, JavaScript, NodeJS for the server side and MySQL as a relational database.
 </p>
 
 <p>
@@ -51,8 +51,8 @@ it enables wrapping up of CSS, HTML, and JavaScript. It extends the features of 
 <br>
 <p align="center">
 <a href="https://toiletfy.herokuapp.com"> <img src="https://i.imgur.com/3XmS5mN.png" width="200" target="_blank" title="ToiletFY na Internet"> </a> &nbsp
-<a href="https://play.google.com/store/apps/details?id=io.cordova.toiletfy"/> <img src="https://i.imgur.com/RxkDApU.png" width="200" target="_blank" title="ToiletFY na Google Play"> </a> 
+<a href="https://play.google.com/store/apps/details?id=io.cordova.toiletfy"> <img src="https://i.imgur.com/RxkDApU.png" width="200" target="_blank" title="ToiletFY na Google Play"> </a> 
 </p>
 <br>
-<p align="right"><img src="https://i.imgur.com/sQLv1cL.png" width="150" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
+<p align="right"><img src="https://i.imgur.com/sQLv1cL.png" width="200" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
 
