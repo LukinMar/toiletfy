@@ -17,6 +17,7 @@
  
  <p>
  O Apache Cordova estende os recursos de HTML e JavaScript para trabalhar com o dispositivo resultando em aplicativos híbridos, ou seja, nem aplicativos móveis nativos (porque toda a renderização de layout é feita através de visualizações da Web em vez da estrutura de interface de usuário nativa da plataforma) nem puramente baseados na Web (porque não são apenas aplicativos da Web, mas são empacotados como aplicativos para distribuição e para que tenham acesso a APIs de dispositivos nativos).
+ 
 <a href="https://cordova.apache.org/docs/en/latest/">Documentação - Apache Cordova</a>
 </p>
 
@@ -52,8 +53,5 @@ it enables wrapping up of CSS, HTML, and JavaScript. It extends the features of 
 <a href="https://toiletfy.herokuapp.com"> <img src="https://i.imgur.com/3XmS5mN.png" width="200" target="_blank" title="ToiletFY na Internet"> </a> &nbsp
 <a href="https://play.google.com/store/apps/details?id=io.cordova.toiletfy"/> <img src="https://i.imgur.com/RxkDApU.png" width="200" target="_blank" title="ToiletFY na Google Play"> </a> 
 </p>
-<br>
-
-<hr>
-<p align="right"><img src="https://i.imgur.com/sQLv1cL.png" width="250" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
+<p><img src="https://i.imgur.com/sQLv1cL.png" width="150" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
 
