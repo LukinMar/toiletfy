@@ -50,7 +50,7 @@ it enables wrapping up of CSS, HTML, and JavaScript. It extends the features of 
 
 <br>
 <p align="center">
-<a href="https://toiletfy.herokuapp.com"><img src="https://i.imgur.com/3XmS5mN.png" width="200" target="_blank" title="ToiletFY na Internet"></a>&nbsp
+<a href="https://toiletfy.herokuapp.com"><img src="https://i.imgur.com/3XmS5mN.png" width="200" target="_blank" title="ToiletFY na Internet"></a>
 <a href="https://play.google.com/store/apps/details?id=io.cordova.toiletfy"> <img src="https://i.imgur.com/RxkDApU.png" width="200" target="_blank" title="ToiletFY na Google Play"> </a> 
 </p>
 <br>
