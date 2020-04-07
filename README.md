@@ -24,7 +24,7 @@
 <hr>
 
 <p>
-Finding a public bathroom, clean and organized, is a rather complicated task for most people, especially tourists who don't know anything about where they are, application drivers (Uber, Lyft) and people who have some digestive diseases such as irritable bowel syndrome , Crohn's disease and intolerance to certain foods.
+Finding a public bathroom, clean and organized, is a rather complicated task for most people, especially tourists who don't know anything about where they are, application drivers (Uber, Lyft, Cabify) and people who have some digestive diseases such as irritable bowel syndrome , Crohn's disease and intolerance to certain foods.
 </p>
  
 <p>
