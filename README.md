@@ -48,6 +48,12 @@ it enables wrapping up of CSS, HTML, and JavaScript. It extends the features of 
 
 <hr>
 
+<p align="center">
+ <img src="https://i.imgur.com/2qKrGEr.png" width="210" target="_blank"  alt="plash-Screen and HomePage" title="Splash-Screen and HomePage">
+ <img src="https://i.imgur.com/Q1iH38q.png" width="210" target="_blank"  alt="Emergency-Alert and HomePage-Menu" title="Emergency-Alert and HomePage-Menu">
+ <img src="https://i.imgur.com/YZo2V8r.png" width="210" target="_blank"  alt="Add new bathroom" title="Add new bathroom">
+ <img src="https://i.imgur.com/21PhQag.png" width="210" target="_blank"  alt="Report-Issue and Report-Issue-Menu" title="Report-Issue and Report-Issue-Menu">
+</p>
 <br>
 <p align="center">
 <a href="https://toiletfy.herokuapp.com"><img src="https://i.imgur.com/3XmS5mN.png" width="200" target="_blank" title="ToiletFY na Internet"></a>
