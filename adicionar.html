@@ -132,7 +132,6 @@
     <script src="js/materialize.js"></script>
     <script src="js/adicionar.js"></script>
     <script src="js/init.js"></script>
-    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
     <script>
 
@@ -149,41 +148,41 @@
         var valorlong = document.getElementById("valorlong").value;
         var rating = $('input[name="star"]:checked').val();
 
-      if (nomelocal == "") return swal("Atenção", "O nome do local não pode ficar em branco!", "warning");
-      if (endereco == "") return swal("Atenção","O endereço não pode ficar em branco!", "warning");
-      if (rating == null) return swal("Atenção","Por favor, avalie o banheiro!", "warning");
+        if (nomelocal == "") return swal("Atenção", "O nome do local não pode ficar em branco!", "warning");
+        if (endereco == "") return swal("Atenção","O endereço não pode ficar em branco!", "warning");
+        if (rating == null) return swal("Atenção","Por favor, avalie o banheiro!", "warning");
 
-      const response = await axios.post("http://192.241.133.153/adicionarbanheiro", {
-        nome: nome,
-        nomelocal: nomelocal,
-        endereco: endereco,
-        observacao:observacao,
-        avaliacao: avaliacao,
-        informacao: informacao,
-        latitude: valorlat,
-        longitude: valorlong
-      });
+        const response = await axios.post("https://cors-anywhere.herokuapp.com/http://192.241.133.153/adicionarbanheiro", {
+          nome: nome,
+          nomelocal: nomelocal,
+          endereco: endereco,
+          observacao:observacao,
+          avaliacao: avaliacao,
+          informacao: informacao,
+          latitude: valorlat,
+          longitude: valorlong
+        });
 
-      console.log(response.data);
+        console.log(response.data);
 
-      if (response.data.affectedRows == "1") {
-        swal("Obrigado","Banheiro adicionado com sucesso!", "success");
-        $(':input', '#contacts')
-        .not(':button, :submit, :reset, :hidden')
-        .val('')
-        .removeAttr('checked')
-        .removeAttr('selected');
-        $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>");
-      }else{
-        swal("Erro","Ocorreu um problema ao adicionar, tente novamente!", "error");
-        $(':input', '#contacts')
-        .not(':button, :submit, :reset, :hidden')
-        .val('')
-        .removeAttr('checked')
-        .removeAttr('selected');
-        $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>");
+        if (response.data.affectedRows == "1") {
+          swal("Obrigado","Banheiro adicionado com sucesso!", "success");
+          $(':input', '#contacts')
+          .not(':button, :submit, :reset, :hidden')
+          .val('')
+          .removeAttr('checked')
+          .removeAttr('selected');
+          $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>");
+        }else{
+          swal("Erro","Ocorreu um problema ao adicionar, tente novamente!", "error");
+          $(':input', '#contacts')
+          .not(':button, :submit, :reset, :hidden')
+          .val('')
+          .removeAttr('checked')
+          .removeAttr('selected');
+          $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>");
+        }
       }
-      }
-      </script>
-      </body>
-      </html>
+    </script>
+</body>
+</html>
