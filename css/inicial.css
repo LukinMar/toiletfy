@@ -2196,3 +2196,18 @@ textarea {
   }
 }
 
+.swal-text{
+  text-align: center;
+}
+
+.swal-button{
+  background-color: #8e3dbc !important; 
+}
+
+.swal-button:hover{
+  background-color:  #96c !important;
+}
+
+.swal-button:active {
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px inset;
+}
