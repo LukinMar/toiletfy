@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png"/>
-    <link rel="stylesheet" type="text/css" href="css/formulario.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link inline rel="stylesheet" type="text/css" href="css/formulario.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
     <meta name="theme-color" content="#8e3dbc" />
@@ -62,9 +63,27 @@
           <input id="nomelocal" class="input-field" name="nomelocal" placeholder="Nome do local" type="text" tabindex="2" required autocomplete="off"/>
         </fieldset>
         <fieldset class="fs">
-          <input  class="input-field localizacao" name="endereco" id="endereco"  type="text"  placeholder="Endereço"  readonly tabindex="3" required>
+          <input  class="input-field  localizacao" name="endereco" id="endereco"  type="text"  placeholder="Endereço"  readonly tabindex="3" required>
           <div class="location" id="showMe" title="Usar minha localização"></div>
+          <button type="button" class="waves-effect waves-light btn center-align procurar" title="Procurar local no mapa"><i class="material-icons left">search</i>Procurar no mapa</button>
+          <div class="pesquisarmapa">
+          <div class="content">
+          <div id="map"></div>
+          </div>
+          </div>
           <div id="mapa" style="width:10%; height:10%"></div>
+        </fieldset>
+        <fieldset class="fs">
+          <div class="input-field col s12">
+          <select multiple id="categoria">
+           
+            <option value="Banheiro sujo; ">Banheiro sujo; </option>
+            <option value="Banheiro sem material; ">Banheiro sem material (sabão, papel higiênico); </option>
+            <option value="Avaliação incorreta; ">Avaliação incorreta; </option>
+            <option value="Localização do banheiro incorreta">Localização do banheiro incorreta; </option>
+          </select>
+          <label>Selecione a categoria do problema</label>
+        </div>
         </fieldset>
         <fieldset class="fs">
           <textarea class="input-field" name="descricao" placeholder="Descrição do problema" id="descricao" tabindex="4" required></textarea>
@@ -82,9 +101,11 @@
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjpzomu3rr8iX1yMYdOgkevViVGzsbGLU"></script>
     <script src="js/marcador.js"></script>
+    <script src="js/map.js"></script>
     <script src="js/materialize.js"></script>
     <script src="js/init.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
+
     <script>
       async function reportar() {
         var nome = document.getElementById("nome").value;
@@ -93,6 +114,9 @@
         var descricao = document.getElementById("descricao").value;
         var valorlat = document.getElementById("valorlat").value;
         var valorlong = document.getElementById("valorlong").value;
+        var categorias = $('#categoria option:selected').text();
+
+        console.log(categorias);
 
         const response = await axios.post("https://cors-anywhere.herokuapp.com/http://192.241.133.153/reportar", {
           nome: nome,
@@ -100,12 +124,16 @@
           endereco: endereco,
           descricao: descricao,
           latitude: valorlat,
-          longitude: valorlong
+          longitude: valorlong,
+          categorias: categorias
+
         });
 
-        if(nomelocal == "") return swal("Atenção", "O nome do local não pode ficar em branco!", "warning");
-        if(endereco == "") return swal("Atenção","O endereço não pode ficar em branco!", "warning");
+        if (nomelocal == "") return swal("Atenção", "O nome do local não pode ficar em branco!", "warning");
+        if (endereco == "") return swal("Atenção","O endereço não pode ficar em branco!", "warning");
+        if (categorias == "") return swal ("Atenção", "Por favor, diga a categoria do problema!", "warning");
         if (descricao == "") return swal("Atenção","Por favor, informe o problema!", "warning");
+        
 
         console.log(response.data);
         
@@ -125,6 +153,14 @@
           .removeAttr('selected');
         }
       }
+
+  $(document).ready(function(){
+    $('select').formSelect();
+  });
+  
+  $(".procurar").click(function(){
+    $(".content").slideToggle("fast");
+  });
     </script>
   </body>
 </html>
