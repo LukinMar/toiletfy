@@ -90,7 +90,7 @@ function addYourLocationButton(map, marker) {
 }
 
 async function pegarBanheirosProximos (latitude, longitude){
-  const result = await axios.post('http://192.241.133.153/alexa', {
+  const result = await axios.post('https://cors-anywhere.herokuapp.com/http://192.241.133.153/alexa', {
     "latUser": latitude, 
     "lngUser": longitude
   });
