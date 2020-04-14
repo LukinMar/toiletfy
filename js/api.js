@@ -7,27 +7,26 @@ const mysql = require("mysql");
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-// Add headers
+
 app.use(function(req, res, next) {
-  // Website you wish to allow to connect
+
   res.setHeader("Access-Control-Allow-Origin", "*");
-  // Request methods you wish to allow
+
   res.setHeader(
     "Access-Control-Allow-Methods",
     "GET, POST, OPTIONS, PUT, PATCH, DELETE"
   );
-  // Request headers you wish to allow
+
   res.setHeader(
     "Access-Control-Allow-Headers",
     "X-Requested-With, content-type"
   );
-  // Set to true if you need the website to include cookies in the requests sent
-  // to the API (e.g. in case you use sessions)
+
   res.setHeader("Access-Control-Allow-Credentials", true);
-  // Pass to next layer of middleware
+
   next();
 });
-//definindo as rotas
+
 const router = express.Router();
 router.get("/banheiros", (req, res) => {
   execSQLQuery("SELECT Id, Latitude, Longitude, Descricao FROM banheiros", res);
@@ -68,7 +67,7 @@ router.post("/alexa", (req, res) => {
   var latUser = req.body.latUser;
   var lngUser = req.body.lngUser;
   const dist = 10;
-  execSQLQuery(`SELECT nomelocal,endereco,informacao,avaliacao, (6371 * acos(cos(radians(${latUser})) * cos(radians(latitude)) * cos(radians(longitude) - radians(${lngUser}) ) + sin(radians(${latUser})) * sin(radians(latitude)))) AS distancia FROM banheiros HAVING distancia < ${dist} ORDER BY distancia`, res);
+  execSQLQuery(`SELECT latitude, longitude, nomelocal, endereco, informacao, avaliacao, (6371 * acos(cos(radians(${latUser})) * cos(radians(latitude)) * cos(radians(longitude) - radians(${lngUser}) ) + sin(radians(${latUser})) * sin(radians(latitude)))) AS distancia FROM banheiros HAVING distancia < ${dist} ORDER BY distancia`, res);
 });
 
 router.post("/reportar", (req, res) => {
@@ -76,30 +75,30 @@ router.post("/reportar", (req, res) => {
   const endereco = req.body.endereco.substring(0, 300);
   const latitude = req.body.latitude.substring(0, 10);
   const longitude = req.body.longitude.substring(0, 11);
+  const categorias = req.body.categorias.substring(0, 100);
   const descricao = req.body.descricao.substring(0, 700);
   execSQLQuery(
-    `INSERT INTO erros (latitude, longitude, descricao, nomelocal, endereco) VALUES ('${latitude}','${longitude}','${descricao}','${nomelocal}','${endereco}')`,
+    `INSERT INTO erros (latitude, longitude, descricao, nomelocal, categorias, endereco) VALUES ('${latitude}','${longitude}','${descricao}','${nomelocal}','${categorias}','${endereco}')`,
     res
   );
 });
 
-//The 404 Route (ALWAYS Keep this as the last route)
+
 router.get('*', function (req, res) {
 	res.status(404).send('Página não encontrada!');
 });
 
 app.use("/", router);
 
-//inicia o servidor
 app.listen(port);
 
 console.log("API funcionando!");
 
 function execSQLQuery(sqlQry, res) {
   const connection = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    password: "",
+    host: "mysql.toiletfy.kinghost.net",
+    user: "toiletfy",
+    password: "320798lucas",
     database: "toiletfy"
   });
 
