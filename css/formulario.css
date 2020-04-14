@@ -304,11 +304,6 @@ input[type="radio"]:checked + span:after {
   color: #fff !important;
 }
 
-.swal-text{
-  text-align: center;
-
-}
-
 .btn,
 .btn-flat,
 .btn-large,
@@ -2678,8 +2673,8 @@ textarea {
   top: 0;
   width: 20px;
   height: 20px;
-  border: 2px solid #8e3dbc;
-  background-color: #8e3dbc;
+  border: 2px solid #8e3dbc !important;
+  background-color: #8e3dbc !important;
   z-index: 0;
 }
 .sidenav-overlay {
@@ -2728,6 +2723,10 @@ textarea {
   display:none;
 }
 
+.swal-text{
+  text-align: center;
+}
+
 .swal-button{
   background-color: #8e3dbc !important; 
 }
@@ -2738,4 +2737,36 @@ textarea {
 
 .swal-button:active {
   box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px inset;
+}
+
+
+select:focus {
+  border-bottom: 2px solid #8e3dbc !important;
+}
+
+option{
+    font-size: 14px !important;
+    display: block !important;
+    line-height: 22px !important;
+    padding: 14px 16px !important;
+}
+
+option:not(.browser-default) {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+[type="checkbox"]:checked+span:not(.lever):before{
+  border-top: 2px solid transparent;
+     border-left: 2px solid transparent;
+     border-right: 2px solid #8e3dbc !important;
+     border-bottom: 2px solid #8e3dbc !important;
+ }
+
+ .select-wrapper+label {
+  position: absolute; 
+  font-size: .8rem !important;
+  opacity: 0.25 !important;
+  top: -20px !important;
+  font: 400 12px/16px Roboto, Helvetica, Arial, sans-serif !important;
 }
