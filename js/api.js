@@ -66,7 +66,7 @@ router.post("/alexa", (req, res) => {
   var lngUser = req.body.lngUser;
   const dist = 10;
   execSQLQuery(
-    `SELECT latitude, longitude, nomelocal, endereco, informacao, avaliacao, (6371 * acos(cos(radians(${latUser})) * cos(radians(latitude)) * cos(radians(longitude) - radians(${lngUser}) ) + sin(radians(${latUser})) * sin(radians(latitude)))) AS distancia FROM banheiros HAVING distancia < ${dist} ORDER BY distancia`,
+    `SELECT latitude, longitude, nomelocal, endereco, informacao, observacao, avaliacao, (6371 * acos(cos(radians(${latUser})) * cos(radians(latitude)) * cos(radians(longitude) - radians(${lngUser}) ) + sin(radians(${latUser})) * sin(radians(latitude)))) AS distancia FROM banheiros HAVING distancia < ${dist} ORDER BY distancia`,
     res
   );
 });
