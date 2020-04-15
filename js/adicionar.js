@@ -43,7 +43,7 @@ $('#inputavaliacao').val(avaliacao)
       informacao = "<img src=''img/money.png'' width=''120px'' title=''Necessita pagamento''  alt=''Necessita pagamento''>"
     } 
     else if ($('#adaptado').is(':checked')){
-      informacao = "<img src=''img/PCD.png'' width=''120px'' title=''Possui banheiro adaptado'' alt=''Possui banheiro adaptado''>"
+      informacao = "<img src=''img/pcd.png'' width=''120px'' title=''Possui banheiro adaptado'' alt=''Possui banheiro adaptado''>"
     } 
     else if ($('#fraldario').is(':checked')){
       informacao = "<img src=''img/fraldario.png'' width=''120px'' title=''Possui fraldário'' alt=''Possui fraldário''>"

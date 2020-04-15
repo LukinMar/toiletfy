@@ -90,7 +90,7 @@ function addYourLocationButton(map, marker) {
 }
 
 async function pegarBanheirosProximos (latitude, longitude){
-  const result = await axios.post('https://cors-anywhere.herokuapp.com/http://192.241.133.153/alexa', {
+  const result = await axios.post('https://toiletfy.com.br/alexa', {
     "latUser": latitude, 
     "lngUser": longitude
   });
@@ -356,7 +356,7 @@ function abrirInfoBox(e, o) {
     (idInfoBoxAberto = e);
 }
 function carregarPontos() {
-  $.getJSON("https://cors-anywhere.herokuapp.com/http://192.241.133.153/banheiros", function(e) {
+  $.getJSON("https://toiletfy.com.br/banheiros", function (e) {
     var r = new google.maps.LatLngBounds();
     $.each(e, function (e, o) {
       var t = new google.maps.Marker({

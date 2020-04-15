@@ -1,15 +1,13 @@
 const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
-const port = 3000;
+const port = 21017;
 const mysql = require("mysql");
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-
-app.use(function(req, res, next) {
-
+app.use(function (req, res, next) {
   res.setHeader("Access-Control-Allow-Origin", "*");
 
   res.setHeader(
@@ -67,7 +65,10 @@ router.post("/alexa", (req, res) => {
   var latUser = req.body.latUser;
   var lngUser = req.body.lngUser;
   const dist = 10;
-  execSQLQuery(`SELECT latitude, longitude, nomelocal, endereco, informacao, avaliacao, (6371 * acos(cos(radians(${latUser})) * cos(radians(latitude)) * cos(radians(longitude) - radians(${lngUser}) ) + sin(radians(${latUser})) * sin(radians(latitude)))) AS distancia FROM banheiros HAVING distancia < ${dist} ORDER BY distancia`, res);
+  execSQLQuery(
+    `SELECT latitude, longitude, nomelocal, endereco, informacao, avaliacao, (6371 * acos(cos(radians(${latUser})) * cos(radians(latitude)) * cos(radians(longitude) - radians(${lngUser}) ) + sin(radians(${latUser})) * sin(radians(latitude)))) AS distancia FROM banheiros HAVING distancia < ${dist} ORDER BY distancia`,
+    res
+  );
 });
 
 router.post("/reportar", (req, res) => {
@@ -83,9 +84,8 @@ router.post("/reportar", (req, res) => {
   );
 });
 
-
-router.get('*', function (req, res) {
-	res.status(404).send('Página não encontrada!');
+router.get("*", function (req, res) {
+  res.status(404).send("Página não encontrada!");
 });
 
 app.use("/", router);
@@ -96,13 +96,13 @@ console.log("API funcionando!");
 
 function execSQLQuery(sqlQry, res) {
   const connection = mysql.createConnection({
-    host: "mysql.toiletfy.kinghost.net",
+    host: "mysql18-farm76.kinghost.net",
     user: "toiletfy",
     password: "320798lucas",
-    database: "toiletfy"
+    database: "toiletfy",
   });
 
-  connection.query(sqlQry, function(error, results, fields) {
+  connection.query(sqlQry, function (error, results, fields) {
     if (error) res.json(error);
     else res.json(results);
     connection.end();
