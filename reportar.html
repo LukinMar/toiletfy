@@ -76,11 +76,10 @@
         <fieldset class="fs">
           <div class="input-field col s12">
           <select multiple id="categoria">
-           
-            <option value="Banheiro sujo; ">Banheiro sujo; </option>
-            <option value="Banheiro sem material; ">Banheiro sem material (sabão, papel higiênico); </option>
-            <option value="Avaliação incorreta; ">Avaliação incorreta; </option>
-            <option value="Localização do banheiro incorreta">Localização do banheiro incorreta; </option>
+            <option value="Banheiro sujo">Banheiro sujo</option>
+            <option value=" Banheiro sem material">Banheiro sem material (sabão, papel higiênico)</option>
+            <option value=" Avaliação incorreta">Avaliação incorreta</option>
+            <option value=" Localização do banheiro incorreta">Localização do banheiro incorreta</option>
           </select>
           <label>Selecione a categoria do problema</label>
         </div>
@@ -114,11 +113,10 @@
         var descricao = document.getElementById("descricao").value;
         var valorlat = document.getElementById("valorlat").value;
         var valorlong = document.getElementById("valorlong").value;
-        var categorias = $('#categoria option:selected').text();
+        var categoria = $('#categoria').val();
+        var categorias = categoria.toString()
 
-        console.log(categorias);
-
-        const response = await axios.post("hhttps://toiletfy.com.br/reportar", {
+        const response = await axios.post("https://toiletfy.com.br/reportar", {
           nome: nome,
           nomelocal: nomelocal,
           endereco: endereco,
@@ -144,6 +142,7 @@
           .val('')
           .removeAttr('checked')
           .removeAttr('selected');
+          $("option:selected").prop("selected", false)
         }else{
           swal("Erro","Ocorreu um problema ao reportar, tente novamente!", "error");
           $(':input', '#contacts')
@@ -151,6 +150,7 @@
           .val('')
           .removeAttr('checked')
           .removeAttr('selected');
+          $("option:selected").prop("selected", false)
         }
       }
 
