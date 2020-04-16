@@ -2769,4 +2769,6 @@ option:not(.browser-default) {
   font: 400 12px/16px Roboto, Helvetica, Arial, sans-serif !important;
 }
 
-
+.select-dropdown li.disabled{
+  display:none !important;
+}
