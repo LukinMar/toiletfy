@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
-const port = 21017;
+const port = 3000;
 const mysql = require("mysql");
 
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -96,9 +96,9 @@ console.log("API funcionando!");
 
 function execSQLQuery(sqlQry, res) {
   const connection = mysql.createConnection({
-    host: "mysql18-farm76.kinghost.net",
-    user: "toiletfy",
-    password: "320798lucas",
+    host: "localhost",
+    user: "root",
+    password: "",
     database: "toiletfy",
   });
 
