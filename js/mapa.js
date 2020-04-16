@@ -34,7 +34,7 @@ function addYourLocationButton(map, marker) {
   firstChild.style.outline = "none";
   firstChild.style.width = "40px";
   firstChild.style.height = "40px";
-  firstChild.style.borderRadius = "2px";
+  firstChild.style.borderRadius = "8px";
   firstChild.style.boxShadow = "0 1px 4px rgba(0,0,0,0.3)";
   firstChild.style.cursor = "pointer";
   firstChild.style.marginRight = "10px";
@@ -112,7 +112,7 @@ function emergencyButton(map, marker) {
   buttonEmergency.style.outline = "none";
   buttonEmergency.style.width = "40px";
   buttonEmergency.style.height = "40px";
-  buttonEmergency.style.borderRadius = "2px";
+  buttonEmergency.style.borderRadius = "8px";
   buttonEmergency.style.cursor = "pointer";
   buttonEmergency.style.marginRight = "10px";
   buttonEmergency.style.marginBottom = "12px";
@@ -163,7 +163,6 @@ function emergencyButton(map, marker) {
          // markerEmergency.setPosition(latlng);
           map.setCenter(latlng);
           map.setZoom(19);
-          marker.setVisible(false);
           clearInterval(animationInterval);
           $("#emergency_div").css("background-color", "#FF473D");
           $("#emergency_id").css("background-position", "-143px 0px");
