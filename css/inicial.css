@@ -2198,6 +2198,7 @@ textarea {
 
 .swal-text{
   text-align: center;
+  font-size: 15px;
 }
 
 .swal-button{
@@ -2210,4 +2211,28 @@ textarea {
 
 .swal-button:active {
   box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px inset;
+}
+
+.gm-svpc{
+  border-radius: 8px !important;
+}
+
+.gm-svpc img{
+  height:26px !important;
+}
+
+.gm-control-active{
+  border-radius: 8px !important;
+}
+
+button.gm-control-active img{
+height: 15px !important;
+}
+
+#mapa div{
+  border-radius: 8px !important;
+}
+
+#mapa  div .gm-style-cc{
+  opacity: 0;
 }
