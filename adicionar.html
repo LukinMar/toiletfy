@@ -7,11 +7,11 @@
     <meta name="theme-color" content="#8e3dbc">
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
-    <link rel="stylesheet" type="text/css" href="css/formulario.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link inline rel="stylesheet" type="text/css" href="css/formulario.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet"/>
     <script src="https://kit.fontawesome.com/e97cfc6afc.js"></script>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
     <title>Adicionar banheiro</title>
   </head>
   <body>
@@ -83,21 +83,36 @@
           <p>
           <label>
             <input type="checkbox" class="filled-in checkbox1 informacoes" name="informacoes[]" value="Necessita pagamento para usar" id="pagamento"> 
-            <span>Necessita pagamento para usar <i class="fas fa-money-bill-alt green"></i></span>
+            <span>Necessita pagamento para usar <i class="fas fa-money-bill-alt money"></i></span>
           </label>
         </p>
         <p>
           <label>
             <input type="checkbox" class="filled-in checkbox1 informacoes"  name="informacoes[]" value="Banheiro adaptado para PcD" id="adaptado"> 
-            <span>Banheiro adaptado para PcD  <i class="fab fa-accessible-icon blue"></i></span>
+            <span>Banheiro adaptado para PcD  <i class="fab fa-accessible-icon pcd"></i></span>
           </label>
         </p>
         <p>
           <label>
             <input type="checkbox" class="filled-in checkbox1 informacoes"  name="informacoes[]" value="Possui fraldário" id="fraldario"> 
-            <span>Possui fraldário <i class="fas fa-baby pink"></i></span>
+            <span>Possui fraldário <i class="fas fa-baby fraldario"></i></span>
           </label>
         </p>
+        </fieldset>
+        <fieldset class="fs">
+          <div class="input-field col s12">
+            <select id="horario">
+              <option disabled selected>Selecione o horário de funcionamento do banheiro</option>
+              <option value="7h às 21h">7h às 21h</option>
+              <option value="7h às 22h">7h às 22h</option>
+              <option value="8h às 21h">8h às 21h</option>
+              <option value="9h às 18h">9h às 18h</option>
+              <option value="10h às 22h">10h às 22h</option>
+              <option value="24h">24h</option>
+              <option value="Sem informação sobre o horário de funcionamento do banheiro">Sem informação sobre o horário de funcionamento do banheiro</option>
+            </select>
+            <label>Horário de Funcionamento</label>
+          </div>
         </fieldset>
         <fieldset class="fs star" id="legend">
         <legend>Avaliação</legend>
@@ -135,21 +150,33 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
     <script>
 
+      $(document).ready(function(){
+          $('select').formSelect();
+        });
+
       var textarea = $("#textarea1").clone();
 
       async function adicionar() {
         var nome = document.getElementById("nome").value;
         var nomelocal = document.getElementById("nomelocal").value;
         var endereco = document.getElementById("endereco").value;
-        var observacao = document.getElementById("obs").value;
+        var horario =  $('#horario').val();
+        var infohorarios = "<br><br> Horário de funcionamento: " + horario;
+        var observacao = document.getElementById("obs").value + infohorarios;
         var avaliacao = document.getElementById("inputavaliacao").value;
         var informacao = document.getElementById("textarea1").value;
         var valorlat = document.getElementById("valorlat").value;
         var valorlong = document.getElementById("valorlong").value;
         var rating = $('input[name="star"]:checked').val();
 
+        console.log(infohorarios);
+
+        console.log(observacao);
+
+
         if (nomelocal == "") return swal("Atenção", "O nome do local não pode ficar em branco!", "warning");
         if (endereco == "") return swal("Atenção","O endereço não pode ficar em branco!", "warning");
+        if (horario == null) return swal("Atenção","Por favor, informe o horário de funcionamento do banheiro!", "warning");
         if (rating == null) return swal("Atenção","Por favor, avalie o banheiro!", "warning");
 
         const response = await axios.post("https://toiletfy.com.br/adicionarbanheiro", {
@@ -173,6 +200,7 @@
           .removeAttr('checked')
           .removeAttr('selected');
           $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>");
+          $('#horario').prop('selectedIndex',0);
         }else{
           swal("Erro","Ocorreu um problema ao adicionar, tente novamente!", "error");
           $(':input', '#contacts')
@@ -181,6 +209,8 @@
           .removeAttr('checked')
           .removeAttr('selected');
           $('#textarea1').val("<img src=''img/seminfo.png'' width=''120px'' title='' '' alt='' ''>");
+          $('#horario').prop('selectedIndex',0);
+
         }
       }
     </script>
