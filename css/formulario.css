@@ -2572,17 +2572,17 @@ textarea {
   }
 }
 
-.green {
+.money {
   color: #85bb65;
   font-size: 20px;
 }
 
-.blue {
+.pcd {
   color: #4263eb;
   font-size: 20px;
 }
 
-.pink {
+.fraldario {
   color: #f06595;
   font-size: 20px;
 }
@@ -2754,13 +2754,6 @@ option:not(.browser-default) {
   list-style-type: none;
 }
 
-[type="checkbox"]:checked + span:not(.lever):before {
-  border-top: 2px solid transparent;
-  border-left: 2px solid transparent;
-  border-right: 2px solid #8e3dbc !important;
-  border-bottom: 2px solid #8e3dbc !important;
-}
-
 .select-wrapper + label {
   position: absolute;
   font-size: 0.8rem !important;
@@ -2769,6 +2762,10 @@ option:not(.browser-default) {
   font: 400 12px/16px Roboto, Helvetica, Arial, sans-serif !important;
 }
 
-.select-dropdown li.disabled{
-  display:none !important;
+.dropdown-content li>a, .dropdown-content li>span {
+  color: black !important;
+}
+
+select{
+  display: none;
 }
