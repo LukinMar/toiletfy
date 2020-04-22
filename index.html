@@ -9,6 +9,8 @@
     <meta name="theme-color" content="#8e3dbc" />
     <link rel="stylesheet" type="text/css" href="css/inicial.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <script src="https://kit.fontawesome.com/e97cfc6afc.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <title>ToiletFY</title>
     </head>
   <body>
@@ -21,11 +23,17 @@
         <a class="brand-logo center">ToiletFY</a>
         <ul class="right hide-on-med-and-down">
           <li>
-            <a><i class="material-icons pesquisar" title="Pesquisar no ToiletFY">search</i></a>
             <div class="container">
-            <div class="content">
-              <input id="pac-input" class="controls" type="text" placeholder="Pesquise no ToiletFY">
-            </div>
+              <div class="content">
+                <input id="pac-input" class="search-web" type="text" placeholder="Pesquise no ToiletFY">
+              </div>
+              </div>
+          </li>
+          <li>
+            <a>
+              <i class="material-icons pesquisar icon-pesquisar" title="Pesquisar no ToiletFY">search</i>
+              <i class="material-icons pesquisar icon-fechar" title="Fechar">close</i>
+            </a>
           </li>
           <li>
             <a href="adicionar.html" title="Adicionar banheiro" ><i class="material-icons">add_location</i></a>
@@ -64,10 +72,12 @@
         </ul>
         <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
         <a href="javascript:location.reload()"><i class="material-icons recarregar">refresh</i></a>
-        <a><i class="material-icons pesquisar-mobile">search</i></a>
+        <a><i class="material-icons pesquisar-mobile icon-pesquisar">search</i>
+          <i class="material-icons pesquisar-mobile icon-fechar" title="Fechar">close</i>
+        </a>
         <div class="container">
           <div class="content-mobile">
-            <input id="pac-input-mobile" class="controls" type="text" placeholder="Pesquise no ToiletFY">
+            <input id="pac-input-mobile" class="search-mobile" type="text" placeholder="Pesquise no ToiletFY">
           </div>
       </div>
     </nav>
@@ -89,11 +99,19 @@
       });
 
       $(".pesquisar-mobile").click(function () {
-        $(".content-mobile").slideToggle("slow");
+        $(".content-mobile").animate({height: 'toggle'},350, function(){
+          $(this).find('input')[0].focus();
+          $(this).find('input').val('');
+          $(".pesquisar-mobile").toggleClass("icon-fechar icon-pesquisar");
+        });
         });
 
         $(".pesquisar").click(function () {
-        $(".content").slideToggle("slow");
+          $('.content').animate({width: 'toggle'},200, function(){
+          $(this).find('input')[0].focus();
+          $(this).find('input').val('');
+          $(".pesquisar").toggleClass("icon-fechar icon-pesquisar");
+        });
         });
     </script>
   </body>
