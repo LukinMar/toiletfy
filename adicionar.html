@@ -103,13 +103,17 @@
           <div class="input-field col s12">
             <select id="horario">
               <option disabled selected>Selecione o horário de funcionamento do banheiro</option>
+              <option value="5h às 00h">5h às 00h</option>
               <option value="7h às 21h">7h às 21h</option>
               <option value="7h às 22h">7h às 22h</option>
               <option value="8h às 21h">8h às 21h</option>
+              <option value="8h às 22h">8h às 22h</option>
               <option value="9h às 18h">9h às 18h</option>
+              <option value="9h às 23h">9h às 23h</option>
+              <option value="10h às 20h">10h às 20h</option>
               <option value="10h às 22h">10h às 22h</option>
               <option value="24h">24h</option>
-              <option value="Sem informação sobre o horário de funcionamento do banheiro">Sem informação sobre o horário de funcionamento do banheiro</option>
+              <option value="Sem informação sobre o horário de funcionamento">Sem informação sobre o horário de funcionamento</option>
             </select>
             <label>Horário de Funcionamento</label>
           </div>
@@ -149,7 +153,6 @@
     <script src="js/init.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
     <script>
-
       $(document).ready(function(){
           $('select').formSelect();
         });
@@ -179,7 +182,7 @@
         if (horario == null) return swal("Atenção","Por favor, informe o horário de funcionamento do banheiro!", "warning");
         if (rating == null) return swal("Atenção","Por favor, avalie o banheiro!", "warning");
 
-        const response = await axios.post("https://toiletfy.com.br/adicionarbanheiro", {
+        const response = await axios.post("https://toiletfy.com.br/   adicionarbanheiro", {
           nome: nome,
           nomelocal: nomelocal,
           endereco: endereco,
