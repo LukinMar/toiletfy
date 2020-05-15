@@ -182,7 +182,7 @@
         if (horario == null) return swal("Atenção","Por favor, informe o horário de funcionamento do banheiro!", "warning");
         if (rating == null) return swal("Atenção","Por favor, avalie o banheiro!", "warning");
 
-        const response = await axios.post("https://toiletfy.com.br/   adicionarbanheiro", {
+        const response = await axios.post("https://toiletfy.com.br/adicionarbanheiro", {
           nome: nome,
           nomelocal: nomelocal,
           endereco: endereco,
