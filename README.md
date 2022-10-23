@@ -40,6 +40,7 @@ Pensando nisso, desenvolvi esse aplicativo, como forma de estudo, onde, com o ac
 <td><img src="https://i.imgur.com/YZo2V8r.png" width="210" target="_blank"  alt="Add new bathroom" title="Add new bathroom"></td>
 <td> <img src="https://i.imgur.com/21PhQag.png" width="210" target="_blank"  alt="Report-Issue and Report-Issue-Menu" title="Report-Issue and Report-Issue-Menu"></td>
 </tr>
+
 </table>
 
 <p align="right"><img src="https://i.imgur.com/sQLv1cL.png" width="200" title="Aponte a câmera do seu celular" alt="qrcode-toiletfy"/></p>
